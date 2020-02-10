@@ -1,0 +1,313 @@
+country,year,sex,age,suicides_no,population,suicides_rate,contry_year,hdi_for_year,gdp_for_year,gdp_per_capita,generation
+Germany,1990,male,75+ years,1516,74958800,88.26,Germany1990,0.801,1.76497E+12,23546,G.I. Generation
+Germany,1990,male,55-74 years,2406,74958800,36.49,Germany1990,0.801,1.76497E+12,23546,G.I. Generation
+Germany,1990,male,35-54 years,3302,74958800,29.68,Germany1990,0.801,1.76497E+12,23546,Silent
+Germany,1990,female,75+ years,1174,74958800,29.51,Germany1990,0.801,1.76497E+12,23546,G.I. Generation
+Germany,1990,male,25-34 years,1488,74958800,22.14,Germany1990,0.801,1.76497E+12,23546,Boomers
+Germany,1990,female,55-74 years,1417,74958800,16.6,Germany1990,0.801,1.76497E+12,23546,G.I. Generation
+Germany,1990,male,15-24 years,800,74958800,14.37,Germany1990,0.801,1.76497E+12,23546,Generation X
+Germany,1990,female,35-54 years,1128,74958800,10.5,Germany1990,0.801,1.76497E+12,23546,Silent
+Germany,1990,female,25-34 years,434,74958800,6.86,Germany1990,0.801,1.76497E+12,23546,Boomers
+Germany,1990,female,15-24 years,228,74958800,4.31,Germany1990,0.801,1.76497E+12,23546,Generation X
+Germany,1990,male,5-14 years,22,74958800,0.51,Germany1990,0.801,1.76497E+12,23546,Generation X
+Germany,1990,female,5-14 years,9,74958800,0.22,Germany1990,0.801,1.76497E+12,23546,Generation X
+Germany,1991,male,75+ years,1459,75495900,87.89,Germany1991,,1.86187E+12,24662,G.I. Generation
+Germany,1991,male,55-74 years,2445,75495900,35.73,Germany1991,,1.86187E+12,24662,Silent
+Germany,1991,male,35-54 years,3427,75495900,30.66,Germany1991,,1.86187E+12,24662,Boomers
+Germany,1991,female,75+ years,1153,75495900,29.51,Germany1991,,1.86187E+12,24662,G.I. Generation
+Germany,1991,male,25-34 years,1523,75495900,22,Germany1991,,1.86187E+12,24662,Boomers
+Germany,1991,female,55-74 years,1400,75495900,16.07,Germany1991,,1.86187E+12,24662,Silent
+Germany,1991,male,15-24 years,775,75495900,14.42,Germany1991,,1.86187E+12,24662,Generation X
+Germany,1991,female,35-54 years,1200,75495900,11.13,Germany1991,,1.86187E+12,24662,Boomers
+Germany,1991,female,25-34 years,411,75495900,6.33,Germany1991,,1.86187E+12,24662,Boomers
+Germany,1991,female,15-24 years,185,75495900,3.63,Germany1991,,1.86187E+12,24662,Generation X
+Germany,1991,male,5-14 years,27,75495900,0.62,Germany1991,,1.86187E+12,24662,Millenials
+Germany,1991,female,5-14 years,5,75495900,0.12,Germany1991,,1.86187E+12,24662,Millenials
+Germany,1992,male,75+ years,1395,76131700,87.87,Germany1992,,2.12313E+12,27888,G.I. Generation
+Germany,1992,male,55-74 years,2405,76131700,33.64,Germany1992,,2.12313E+12,27888,Silent
+Germany,1992,female,75+ years,1105,76131700,29.11,Germany1992,,2.12313E+12,27888,G.I. Generation
+Germany,1992,male,35-54 years,3250,76131700,28.88,Germany1992,,2.12313E+12,27888,Boomers
+Germany,1992,male,25-34 years,1576,76131700,22.17,Germany1992,,2.12313E+12,27888,Boomers
+Germany,1992,female,55-74 years,1375,76131700,15.35,Germany1992,,2.12313E+12,27888,Silent
+Germany,1992,male,15-24 years,674,76131700,12.95,Germany1992,,2.12313E+12,27888,Generation X
+Germany,1992,female,35-54 years,1093,76131700,10.09,Germany1992,,2.12313E+12,27888,Boomers
+Germany,1992,female,25-34 years,384,76131700,5.8,Germany1992,,2.12313E+12,27888,Boomers
+Germany,1992,female,15-24 years,163,76131700,3.32,Germany1992,,2.12313E+12,27888,Generation X
+Germany,1992,male,5-14 years,26,76131700,0.58,Germany1992,,2.12313E+12,27888,Millenials
+Germany,1992,female,5-14 years,12,76131700,0.28,Germany1992,,2.12313E+12,27888,Millenials
+Germany,1993,male,75+ years,1296,76793400,85.29,Germany1993,,2.06856E+12,26937,G.I. Generation
+Germany,1993,male,55-74 years,2485,76793400,33.21,Germany1993,,2.06856E+12,26937,Silent
+Germany,1993,male,35-54 years,3033,76793400,26.81,Germany1993,,2.06856E+12,26937,Boomers
+Germany,1993,female,75+ years,884,76793400,23.99,Germany1993,,2.06856E+12,26937,G.I. Generation
+Germany,1993,male,25-34 years,1467,76793400,20.22,Germany1993,,2.06856E+12,26937,Boomers
+Germany,1993,female,55-74 years,1296,76793400,14.03,Germany1993,,2.06856E+12,26937,Silent
+Germany,1993,male,15-24 years,632,76793400,12.52,Germany1993,,2.06856E+12,26937,Generation X
+Germany,1993,female,35-54 years,1009,76793400,9.28,Germany1993,,2.06856E+12,26937,Boomers
+Germany,1993,female,25-34 years,371,76793400,5.51,Germany1993,,2.06856E+12,26937,Boomers
+Germany,1993,female,15-24 years,157,76793400,3.31,Germany1993,,2.06856E+12,26937,Generation X
+Germany,1993,male,5-14 years,47,76793400,1.03,Germany1993,,2.06856E+12,26937,Millenials
+Germany,1993,female,5-14 years,13,76793400,0.3,Germany1993,,2.06856E+12,26937,Millenials
+Germany,1994,male,75+ years,1196,77163400,80.69,Germany1994,,2.20597E+12,28588,G.I. Generation
+Germany,1994,male,55-74 years,2527,77163400,32.4,Germany1994,,2.20597E+12,28588,Silent
+Germany,1994,male,35-54 years,3154,77163400,27.88,Germany1994,,2.20597E+12,28588,Boomers
+Germany,1994,female,75+ years,819,77163400,22.55,Germany1994,,2.20597E+12,28588,G.I. Generation
+Germany,1994,male,25-34 years,1541,77163400,21.13,Germany1994,,2.20597E+12,28588,Boomers
+Germany,1994,male,15-24 years,682,77163400,14.02,Germany1994,,2.20597E+12,28588,Generation X
+Germany,1994,female,55-74 years,1261,77163400,13.31,Germany1994,,2.20597E+12,28588,Silent
+Germany,1994,female,35-54 years,971,77163400,8.91,Germany1994,,2.20597E+12,28588,Boomers
+Germany,1994,female,25-34 years,350,77163400,5.16,Germany1994,,2.20597E+12,28588,Boomers
+Germany,1994,female,15-24 years,170,77163400,3.7,Germany1994,,2.20597E+12,28588,Generation X
+Germany,1994,male,5-14 years,30,77163400,0.65,Germany1994,,2.20597E+12,28588,Millenials
+Germany,1994,female,5-14 years,17,77163400,0.39,Germany1994,,2.20597E+12,28588,Millenials
+Germany,1995,male,75+ years,1254,77547500,83.26,Germany1995,0.83,2.59162E+12,33420,G.I. Generation
+Germany,1995,male,55-74 years,2597,77547500,32.12,Germany1995,0.83,2.59162E+12,33420,Silent
+Germany,1995,male,35-54 years,3251,77547500,28.68,Germany1995,0.83,2.59162E+12,33420,Boomers
+Germany,1995,female,75+ years,884,77547500,23.94,Germany1995,0.83,2.59162E+12,33420,G.I. Generation
+Germany,1995,male,25-34 years,1452,77547500,20.01,Germany1995,0.83,2.59162E+12,33420,Generation X
+Germany,1995,male,15-24 years,630,77547500,13.29,Germany1995,0.83,2.59162E+12,33420,Generation X
+Germany,1995,female,55-74 years,1266,77547500,13.15,Germany1995,0.83,2.59162E+12,33420,Silent
+Germany,1995,female,35-54 years,983,77547500,9.01,Germany1995,0.83,2.59162E+12,33420,Boomers
+Germany,1995,female,25-34 years,343,77547500,5.08,Germany1995,0.83,2.59162E+12,33420,Generation X
+Germany,1995,female,15-24 years,176,77547500,3.92,Germany1995,0.83,2.59162E+12,33420,Generation X
+Germany,1995,male,5-14 years,38,77547500,0.81,Germany1995,0.83,2.59162E+12,33420,Millenials
+Germany,1995,female,5-14 years,14,77547500,0.31,Germany1995,0.83,2.59162E+12,33420,Millenials
+Germany,1996,male,75+ years,1176,77882500,75.52,Germany1996,,2.50367E+12,32147,G.I. Generation
+Germany,1996,male,55-74 years,2463,77882500,29.6,Germany1996,,2.50367E+12,32147,Silent
+Germany,1996,male,35-54 years,3023,77882500,26.53,Germany1996,,2.50367E+12,32147,Boomers
+Germany,1996,female,75+ years,790,77882500,20.78,Germany1996,,2.50367E+12,32147,G.I. Generation
+Germany,1996,male,25-34 years,1441,77882500,20.12,Germany1996,,2.50367E+12,32147,Generation X
+Germany,1996,female,55-74 years,1249,77882500,12.86,Germany1996,,2.50367E+12,32147,Silent
+Germany,1996,male,15-24 years,589,77882500,12.61,Germany1996,,2.50367E+12,32147,Generation X
+Germany,1996,female,35-54 years,937,77882500,8.54,Germany1996,,2.50367E+12,32147,Boomers
+Germany,1996,female,25-34 years,351,77882500,5.27,Germany1996,,2.50367E+12,32147,Generation X
+Germany,1996,female,15-24 years,157,77882500,3.54,Germany1996,,2.50367E+12,32147,Generation X
+Germany,1996,male,5-14 years,36,77882500,0.76,Germany1996,,2.50367E+12,32147,Millenials
+Germany,1996,female,5-14 years,13,77882500,0.29,Germany1996,,2.50367E+12,32147,Millenials
+Germany,1997,male,75+ years,1135,78067900,70.58,Germany1997,,2.21869E+12,28420,G.I. Generation
+Germany,1997,male,55-74 years,2550,78067900,30.05,Germany1997,,2.21869E+12,28420,Silent
+Germany,1997,male,35-54 years,3177,78067900,27.56,Germany1997,,2.21869E+12,28420,Boomers
+Germany,1997,female,75+ years,802,78067900,20.54,Germany1997,,2.21869E+12,28420,G.I. Generation
+Germany,1997,male,25-34 years,1345,78067900,19.25,Germany1997,,2.21869E+12,28420,Generation X
+Germany,1997,male,15-24 years,600,78067900,12.95,Germany1997,,2.21869E+12,28420,Generation X
+Germany,1997,female,55-74 years,1175,78067900,12.07,Germany1997,,2.21869E+12,28420,Silent
+Germany,1997,female,35-54 years,931,78067900,8.38,Germany1997,,2.21869E+12,28420,Boomers
+Germany,1997,female,25-34 years,363,78067900,5.58,Germany1997,,2.21869E+12,28420,Generation X
+Germany,1997,female,15-24 years,142,78067900,3.22,Germany1997,,2.21869E+12,28420,Generation X
+Germany,1997,male,5-14 years,28,78067900,0.6,Germany1997,,2.21869E+12,28420,Millenials
+Germany,1997,female,5-14 years,8,78067900,0.18,Germany1997,,2.21869E+12,28420,Millenials
+Germany,1998,male,75+ years,1126,78071100,68.33,Germany1998,,2.24323E+12,28733,G.I. Generation
+Germany,1998,male,55-74 years,2542,78071100,29.55,Germany1998,,2.24323E+12,28733,Silent
+Germany,1998,male,35-54 years,3039,78071100,25.96,Germany1998,,2.24323E+12,28733,Boomers
+Germany,1998,male,25-34 years,1251,78071100,18.64,Germany1998,,2.24323E+12,28733,Generation X
+Germany,1998,female,75+ years,701,78071100,17.63,Germany1998,,2.24323E+12,28733,G.I. Generation
+Germany,1998,male,15-24 years,589,78071100,12.71,Germany1998,,2.24323E+12,28733,Generation X
+Germany,1998,female,55-74 years,1048,78071100,10.78,Germany1998,,2.24323E+12,28733,Silent
+Germany,1998,female,35-54 years,855,78071100,7.57,Germany1998,,2.24323E+12,28733,Boomers
+Germany,1998,female,25-34 years,298,78071100,4.74,Germany1998,,2.24323E+12,28733,Generation X
+Germany,1998,female,15-24 years,155,78071100,3.51,Germany1998,,2.24323E+12,28733,Generation X
+Germany,1998,male,5-14 years,34,78071100,0.73,Germany1998,,2.24323E+12,28733,Millenials
+Germany,1998,female,5-14 years,16,78071100,0.36,Germany1998,,2.24323E+12,28733,Millenials
+Germany,1999,male,75+ years,1045,78141200,62.03,Germany1999,,2.19996E+12,28154,G.I. Generation
+Germany,1999,male,55-74 years,2421,78141200,27.76,Germany1999,,2.19996E+12,28154,Silent
+Germany,1999,male,35-54 years,2863,78141200,24.02,Germany1999,,2.19996E+12,28154,Boomers
+Germany,1999,female,75+ years,749,78141200,18.52,Germany1999,,2.19996E+12,28154,G.I. Generation
+Germany,1999,male,25-34 years,1132,78141200,17.65,Germany1999,,2.19996E+12,28154,Generation X
+Germany,1999,male,15-24 years,595,78141200,12.74,Germany1999,,2.19996E+12,28154,Generation X
+Germany,1999,female,55-74 years,1045,78141200,10.73,Germany1999,,2.19996E+12,28154,Silent
+Germany,1999,female,35-54 years,877,78141200,7.63,Germany1999,,2.19996E+12,28154,Boomers
+Germany,1999,female,25-34 years,265,78141200,4.4,Germany1999,,2.19996E+12,28154,Generation X
+Germany,1999,female,15-24 years,133,78141200,2.99,Germany1999,,2.19996E+12,28154,Generation X
+Germany,1999,male,5-14 years,26,78141200,0.56,Germany1999,,2.19996E+12,28154,Millenials
+Germany,1999,female,5-14 years,9,78141200,0.21,Germany1999,,2.19996E+12,28154,Millenials
+Germany,2000,male,75+ years,1069,78242066,61.5,Germany2000,0.855,1.94995E+12,24922,G.I. Generation
+Germany,2000,male,55-74 years,2528,78242066,28.86,Germany2000,0.855,1.94995E+12,24922,Silent
+Germany,2000,male,35-54 years,2937,78242066,24.07,Germany2000,0.855,1.94995E+12,24922,Boomers
+Germany,2000,female,75+ years,698,78242066,16.96,Germany2000,0.855,1.94995E+12,24922,G.I. Generation
+Germany,2000,male,25-34 years,1002,78242066,16.38,Germany2000,0.855,1.94995E+12,24922,Generation X
+Germany,2000,male,15-24 years,575,78242066,12.21,Germany2000,0.855,1.94995E+12,24922,Generation X
+Germany,2000,female,55-74 years,1020,78242066,10.56,Germany2000,0.855,1.94995E+12,24922,Silent
+Germany,2000,female,35-54 years,834,78242066,7.09,Germany2000,0.855,1.94995E+12,24922,Boomers
+Germany,2000,female,25-34 years,240,78242066,4.15,Germany2000,0.855,1.94995E+12,24922,Generation X
+Germany,2000,female,15-24 years,137,78242066,3.04,Germany2000,0.855,1.94995E+12,24922,Generation X
+Germany,2000,male,5-14 years,25,78242066,0.55,Germany2000,0.855,1.94995E+12,24922,Millenials
+Germany,2000,female,5-14 years,8,78242066,0.18,Germany2000,0.855,1.94995E+12,24922,Millenials
+Germany,2001,male,75+ years,1106,78421514,60.99,Germany2001,,1.95065E+12,24874,Silent
+Germany,2001,male,55-74 years,2415,78421514,27.61,Germany2001,,1.95065E+12,24874,Silent
+Germany,2001,male,35-54 years,3060,78421514,24.43,Germany2001,,1.95065E+12,24874,Boomers
+Germany,2001,female,75+ years,764,78421514,18.22,Germany2001,,1.95065E+12,24874,Silent
+Germany,2001,male,25-34 years,985,78421514,16.84,Germany2001,,1.95065E+12,24874,Generation X
+Germany,2001,male,15-24 years,593,78421514,12.45,Germany2001,,1.95065E+12,24874,Millenials
+Germany,2001,female,55-74 years,983,78421514,10.27,Germany2001,,1.95065E+12,24874,Silent
+Germany,2001,female,35-54 years,868,78421514,7.19,Germany2001,,1.95065E+12,24874,Boomers
+Germany,2001,female,25-34 years,221,78421514,3.98,Germany2001,,1.95065E+12,24874,Generation X
+Germany,2001,female,15-24 years,124,78421514,2.72,Germany2001,,1.95065E+12,24874,Millenials
+Germany,2001,male,5-14 years,37,78421514,0.82,Germany2001,,1.95065E+12,24874,Millenials
+Germany,2001,female,5-14 years,11,78421514,0.26,Germany2001,,1.95065E+12,24874,Millenials
+Germany,2002,male,75+ years,1147,78633771,60.41,Germany2002,,2.07914E+12,26441,Silent
+Germany,2002,male,55-74 years,2354,78633771,26.85,Germany2002,,2.07914E+12,26441,Silent
+Germany,2002,male,35-54 years,3088,78633771,24.17,Germany2002,,2.07914E+12,26441,Boomers
+Germany,2002,female,75+ years,773,78633771,18.18,Germany2002,,2.07914E+12,26441,Silent
+Germany,2002,male,25-34 years,903,78633771,16.08,Germany2002,,2.07914E+12,26441,Generation X
+Germany,2002,male,15-24 years,609,78633771,12.61,Germany2002,,2.07914E+12,26441,Millenials
+Germany,2002,female,55-74 years,1013,78633771,10.63,Germany2002,,2.07914E+12,26441,Silent
+Germany,2002,female,35-54 years,905,78633771,7.34,Germany2002,,2.07914E+12,26441,Boomers
+Germany,2002,female,25-34 years,219,78633771,4.09,Germany2002,,2.07914E+12,26441,Generation X
+Germany,2002,female,15-24 years,141,78633771,3.05,Germany2002,,2.07914E+12,26441,Millenials
+Germany,2002,male,5-14 years,16,78633771,0.36,Germany2002,,2.07914E+12,26441,Millenials
+Germany,2002,female,5-14 years,8,78633771,0.19,Germany2002,,2.07914E+12,26441,Millenials
+Germany,2003,male,75+ years,1187,78756461,59.34,Germany2003,,2.50573E+12,31816,Silent
+Germany,2003,male,55-74 years,2416,78756461,27.44,Germany2003,,2.50573E+12,31816,Silent
+Germany,2003,male,35-54 years,3157,78756461,24.36,Germany2003,,2.50573E+12,31816,Boomers
+Germany,2003,female,75+ years,775,78756461,18.02,Germany2003,,2.50573E+12,31816,Silent
+Germany,2003,male,25-34 years,868,78756461,16.09,Germany2003,,2.50573E+12,31816,Generation X
+Germany,2003,male,15-24 years,537,78756461,11,Germany2003,,2.50573E+12,31816,Millenials
+Germany,2003,female,55-74 years,925,78756461,9.7,Germany2003,,2.50573E+12,31816,Silent
+Germany,2003,female,35-54 years,887,78756461,7.09,Germany2003,,2.50573E+12,31816,Boomers
+Germany,2003,female,25-34 years,225,78756461,4.36,Germany2003,,2.50573E+12,31816,Generation X
+Germany,2003,female,15-24 years,155,78756461,3.31,Germany2003,,2.50573E+12,31816,Millenials
+Germany,2003,male,5-14 years,17,78756461,0.39,Germany2003,,2.50573E+12,31816,Millenials
+Germany,2003,female,5-14 years,6,78756461,0.14,Germany2003,,2.50573E+12,31816,Millenials
+Germany,2004,male,75+ years,1178,78811814,55.76,Germany2004,,2.81925E+12,35772,Silent
+Germany,2004,male,55-74 years,2413,78811814,27.23,Germany2004,,2.81925E+12,35772,Silent
+Germany,2004,male,35-54 years,3001,78811814,22.94,Germany2004,,2.81925E+12,35772,Boomers
+Germany,2004,female,75+ years,746,78811814,17.11,Germany2004,,2.81925E+12,35772,Silent
+Germany,2004,male,25-34 years,820,78811814,15.78,Germany2004,,2.81925E+12,35772,Generation X
+Germany,2004,male,15-24 years,518,78811814,10.52,Germany2004,,2.81925E+12,35772,Millenials
+Germany,2004,female,55-74 years,906,78811814,9.47,Germany2004,,2.81925E+12,35772,Silent
+Germany,2004,female,35-54 years,827,78811814,6.55,Germany2004,,2.81925E+12,35772,Boomers
+Germany,2004,female,25-34 years,180,78811814,3.6,Germany2004,,2.81925E+12,35772,Generation X
+Germany,2004,female,15-24 years,129,78811814,2.73,Germany2004,,2.81925E+12,35772,Millenials
+Germany,2004,male,5-14 years,16,78811814,0.37,Germany2004,,2.81925E+12,35772,Millenials
+Germany,2004,female,5-14 years,7,78811814,0.17,Germany2004,,2.81925E+12,35772,Millenials
+Germany,2005,male,75+ years,1160,78851254,52.12,Germany2005,0.887,2.86141E+12,36289,Silent
+Germany,2005,male,55-74 years,2269,78851254,25.37,Germany2005,0.887,2.86141E+12,36289,Silent
+Germany,2005,male,35-54 years,2875,78851254,21.88,Germany2005,0.887,2.86141E+12,36289,Boomers
+Germany,2005,female,75+ years,664,78851254,15.01,Germany2005,0.887,2.86141E+12,36289,Silent
+Germany,2005,male,25-34 years,730,78851254,14.44,Germany2005,0.887,2.86141E+12,36289,Generation X
+Germany,2005,female,55-74 years,939,78851254,9.75,Germany2005,0.887,2.86141E+12,36289,Silent
+Germany,2005,male,15-24 years,479,78851254,9.7,Germany2005,0.887,2.86141E+12,36289,Millenials
+Germany,2005,female,35-54 years,840,78851254,6.62,Germany2005,0.887,2.86141E+12,36289,Boomers
+Germany,2005,female,25-34 years,171,78851254,3.5,Germany2005,0.887,2.86141E+12,36289,Generation X
+Germany,2005,female,15-24 years,117,78851254,2.47,Germany2005,0.887,2.86141E+12,36289,Millenials
+Germany,2005,male,5-14 years,18,78851254,0.43,Germany2005,0.887,2.86141E+12,36289,Millenials
+Germany,2005,female,5-14 years,8,78851254,0.2,Germany2005,0.887,2.86141E+12,36289,Millenials
+Germany,2006,male,75+ years,1160,78828994,49.81,Germany2006,,3.00245E+12,38088,Silent
+Germany,2006,male,55-74 years,2314,78828994,25.62,Germany2006,,3.00245E+12,38088,Silent
+Germany,2006,male,35-54 years,2653,78828994,20.18,Germany2006,,3.00245E+12,38088,Boomers
+Germany,2006,female,75+ years,611,78828994,13.66,Germany2006,,3.00245E+12,38088,Silent
+Germany,2006,male,25-34 years,629,78828994,12.67,Germany2006,,3.00245E+12,38088,Generation X
+Germany,2006,male,15-24 years,455,78828994,9.24,Germany2006,,3.00245E+12,38088,Millenials
+Germany,2006,female,55-74 years,826,78828994,8.5,Germany2006,,3.00245E+12,38088,Silent
+Germany,2006,female,35-54 years,832,78828994,6.55,Germany2006,,3.00245E+12,38088,Boomers
+Germany,2006,female,25-34 years,154,78828994,3.2,Germany2006,,3.00245E+12,38088,Generation X
+Germany,2006,female,15-24 years,112,78828994,2.37,Germany2006,,3.00245E+12,38088,Millenials
+Germany,2006,male,5-14 years,20,78828994,0.49,Germany2006,,3.00245E+12,38088,Millenials
+Germany,2006,female,5-14 years,9,78828994,0.23,Germany2006,,3.00245E+12,38088,Millenials
+Germany,2007,male,75+ years,1143,78776585,47.28,Germany2007,,3.43995E+12,43667,Silent
+Germany,2007,male,55-74 years,2213,78776585,24.22,Germany2007,,3.43995E+12,43667,Silent
+Germany,2007,male,35-54 years,2539,78776585,19.36,Germany2007,,3.43995E+12,43667,Boomers
+Germany,2007,male,25-34 years,654,78776585,13.31,Germany2007,,3.43995E+12,43667,Generation X
+Germany,2007,female,75+ years,595,78776585,13.21,Germany2007,,3.43995E+12,43667,Silent
+Germany,2007,male,15-24 years,448,78776585,9.19,Germany2007,,3.43995E+12,43667,Millenials
+Germany,2007,female,55-74 years,796,78776585,8.11,Germany2007,,3.43995E+12,43667,Silent
+Germany,2007,female,35-54 years,742,78776585,5.86,Germany2007,,3.43995E+12,43667,Boomers
+Germany,2007,female,25-34 years,145,78776585,3.03,Germany2007,,3.43995E+12,43667,Generation X
+Germany,2007,female,15-24 years,110,78776585,2.35,Germany2007,,3.43995E+12,43667,Millenials
+Germany,2007,male,5-14 years,15,78776585,0.37,Germany2007,,3.43995E+12,43667,Generation Z
+Germany,2007,female,5-14 years,9,78776585,0.23,Germany2007,,3.43995E+12,43667,Generation Z
+Germany,2008,male,75+ years,1149,78662789,46.02,Germany2008,,3.75237E+12,47702,Silent
+Germany,2008,male,55-74 years,2199,78662789,23.8,Germany2008,,3.75237E+12,47702,Silent
+Germany,2008,male,35-54 years,2598,78662789,19.95,Germany2008,,3.75237E+12,47702,Boomers
+Germany,2008,female,75+ years,592,78662789,13.09,Germany2008,,3.75237E+12,47702,Silent
+Germany,2008,male,25-34 years,632,78662789,12.88,Germany2008,,3.75237E+12,47702,Generation X
+Germany,2008,male,15-24 years,456,78662789,9.46,Germany2008,,3.75237E+12,47702,Millenials
+Germany,2008,female,55-74 years,768,78662789,7.74,Germany2008,,3.75237E+12,47702,Silent
+Germany,2008,female,35-54 years,761,78662789,6.05,Germany2008,,3.75237E+12,47702,Boomers
+Germany,2008,female,25-34 years,157,78662789,3.28,Germany2008,,3.75237E+12,47702,Generation X
+Germany,2008,female,15-24 years,130,78662789,2.81,Germany2008,,3.75237E+12,47702,Millenials
+Germany,2008,male,5-14 years,11,78662789,0.28,Germany2008,,3.75237E+12,47702,Generation Z
+Germany,2008,female,5-14 years,6,78662789,0.16,Germany2008,,3.75237E+12,47702,Generation Z
+Germany,2009,male,75+ years,1209,78448602,46.5,Germany2009,,3.41801E+12,43570,Silent
+Germany,2009,male,55-74 years,2277,78448602,24.46,Germany2009,,3.41801E+12,43570,Silent
+Germany,2009,male,35-54 years,2628,78448602,20.42,Germany2009,,3.41801E+12,43570,Boomers
+Germany,2009,male,25-34 years,637,78448602,12.97,Germany2009,,3.41801E+12,43570,Generation X
+Germany,2009,female,75+ years,520,78448602,11.38,Germany2009,,3.41801E+12,43570,Silent
+Germany,2009,male,15-24 years,443,78448602,9.31,Germany2009,,3.41801E+12,43570,Millenials
+Germany,2009,female,55-74 years,789,78448602,7.89,Germany2009,,3.41801E+12,43570,Silent
+Germany,2009,female,35-54 years,788,78448602,6.33,Germany2009,,3.41801E+12,43570,Boomers
+Germany,2009,female,25-34 years,146,78448602,3.05,Germany2009,,3.41801E+12,43570,Generation X
+Germany,2009,female,15-24 years,121,78448602,2.66,Germany2009,,3.41801E+12,43570,Millenials
+Germany,2009,male,5-14 years,12,78448602,0.31,Germany2009,,3.41801E+12,43570,Generation Z
+Germany,2009,female,5-14 years,9,78448602,0.24,Germany2009,,3.41801E+12,43570,Generation Z
+Germany,2010,male,75+ years,1277,78349067,46.56,Germany2010,0.906,3.41709E+12,43614,Silent
+Germany,2010,male,55-74 years,2358,78349067,25.22,Germany2010,0.906,3.41709E+12,43614,Silent
+Germany,2010,male,35-54 years,2605,78349067,20.46,Germany2010,0.906,3.41709E+12,43614,Generation X
+Germany,2010,male,25-34 years,735,78349067,14.88,Germany2010,0.906,3.41709E+12,43614,Generation X
+Germany,2010,female,75+ years,588,78349067,12.59,Germany2010,0.906,3.41709E+12,43614,Silent
+Germany,2010,male,15-24 years,474,78349067,10.08,Germany2010,0.906,3.41709E+12,43614,Millenials
+Germany,2010,female,55-74 years,851,78349067,8.49,Germany2010,0.906,3.41709E+12,43614,Silent
+Germany,2010,female,35-54 years,805,78349067,6.54,Germany2010,0.906,3.41709E+12,43614,Generation X
+Germany,2010,female,25-34 years,177,78349067,3.68,Germany2010,0.906,3.41709E+12,43614,Generation X
+Germany,2010,female,15-24 years,132,78349067,2.94,Germany2010,0.906,3.41709E+12,43614,Millenials
+Germany,2010,male,5-14 years,22,78349067,0.57,Germany2010,0.906,3.41709E+12,43614,Generation Z
+Germany,2010,female,5-14 years,6,78349067,0.16,Germany2010,0.906,3.41709E+12,43614,Generation Z
+Germany,2011,male,75+ years,1374,78371140,47.38,Germany2011,0.911,3.7577E+12,47947,Silent
+Germany,2011,male,55-74 years,2538,78371140,27.01,Germany2011,0.911,3.7577E+12,47947,Boomers
+Germany,2011,male,35-54 years,2582,78371140,20.47,Germany2011,0.911,3.7577E+12,47947,Generation X
+Germany,2011,male,25-34 years,684,78371140,13.66,Germany2011,0.911,3.7577E+12,47947,Millenials
+Germany,2011,female,75+ years,624,78371140,13.02,Germany2011,0.911,3.7577E+12,47947,Silent
+Germany,2011,male,15-24 years,461,78371140,9.91,Germany2011,0.911,3.7577E+12,47947,Millenials
+Germany,2011,female,55-74 years,802,78371140,7.98,Germany2011,0.911,3.7577E+12,47947,Boomers
+Germany,2011,female,35-54 years,757,78371140,6.21,Germany2011,0.911,3.7577E+12,47947,Generation X
+Germany,2011,female,25-34 years,188,78371140,3.87,Germany2011,0.911,3.7577E+12,47947,Millenials
+Germany,2011,female,15-24 years,122,78371140,2.75,Germany2011,0.911,3.7577E+12,47947,Millenials
+Germany,2011,male,5-14 years,12,78371140,0.31,Germany2011,0.911,3.7577E+12,47947,Generation Z
+Germany,2011,female,5-14 years,9,78371140,0.25,Germany2011,0.911,3.7577E+12,47947,Generation Z
+Germany,2012,male,75+ years,1430,78508115,46.69,Germany2012,0.915,3.54398E+12,45142,Silent
+Germany,2012,male,55-74 years,2302,78508115,24.35,Germany2012,0.915,3.54398E+12,45142,Boomers
+Germany,2012,male,35-54 years,2408,78508115,19.24,Germany2012,0.915,3.54398E+12,45142,Generation X
+Germany,2012,male,25-34 years,699,78508115,13.71,Germany2012,0.915,3.54398E+12,45142,Millenials
+Germany,2012,female,75+ years,607,78508115,12.34,Germany2012,0.915,3.54398E+12,45142,Silent
+Germany,2012,male,15-24 years,439,78508115,9.52,Germany2012,0.915,3.54398E+12,45142,Millenials
+Germany,2012,female,55-74 years,873,78508115,8.66,Germany2012,0.915,3.54398E+12,45142,Boomers
+Germany,2012,female,35-54 years,810,78508115,6.7,Germany2012,0.915,3.54398E+12,45142,Generation X
+Germany,2012,female,25-34 years,187,78508115,3.8,Germany2012,0.915,3.54398E+12,45142,Millenials
+Germany,2012,female,15-24 years,121,78508115,2.76,Germany2012,0.915,3.54398E+12,45142,Millenials
+Germany,2012,male,5-14 years,11,78508115,0.29,Germany2012,0.915,3.54398E+12,45142,Generation Z
+Germany,2012,female,5-14 years,9,78508115,0.25,Germany2012,0.915,3.54398E+12,45142,Generation Z
+Germany,2013,male,75+ years,1518,77270988,48.73,Germany2013,0.915,3.75251E+12,48563,Silent
+Germany,2013,male,55-74 years,2379,77270988,25.54,Germany2013,0.915,3.75251E+12,48563,Boomers
+Germany,2013,male,35-54 years,2423,77270988,20.11,Germany2013,0.915,3.75251E+12,48563,Generation X
+Germany,2013,male,25-34 years,739,77270988,14.6,Germany2013,0.915,3.75251E+12,48563,Millenials
+Germany,2013,female,75+ years,641,77270988,12.86,Germany2013,0.915,3.75251E+12,48563,Silent
+Germany,2013,female,55-74 years,875,77270988,8.75,Germany2013,0.915,3.75251E+12,48563,Boomers
+Germany,2013,male,15-24 years,391,77270988,8.74,Germany2013,0.915,3.75251E+12,48563,Millenials
+Germany,2013,female,35-54 years,808,77270988,6.83,Germany2013,0.915,3.75251E+12,48563,Generation X
+Germany,2013,female,25-34 years,188,77270988,3.81,Germany2013,0.915,3.75251E+12,48563,Millenials
+Germany,2013,female,15-24 years,111,77270988,2.61,Germany2013,0.915,3.75251E+12,48563,Millenials
+Germany,2013,female,5-14 years,12,77270988,0.34,Germany2013,0.915,3.75251E+12,48563,Generation Z
+Germany,2013,male,5-14 years,6,77270988,0.16,Germany2013,0.915,3.75251E+12,48563,Generation Z
+Germany,2014,male,75+ years,1608,77552369,48.73,Germany2014,0.916,3.89061E+12,50167,Silent
+Germany,2014,male,55-74 years,2410,77552369,25.75,Germany2014,0.916,3.89061E+12,50167,Boomers
+Germany,2014,male,35-54 years,2444,77552369,20.45,Germany2014,0.916,3.89061E+12,50167,Generation X
+Germany,2014,male,25-34 years,750,77552369,14.48,Germany2014,0.916,3.89061E+12,50167,Millenials
+Germany,2014,female,75+ years,621,77552369,12.06,Germany2014,0.916,3.89061E+12,50167,Silent
+Germany,2014,male,15-24 years,397,77552369,8.92,Germany2014,0.916,3.89061E+12,50167,Millenials
+Germany,2014,female,55-74 years,855,77552369,8.54,Germany2014,0.916,3.89061E+12,50167,Boomers
+Germany,2014,female,35-54 years,801,77552369,6.83,Germany2014,0.916,3.89061E+12,50167,Generation X
+Germany,2014,female,25-34 years,182,77552369,3.64,Germany2014,0.916,3.89061E+12,50167,Millenials
+Germany,2014,female,15-24 years,121,77552369,2.87,Germany2014,0.916,3.89061E+12,50167,Millenials
+Germany,2014,male,5-14 years,20,77552369,0.54,Germany2014,0.916,3.89061E+12,50167,Generation Z
+Germany,2014,female,5-14 years,8,77552369,0.23,Germany2014,0.916,3.89061E+12,50167,Generation Z
+Germany,2015,male,75+ years,1729,78136683,49.58,Germany2015,,3.37561E+12,43201,Silent
+Germany,2015,male,55-74 years,2304,78136683,24.42,Germany2015,,3.37561E+12,43201,Boomers
+Germany,2015,male,35-54 years,2267,78136683,19.12,Germany2015,,3.37561E+12,43201,Generation X
+Germany,2015,male,25-34 years,721,78136683,13.51,Germany2015,,3.37561E+12,43201,Millenials
+Germany,2015,female,75+ years,635,78136683,11.89,Germany2015,,3.37561E+12,43201,Silent
+Germany,2015,female,55-74 years,908,78136683,9.03,Germany2015,,3.37561E+12,43201,Boomers
+Germany,2015,male,15-24 years,376,78136683,8.32,Germany2015,,3.37561E+12,43201,Millenials
+Germany,2015,female,35-54 years,800,78136683,6.89,Germany2015,,3.37561E+12,43201,Generation X
+Germany,2015,female,25-34 years,193,78136683,3.81,Germany2015,,3.37561E+12,43201,Millenials
+Germany,2015,female,15-24 years,136,78136683,3.24,Germany2015,,3.37561E+12,43201,Millenials
+Germany,2015,female,5-14 years,13,78136683,0.37,Germany2015,,3.37561E+12,43201,Generation Z
+Germany,2015,male,5-14 years,6,78136683,0.16,Germany2015,,3.37561E+12,43201,Generation Z
