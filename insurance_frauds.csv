@@ -398,106 +398,28 @@ months_as_customer;age;policy_csl;policy_deductable;policy_annual_premium;umbrel
 409;57;100/300;1000;1191.8;6000000;MALE;High School;protective-serv;exercise;unmarried;55600;0;Single Vehicle Collision;Side Collision;Major Damage;Other;19;1;NO;1;0;Not Defined;73320;6110;12220;54990;2012;N
 252;46;100/300;1000;1242.02;0;MALE;Masters;adm-clerical;dancing;wife;0;-28800;Single Vehicle Collision;Front Collision;Minor Damage;Fire;17;1;YES;0;2;YES;74900;14980;7490;52430;2003;N
 6;27;250/500;500;1075.71;0;FEMALE;High School;prof-specialty;dancing;unmarried;0;-47400;Vehicle Theft;Not Defined;Trivial Damage;Police;7;1;Not Defined;0;1;YES;3190;580;290;2320;2015;N
-103;33;100/300;1000;969.88;6000000;MALE;MD;armed-forces;exercise;own-child;0;0;Single Vehicle Collision;Rear Collision;Minor Damage;Ambulance;21;1;NO;1;0;YES;76920;12820;6410;57690;2002;N
-369;53;250/500;2000;1459.93;0;FEMALE;Masters;priv-house-serv;video-games;not-in-family;0;0;Multi-vehicle Collision;Front Collision;Total Loss;Police;10;2;YES;1;3;NO;77990;7090;14180;56720;2012;N
-261;46;500/1000;1000;1245.61;0;MALE;MD;transport-moving;base-jumping;own-child;0;0;Single Vehicle Collision;Front Collision;Total Loss;Fire;11;1;YES;1;0;Not Defined;59670;9180;9180;41310;2008;N
 159;33;100/300;2000;1462.76;0;FEMALE;College;craft-repair;skydiving;husband;69200;-36900;Multi-vehicle Collision;Rear Collision;Major Damage;Ambulance;23;3;YES;2;0;NO;44880;8160;4080;32640;2004;Y
-344;51;100/300;2000;1398.46;0;MALE;Associate;sales;skydiving;other-relative;0;0;Single Vehicle Collision;Side Collision;Minor Damage;Ambulance;14;1;Not Defined;0;2;NO;82830;7530;15060;60240;2004;N
 437;60;500/1000;1000;1269.64;0;FEMALE;College;armed-forces;cross-fit;unmarried;48800;0;Single Vehicle Collision;Front Collision;Minor Damage;Other;10;1;NO;1;3;NO;84480;7680;15360;61440;2012;Y
-65;30;100/300;500;1455.65;4000000;FEMALE;College;transport-moving;skydiving;wife;0;-66300;Multi-vehicle Collision;Side Collision;Total Loss;Fire;6;3;Not Defined;2;3;NO;79800;15960;7980;55860;1999;N
-280;41;500/1000;2000;1140.31;0;MALE;MD;adm-clerical;exercise;husband;29300;-64700;Multi-vehicle Collision;Rear Collision;Minor Damage;Police;10;3;Not Defined;0;3;YES;53020;9640;9640;33740;1999;N
-269;45;500/1000;500;1330.46;0;FEMALE;High School;machine-op-inspct;sleeping;wife;54800;-64100;Multi-vehicle Collision;Side Collision;Total Loss;Police;5;3;Not Defined;0;0;NO;24200;2200;4400;17600;2008;N
-275;40;250/500;2000;1190.6;0;MALE;Masters;exec-managerial;camping;unmarried;0;-45300;Single Vehicle Collision;Rear Collision;Minor Damage;Fire;17;1;Not Defined;1;3;YES;43230;7860;7860;27510;2001;N
-265;45;250/500;500;972.5;0;FEMALE;College;exec-managerial;cross-fit;unmarried;0;0;Vehicle Theft;Not Defined;Trivial Damage;None;3;1;NO;2;3;NO;3190;290;580;2320;1995;N
-283;43;100/300;2000;1161.91;0;FEMALE;Associate;adm-clerical;polo;not-in-family;0;-50400;Parked Car;Not Defined;Minor Damage;None;9;1;Not Defined;0;3;NO;5850;1300;650;3900;2006;N
-84;29;250/500;1000;1117.17;0;FEMALE;High School;machine-op-inspct;video-games;not-in-family;0;-29900;Parked Car;Not Defined;Trivial Damage;Police;6;1;YES;2;0;YES;6820;620;1240;4960;2005;N
-247;44;250/500;2000;1101.51;0;FEMALE;College;farming-fishing;camping;not-in-family;64000;0;Multi-vehicle Collision;Front Collision;Minor Damage;Fire;22;3;NO;2;2;NO;69480;11580;11580;46320;2008;N
-56;29;100/300;1000;1523.17;0;MALE;Masters;prof-specialty;movies;own-child;0;0;Multi-vehicle Collision;Front Collision;Major Damage;Fire;10;3;Not Defined;1;2;YES;94560;7880;15760;70920;1995;N
-210;39;500/1000;1000;984.45;0;MALE;Associate;armed-forces;paintball;unmarried;0;0;Vehicle Theft;Not Defined;Minor Damage;None;4;1;YES;1;2;Not Defined;7800;780;780;6240;1997;N
-108;32;500/1000;2000;1257;4000000;FEMALE;High School;machine-op-inspct;basketball;unmarried;63900;-43700;Single Vehicle Collision;Front Collision;Total Loss;Other;23;1;NO;1;3;NO;61270;5570;11140;44560;1999;N
-328;49;500/1000;500;1434.51;0;FEMALE;Masters;transport-moving;bungie-jumping;wife;0;0;Single Vehicle Collision;Rear Collision;Total Loss;Police;19;1;Not Defined;0;2;YES;71440;8930;8930;53580;2005;N
-186;37;250/500;2000;1628;0;FEMALE;JD;priv-house-serv;exercise;unmarried;0;0;Single Vehicle Collision;Rear Collision;Total Loss;Ambulance;22;1;YES;1;2;YES;55600;11120;5560;38920;2009;N
-277;44;500/1000;500;1412.31;0;MALE;High School;priv-house-serv;board-games;unmarried;0;0;Vehicle Theft;Not Defined;Trivial Damage;Police;6;1;NO;1;3;NO;5000;1000;500;3500;2005;N
-138;33;250/500;500;1362.87;5000000;FEMALE;JD;exec-managerial;paintball;own-child;56900;-56900;Single Vehicle Collision;Side Collision;Minor Damage;Other;6;1;NO;2;0;Not Defined;95810;14740;14740;66330;2007;N
-208;41;100/300;1000;1134.68;0;FEMALE;College;tech-support;chess;husband;0;0;Single Vehicle Collision;Rear Collision;Major Damage;Ambulance;18;1;NO;2;2;Not Defined;69300;6930;13860;48510;1996;N
-147;37;250/500;1000;1306.78;0;MALE;MD;prof-specialty;video-games;other-relative;0;0;Single Vehicle Collision;Front Collision;Total Loss;Ambulance;22;1;Not Defined;1;0;NO;81120;13520;20280;47320;1995;N
-8;21;500/1000;500;1021.9;0;MALE;High School;handlers-cleaners;hiking;husband;0;0;Single Vehicle Collision;Front Collision;Major Damage;Other;21;1;Not Defined;0;0;Not Defined;91260;14040;14040;63180;2012;N
-297;48;100/300;1000;1538.6;0;FEMALE;MD;other-service;kayaking;wife;0;-54700;Single Vehicle Collision;Side Collision;Minor Damage;Fire;12;1;Not Defined;0;0;Not Defined;60600;6060;12120;42420;2004;N
 150;31;500/1000;1000;1354.5;0;MALE;Masters;machine-op-inspct;base-jumping;husband;52800;0;Multi-vehicle Collision;Front Collision;Major Damage;Ambulance;6;3;Not Defined;0;3;YES;64800;6480;12960;45360;2000;Y
 4;34;500/1000;500;1282.93;0;FEMALE;College;exec-managerial;basketball;other-relative;0;0;Multi-vehicle Collision;Side Collision;Major Damage;Police;0;4;Not Defined;0;0;Not Defined;66880;6080;12160;48640;1996;Y
-210;35;500/1000;1000;1346.27;0;MALE;Masters;farming-fishing;cross-fit;not-in-family;44900;-91400;Single Vehicle Collision;Front Collision;Total Loss;Ambulance;11;1;NO;0;2;Not Defined;58200;5820;5820;46560;2013;N
-91;31;100/300;1000;1338.4;4000000;FEMALE;High School;priv-house-serv;polo;own-child;63600;0;Single Vehicle Collision;Side Collision;Minor Damage;Police;19;1;Not Defined;1;0;NO;60570;6730;6730;47110;2011;N
 167;36;100/300;1000;949.44;0;FEMALE;Masters;exec-managerial;camping;other-relative;0;-38400;Multi-vehicle Collision;Rear Collision;Major Damage;Ambulance;22;3;Not Defined;0;0;NO;69680;8710;8710;52260;2008;Y
-467;58;500/1000;2000;977.4;0;MALE;Masters;transport-moving;bungie-jumping;own-child;82200;0;Single Vehicle Collision;Front Collision;Total Loss;Fire;2;1;YES;2;3;NO;55700;5570;11140;38990;2014;N
-264;47;250/500;2000;1181.46;10000000;FEMALE;JD;transport-moving;sleeping;other-relative;0;-67400;Multi-vehicle Collision;Front Collision;Total Loss;Ambulance;16;4;YES;1;2;YES;62370;5670;5670;51030;2001;N
-270;45;500/1000;500;1187.53;0;FEMALE;PhD;priv-house-serv;yachting;not-in-family;83200;-53300;Multi-vehicle Collision;Side Collision;Total Loss;Other;23;3;Not Defined;0;0;YES;54340;9880;0;44460;2005;N
 310;48;100/300;1000;845.16;0;FEMALE;Masters;priv-house-serv;base-jumping;other-relative;0;0;Single Vehicle Collision;Front Collision;Major Damage;Police;21;1;YES;1;0;NO;55170;6130;6130;42910;2005;Y
-143;34;100/300;500;1442.27;0;MALE;College;priv-house-serv;exercise;wife;67900;0;Single Vehicle Collision;Front Collision;Minor Damage;Other;10;1;Not Defined;2;3;YES;58500;11700;5850;40950;1999;N
-146;32;100/300;2000;1276.43;0;MALE;Associate;priv-house-serv;skydiving;own-child;0;0;Single Vehicle Collision;Rear Collision;Major Damage;Fire;12;1;Not Defined;0;3;Not Defined;59940;6660;6660;46620;1995;N
-102;28;250/500;500;1075.41;0;MALE;MD;machine-op-inspct;reading;wife;55200;0;Single Vehicle Collision;Side Collision;Total Loss;Police;6;1;NO;1;0;NO;73400;7340;7340;58720;1996;N
-61;23;100/300;500;1111.72;0;MALE;JD;exec-managerial;bungie-jumping;other-relative;54600;0;Single Vehicle Collision;Side Collision;Major Damage;Fire;6;1;Not Defined;1;2;Not Defined;41850;4650;4650;32550;1997;N
 255;44;500/1000;2000;814.96;6000000;FEMALE;PhD;priv-house-serv;chess;not-in-family;68500;0;Parked Car;Not Defined;Trivial Damage;Police;7;1;Not Defined;2;2;NO;6400;640;1280;4480;2005;Y
-211;40;500/1000;1000;1575.86;0;FEMALE;PhD;other-service;sleeping;own-child;0;0;Vehicle Theft;Not Defined;Trivial Damage;Police;3;1;NO;1;1;NO;3190;580;290;2320;2004;N
-61;29;250/500;1000;1115.27;0;MALE;JD;handlers-cleaners;polo;unmarried;0;-66000;Parked Car;Not Defined;Trivial Damage;None;10;1;YES;2;1;YES;5900;590;590;4720;2010;N
-108;31;500/1000;2000;1175.7;0;MALE;Masters;protective-serv;yachting;not-in-family;0;0;Single Vehicle Collision;Rear Collision;Total Loss;Fire;14;1;NO;0;2;NO;57330;6370;6370;44590;2006;N
-303;50;100/300;500;793.15;0;MALE;MD;tech-support;board-games;own-child;54600;-45500;Multi-vehicle Collision;Front Collision;Total Loss;Other;17;3;NO;0;3;NO;81960;13660;13660;54640;2008;N
 152;33;250/500;500;942.51;0;FEMALE;PhD;transport-moving;exercise;wife;0;0;Single Vehicle Collision;Side Collision;Major Damage;Fire;16;1;YES;0;0;Not Defined;70400;6400;19200;44800;2001;Y
-120;34;500/1000;1000;1056.71;0;FEMALE;JD;protective-serv;paintball;not-in-family;77900;0;Parked Car;Not Defined;Minor Damage;None;3;1;NO;2;1;Not Defined;3770;580;580;2610;2002;N
-144;36;500/1000;2000;1255.68;6000000;FEMALE;Associate;sales;reading;other-relative;23600;-15600;Parked Car;Not Defined;Minor Damage;None;7;1;NO;0;0;Not Defined;7400;740;1480;5180;2014;N
 414;52;500/1000;500;1335.13;0;FEMALE;High School;farming-fishing;chess;unmarried;44000;-71000;Single Vehicle Collision;Rear Collision;Total Loss;Police;13;1;YES;1;1;Not Defined;54810;6090;6090;42630;1999;Y
-163;37;250/500;500;1178.95;6000000;FEMALE;JD;priv-house-serv;dancing;own-child;0;-67300;Single Vehicle Collision;Rear Collision;Total Loss;Fire;20;1;YES;2;3;YES;49400;4940;9880;34580;2005;N
-352;53;250/500;500;1793.16;0;MALE;Associate;tech-support;exercise;wife;0;0;Single Vehicle Collision;Front Collision;Minor Damage;Fire;23;1;YES;2;2;NO;68750;12500;6250;50000;2009;N
-27;32;100/300;500;1008.38;0;FEMALE;PhD;adm-clerical;yachting;other-relative;37900;0;Single Vehicle Collision;Front Collision;Total Loss;Ambulance;11;1;NO;1;0;Not Defined;61500;12300;6150;43050;2013;N
-239;39;100/300;500;1396.83;0;FEMALE;Masters;other-service;reading;husband;0;0;Multi-vehicle Collision;Rear Collision;Major Damage;Ambulance;0;4;Not Defined;0;3;NO;76890;6990;13980;55920;2007;N
-33;32;100/300;500;1402.78;5000000;FEMALE;PhD;other-service;base-jumping;husband;70300;-50300;Single Vehicle Collision;Rear Collision;Minor Damage;Ambulance;2;1;YES;0;1;Not Defined;56070;6230;12460;37380;2012;N
-88;30;100/300;1000;1437.88;0;FEMALE;College;transport-moving;reading;husband;42800;-51200;Single Vehicle Collision;Side Collision;Total Loss;Fire;3;1;NO;2;0;YES;56000;14000;0;42000;2003;N
-101;33;500/1000;1000;1313.64;0;FEMALE;College;priv-house-serv;board-games;unmarried;12100;0;Parked Car;Not Defined;Trivial Damage;None;3;1;YES;1;0;NO;4290;780;390;3120;1997;N
-20;37;250/500;500;1482.14;0;FEMALE;Associate;transport-moving;reading;husband;33000;-43600;Multi-vehicle Collision;Rear Collision;Total Loss;Other;15;3;Not Defined;2;1;NO;60750;6750;6750;47250;2003;N
-126;30;250/500;2000;1171.75;0;FEMALE;Associate;machine-op-inspct;board-games;not-in-family;46500;-42700;Single Vehicle Collision;Side Collision;Minor Damage;Other;23;1;Not Defined;2;3;NO;48730;4430;4430;39870;2011;N
-264;43;500/1000;2000;1353.33;0;MALE;Associate;adm-clerical;video-games;not-in-family;0;-8500;Multi-vehicle Collision;Front Collision;Minor Damage;Police;9;3;YES;2;0;NO;95150;17300;17300;60550;2007;N
-78;24;100/300;500;1175.51;0;MALE;Masters;craft-repair;yachting;husband;0;0;Vehicle Theft;Not Defined;Minor Damage;Police;20;1;Not Defined;0;1;YES;7480;680;680;6120;2003;N
 123;28;100/300;2000;1836.02;0;MALE;Masters;transport-moving;movies;own-child;38000;-41200;Single Vehicle Collision;Side Collision;Major Damage;Ambulance;5;1;Not Defined;2;1;YES;79800;13300;6650;59850;2011;Y
-347;51;500/1000;500;1480.79;9000000;FEMALE;MD;priv-house-serv;board-games;unmarried;0;-12100;Single Vehicle Collision;Side Collision;Total Loss;Other;15;1;YES;0;2;Not Defined;103560;8630;17260;77670;1997;N
-163;38;500/1000;2000;1453.92;0;FEMALE;PhD;other-service;yachting;other-relative;51700;0;Single Vehicle Collision;Side Collision;Minor Damage;Ambulance;13;1;YES;2;3;Not Defined;79500;15900;7950;55650;1995;N
 271;44;250/500;500;1340.71;0;FEMALE;High School;tech-support;base-jumping;other-relative;0;0;Single Vehicle Collision;Rear Collision;Minor Damage;Other;16;1;NO;2;2;NO;76230;6930;13860;55440;1997;Y
-410;54;100/300;2000;714.03;0;MALE;MD;protective-serv;board-games;own-child;0;-17000;Single Vehicle Collision;Side Collision;Minor Damage;Ambulance;0;1;YES;0;2;NO;59520;9920;9920;39680;2001;N
 448;57;100/300;2000;1376.16;0;FEMALE;PhD;tech-support;hiking;own-child;38600;-50300;Multi-vehicle Collision;Front Collision;Major Damage;Police;10;3;NO;2;1;Not Defined;47760;5970;5970;35820;2013;Y
-218;41;100/300;500;914.22;0;MALE;JD;prof-specialty;golf;wife;37900;-72900;Multi-vehicle Collision;Side Collision;Total Loss;Police;14;3;NO;2;0;NO;84590;15380;7690;61520;2013;N
-43;38;500/1000;1000;1601.47;0;MALE;PhD;handlers-cleaners;skydiving;other-relative;64400;0;Multi-vehicle Collision;Front Collision;Total Loss;Other;1;3;YES;2;2;Not Defined;61650;6850;6850;47950;2006;N
-33;33;500/1000;1000;1096.79;6000000;FEMALE;Associate;handlers-cleaners;dancing;unmarried;45500;-60600;Single Vehicle Collision;Rear Collision;Major Damage;Police;16;1;Not Defined;2;1;Not Defined;81400;8140;8140;65120;1998;N
-126;34;100/300;2000;1078.22;0;FEMALE;Masters;transport-moving;camping;wife;54500;0;Multi-vehicle Collision;Side Collision;Major Damage;Fire;2;3;NO;0;1;YES;58410;10620;5310;42480;2007;N
-411;56;250/500;1000;1595.28;0;FEMALE;College;protective-serv;exercise;other-relative;0;0;Multi-vehicle Collision;Side Collision;Major Damage;Ambulance;23;3;Not Defined;0;0;Not Defined;38610;3510;3510;31590;2007;N
-225;37;100/300;1000;1217.84;5000000;FEMALE;High School;farming-fishing;yachting;not-in-family;49600;0;Multi-vehicle Collision;Front Collision;Minor Damage;Fire;19;3;Not Defined;2;2;NO;57600;9600;9600;38400;2015;N
-35;35;100/300;2000;1117.42;0;FEMALE;PhD;protective-serv;kayaking;not-in-family;0;-51900;Multi-vehicle Collision;Side Collision;Minor Damage;Fire;23;3;NO;2;2;NO;53190;5910;11820;35460;1996;N
 460;57;100/300;2000;1567.37;0;FEMALE;JD;craft-repair;skydiving;husband;62500;0;Single Vehicle Collision;Front Collision;Major Damage;Other;10;1;Not Defined;2;3;NO;58300;5830;11660;40810;2014;Y
-195;38;500/1000;2000;1294.93;6000000;MALE;MD;tech-support;video-games;unmarried;38000;-50300;Multi-vehicle Collision;Front Collision;Minor Damage;Ambulance;12;3;YES;1;2;NO;64620;7180;0;57440;2003;N
-360;51;250/500;1000;1152.12;0;MALE;PhD;armed-forces;hiking;not-in-family;0;-62400;Multi-vehicle Collision;Side Collision;Total Loss;Ambulance;15;3;NO;2;0;YES;90480;15080;15080;60320;2000;N
-300;49;100/300;1000;1441.21;0;FEMALE;PhD;farming-fishing;kayaking;wife;0;0;Vehicle Theft;Not Defined;Trivial Damage;None;3;1;NO;1;0;NO;7080;1180;1180;4720;2001;N
 245;42;500/1000;1000;1575.74;7000000;MALE;JD;exec-managerial;chess;other-relative;0;-68900;Parked Car;Not Defined;Minor Damage;Police;19;1;Not Defined;2;2;Not Defined;6490;590;1180;4720;2011;Y
-146;36;500/1000;2000;1233.96;0;FEMALE;Masters;other-service;golf;other-relative;34500;-60600;Multi-vehicle Collision;Side Collision;Total Loss;Police;16;3;NO;1;1;NO;55900;5590;5590;44720;2015;N
 67;29;250/500;1000;1861.43;0;MALE;High School;adm-clerical;polo;husband;60400;-67800;Single Vehicle Collision;Rear Collision;Major Damage;Other;16;1;NO;0;3;YES;63800;6380;6380;51040;1998;Y
 380;56;100/300;1000;1570.86;0;MALE;MD;farming-fishing;cross-fit;other-relative;66000;0;Single Vehicle Collision;Side Collision;Total Loss;Police;10;1;Not Defined;0;1;YES;58160;7270;7270;43620;1996;Y
 389;53;500/1000;2000;791.47;0;MALE;Masters;armed-forces;chess;unmarried;0;0;Vehicle Theft;Not Defined;Minor Damage;Police;6;1;NO;1;2;NO;6300;630;1260;4410;2001;Y
 317;46;250/500;1000;1012.78;0;MALE;MD;sales;yachting;other-relative;43700;0;Single Vehicle Collision;Front Collision;Major Damage;Fire;18;1;NO;2;1;NO;104610;19020;19020;66570;1999;Y
-264;44;100/300;500;1047.06;6000000;MALE;College;exec-managerial;sleeping;wife;0;0;Multi-vehicle Collision;Rear Collision;Major Damage;Fire;20;3;NO;0;2;NO;69850;12700;6350;50800;1999;N
-20;21;250/500;1000;1390.29;0;FEMALE;Masters;priv-house-serv;polo;other-relative;0;-41200;Single Vehicle Collision;Rear Collision;Minor Damage;Fire;14;1;NO;0;0;Not Defined;62900;12580;6290;44030;2006;N
 116;30;500/1000;500;951.46;0;MALE;JD;handlers-cleaners;golf;not-in-family;0;-35500;Multi-vehicle Collision;Front Collision;Major Damage;Other;8;3;NO;0;3;Not Defined;59670;6630;6630;46410;2004;Y
-222;40;100/300;1000;1226.78;0;MALE;JD;armed-forces;camping;unmarried;49600;-49200;Multi-vehicle Collision;Rear Collision;Minor Damage;Other;17;2;YES;2;0;Not Defined;81500;16300;8150;57050;2013;N
-439;56;100/300;500;1280.9;0;MALE;High School;armed-forces;video-games;own-child;48900;-40900;Single Vehicle Collision;Rear Collision;Minor Damage;Ambulance;9;1;NO;2;0;Not Defined;50000;15000;5000;30000;2009;N
-66;28;100/300;2000;1472.77;0;MALE;Associate;adm-clerical;exercise;husband;0;-31700;Single Vehicle Collision;Front Collision;Total Loss;Other;0;1;Not Defined;2;1;Not Defined;48290;8780;8780;30730;1995;N
-128;29;500/1000;1000;1878.44;0;MALE;High School;other-service;golf;husband;0;-76000;Single Vehicle Collision;Rear Collision;Total Loss;Fire;2;1;NO;0;0;Not Defined;59070;5370;5370;48330;2003;N
-69;24;500/1000;500;1418.5;0;FEMALE;High School;armed-forces;yachting;other-relative;0;0;Multi-vehicle Collision;Rear Collision;Minor Damage;Police;23;3;Not Defined;0;0;NO;63300;12660;6330;44310;2012;N
-294;46;100/300;500;1532.8;0;MALE;College;prof-specialty;exercise;own-child;0;0;Single Vehicle Collision;Side Collision;Total Loss;Other;8;1;NO;0;3;YES;65780;11960;11960;41860;2013;N
 19;29;250/500;500;1304.35;0;MALE;JD;transport-moving;cross-fit;not-in-family;0;0;Multi-vehicle Collision;Front Collision;Total Loss;Ambulance;6;3;NO;0;2;Not Defined;75400;11600;11600;52200;2005;Y
-191;33;500/1000;2000;1551.61;0;MALE;High School;armed-forces;movies;unmarried;45000;-30400;Vehicle Theft;Not Defined;Minor Damage;None;3;1;YES;1;1;NO;2250;250;250;1750;2005;N
-4;39;100/300;1000;1326.98;6000000;FEMALE;High School;machine-op-inspct;reading;unmarried;64200;0;Multi-vehicle Collision;Front Collision;Minor Damage;Ambulance;14;3;YES;1;3;Not Defined;54120;4510;9020;40590;2007;N
-298;49;250/500;500;862.92;0;MALE;MD;machine-op-inspct;camping;wife;0;-71700;Multi-vehicle Collision;Side Collision;Major Damage;Other;16;3;NO;0;2;NO;69480;11580;11580;46320;2007;N
-231;43;100/300;2000;1331.69;0;FEMALE;Masters;adm-clerical;reading;not-in-family;0;0;Single Vehicle Collision;Rear Collision;Minor Damage;Police;12;1;Not Defined;1;2;NO;66950;10300;10300;46350;2015;N
 338;47;250/500;2000;1486.04;0;FEMALE;Associate;armed-forces;board-games;own-child;0;-56200;Multi-vehicle Collision;Rear Collision;Major Damage;Other;1;3;NO;2;3;Not Defined;64100;12820;6410;44870;2014;Y
-261;46;100/300;1000;870.55;0;MALE;PhD;prof-specialty;camping;unmarried;0;-49400;Single Vehicle Collision;Rear Collision;Minor Damage;Other;19;1;Not Defined;0;3;Not Defined;80280;13380;13380;53520;2013;N
-321;44;500/1000;2000;1344.56;6000000;MALE;Associate;machine-op-inspct;hiking;husband;0;-39100;Vehicle Theft;Not Defined;Trivial Damage;Police;7;1;Not Defined;1;2;NO;4680;520;0;4160;1999;N
 405;58;250/500;500;1237.88;0;MALE;MD;exec-managerial;exercise;not-in-family;0;-46900;Single Vehicle Collision;Front Collision;Major Damage;Police;11;1;Not Defined;0;0;Not Defined;63580;5780;5780;52020;1997;Y
-304;49;100/300;1000;1525.86;0;FEMALE;PhD;craft-repair;camping;own-child;0;0;Single Vehicle Collision;Side Collision;Minor Damage;Other;2;1;YES;1;1;YES;73370;13340;6670;53360;2013;N
 61;26;100/300;2000;1188.28;6000000;FEMALE;JD;farming-fishing;skydiving;wife;0;-53800;Multi-vehicle Collision;Rear Collision;Major Damage;Fire;16;2;YES;1;0;NO;53820;11960;5980;35880;2015;Y
 184;38;250/500;1000;1437.53;0;FEMALE;College;transport-moving;chess;not-in-family;0;0;Multi-vehicle Collision;Side Collision;Minor Damage;Ambulance;6;3;Not Defined;0;2;NO;53730;11940;5970;35820;2013;Y
 222;39;250/500;1000;1232.72;0;MALE;High School;armed-forces;hiking;own-child;87800;-51200;Multi-vehicle Collision;Front Collision;Major Damage;Fire;21;3;Not Defined;1;0;NO;87960;14660;14660;58640;1999;Y
