@@ -1,6 +1,6 @@
 age;sex;bmi;steps;children;smoker;region;charges;insuranceclaim
 34;0;31.92;4003;1;yes;northeast;377.018.768;yes
-35;1;36.67;3003;1;yes;northeast;397.742.763;yes
+35;1;;3003;1;yes;northeast;397.742.763;yes
 59;1;29.83;8008;3;yes;northeast;301.849.367;yes
 56;1;19.95;5004;0;yes;northeast;224.126.485;yes
 44;1;31.35;3007;1;yes;northeast;395.564.945;yes
@@ -49,7 +49,7 @@ age;sex;bmi;steps;children;smoker;region;charges;insuranceclaim
 20;1;30.685;3008;0;yes;northeast;3.347.581.715;yes
 51;0;34.96;4000;2;yes;northeast;446.411.974;yes
 23;0;42.75;4005;1;yes;northeast;409.041.995;yes
-18;1;27.36;4010;1;yes;northeast;171.786.824;yes
+18;1;;4010;1;yes;northeast;171.786.824;yes
 43;0;25.27;4009;1;yes;northeast;217.713.423;yes
 37;0;25.555;3006;1;yes;northeast;2.029.686.345;yes
 32;1;33.63;4000;1;yes;northeast;376.075.277;yes
@@ -151,7 +151,7 @@ age;sex;bmi;steps;children;smoker;region;charges;insuranceclaim
 50;0;44.745;4009;0;no;northeast;954.169.555;yes
 36;0;27.74;8009;0;no;northeast;54.690.066;yes
 20;1;40.47;3002;0;no;northeast;19.844.533;yes
-51;0;40.66;4010;0;no;northeast;98.756.804;yes
+51;0;;4010;0;no;northeast;98.756.804;yes
 18;0;40.28;3009;0;no;northeast;22.176.012;yes
 27;1;26.03;8007;0;no;northeast;30.708.087;yes
 45;0;25.175;8007;2;no;northeast;909.506.825;yes
@@ -247,7 +247,7 @@ age;sex;bmi;steps;children;smoker;region;charges;insuranceclaim
 59;1;25.46;8004;1;no;northeast;129.139.924;no
 21;1;20.235;10000;3;no;northeast;386.120.965;no
 27;0;25.175;8009;0;no;northeast;355.862.025;no
-28;1;26.98;8001;2;no;northeast;44.350.942;no
+28;1;;8001;2;no;northeast;44.350.942;no
 34;0;19;10005;3;no;northeast;6.753.038;no
 36;1;28.88;8007;3;no;northeast;67.485.912;no
 40;1;22.705;8008;2;no;northeast;717.335.995;no
