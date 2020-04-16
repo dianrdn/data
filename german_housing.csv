@@ -1,4 +1,4 @@
-age;sex;job;saving_account;credit_amount;duration;housing
+age;sex;job;saving_account;credit_amount;credit_duration;housing
 21;male;unskilled;little;1987;24;0
 21;female;skilled;little;1049;18;0
 24;female;skilled;little;1207;24;0
