@@ -1,11 +1,11 @@
 age;sex;job;housing;saving;checking;creditamount;duration;purpose
 38;male;1;own;little;moderate;1308;12;car
-27;male;1;own;unknown;unknown;1055;18;furniture/equipment
-28;female;2;rent;little;unknown;3349;36;car
-54;male;2;free;little;little;3384;60;radio/TV
-39;male;1;rent;little;little;2122;15;car
+27;male;1;own;unknown;rich;1055;18;furniture/equipment
+28;female;2;rent;little;unknown;3349;36;business
+54;male;2;free;moderate;little;3384;60;domesticappliances
+39;male;1;rent;quiterich;little;2122;15;radio/TV
 43;male;2;own;little;unknown;3349;15;car
 49;male;1;own;little;little;3384;24;education
 27;male;1;own;unknown;unknown;1055;60;radio/TV
-28;female;2;rent;little;unknown;3349;15;car
-54;male;2;free;little;little;3384;24;education
+28;female;2;rent;little;unknown;3349;15;repairs
+54;male;2;free;rich;little;3384;24;education
