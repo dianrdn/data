@@ -1,0 +1,401 @@
+customerID;gender;SeniorCitizen;Partner;Dependents;tenure;PhoneService;InternetService;OnlineSecurity;OnlineBackup;DeviceProtection;TechSupport;StreamingTV;StreamingMovies;Contract;PaperlessBilling;PaymentMethod;MonthlyCharges;TotalCharges;Churn
+NEW001;Female;1;1;0;69;1;Fiber optic;1;1;0;0;1;1;Month-to-month;1;Electronic check;1003;448395;0
+NEW002;Male;0;0;0;47;0;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;2025;1785;1
+NEW003;Male;0;0;0;55;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Credit card (automatic);947;168795;1
+NEW004;Male;0;0;0;12;1;No;0;0;0;0;0;0;One year;1;Credit card (automatic);2005;7545;0
+NEW005;Male;0;1;0;65;1;Fiber optic;0;0;0;1;1;1;Month-to-month;1;Electronic check;1006;506965;1
+NEW006;Female;1;1;0;35;1;No;0;0;0;0;0;0;Month-to-month;0;Bank transfer (automatic);2065;102075;0
+NEW007;Female;0;0;0;57;1;DSL;0;0;0;0;1;0;Month-to-month;0;Mailed check;5485;3551;0
+NEW008;Female;0;0;0;1;1;Fiber optic;0;0;1;1;1;1;Month-to-month;1;Credit card (automatic);10565;67179;0
+NEW009;Male;1;1;0;57;1;Fiber optic;0;0;0;0;1;1;One year;1;Credit card (automatic);925;34734;1
+NEW010;Male;0;1;0;1;1;DSL;1;0;0;1;1;1;Month-to-month;0;Mailed check;81;192385;0
+NEW011;Male;0;0;0;67;1;Fiber optic;0;0;1;0;1;1;Month-to-month;1;Electronic check;94;490575;0
+NEW012;Female;0;0;1;15;1;DSL;0;1;1;0;0;0;One year;1;Mailed check;548;7313;0
+NEW013;Female;0;1;1;38;1;DSL;0;0;0;0;0;0;Month-to-month;1;Mailed check;491;67955;1
+NEW014;Male;0;1;0;66;1;DSL;1;0;1;1;0;1;Month-to-month;0;Electronic check;757;46767;0
+NEW015;Female;0;0;0;71;0;No;0;0;0;0;0;0;Two year;1;Credit card (automatic);2465;47135;0
+NEW016;Male;0;0;0;23;1;Fiber optic;1;1;0;0;0;0;Month-to-month;1;Mailed check;864;49224;0
+NEW017;Female;0;1;1;72;1;Fiber optic;0;0;0;0;0;0;Two year;1;Mailed check;746;5489;0
+NEW018;Male;0;0;0;59;0;DSL;0;0;0;1;1;1;One year;1;Bank transfer (automatic);721;249515;0
+NEW019;Female;0;1;1;2;1;DSL;1;1;1;1;1;1;One year;1;Credit card (automatic);9115;66379;0
+NEW020;Female;0;1;0;23;1;Fiber optic;0;1;1;0;0;0;Two year;1;Electronic check;823;823;1
+NEW021;Female;0;0;1;56;1;Fiber optic;0;0;0;0;1;0;Month-to-month;1;Mailed check;844;411615;1
+NEW022;Male;0;0;0;5;1;DSL;0;0;1;0;0;0;Month-to-month;0;Credit card (automatic);295;25525;1
+NEW023;Male;0;0;1;1;1;Fiber optic;1;1;1;1;1;1;Two year;1;Bank transfer (automatic);11505;80166;0
+NEW024;Female;0;1;0;13;1;Fiber optic;1;1;1;1;1;1;Two year;1;Electronic check;115;739615;0
+NEW025;Male;0;0;1;19;1;Fiber optic;1;0;0;0;1;0;Two year;0;Electronic check;917;347905;0
+NEW026;Male;1;0;1;67;1;Fiber optic;1;1;0;0;0;1;One year;1;Electronic check;945;26594;1
+NEW027;Male;0;0;0;57;1;No;0;0;0;0;0;0;One year;0;Bank transfer (automatic);2515;194085;0
+NEW028;Male;0;1;0;41;1;Fiber optic;1;1;0;0;1;1;Month-to-month;1;Mailed check;1035;654865;0
+NEW029;Male;0;1;0;3;1;Fiber optic;1;0;1;1;1;1;Month-to-month;1;Electronic check;11085;52758;1
+NEW030;Female;0;1;0;25;1;DSL;1;1;1;1;1;1;Month-to-month;0;Mailed check;657;457535;0
+NEW031;Female;0;1;1;45;1;Fiber optic;1;0;1;1;1;1;One year;0;Electronic check;11025;746755;0
+NEW032;Female;0;0;1;71;1;Fiber optic;0;0;1;0;0;1;Month-to-month;0;Electronic check;883;246775;1
+NEW033;Male;0;0;0;6;1;Fiber optic;0;0;0;0;0;0;Two year;1;Electronic check;746;372035;0
+NEW034;Female;1;0;0;21;0;DSL;0;0;1;0;1;0;Two year;1;Bank transfer (automatic);3905;66985;1
+NEW035;Male;0;1;0;7;1;DSL;0;1;1;1;1;1;One year;1;Bank transfer (automatic);8195;56014;0
+NEW036;Male;0;1;0;45;0;DSL;0;1;0;0;0;0;One year;1;Credit card (automatic);2935;3812;0
+NEW037;Male;0;1;1;51;1;Fiber optic;1;0;1;1;0;0;One year;1;Mailed check;9125;40138;0
+NEW038;Female;0;0;1;13;1;Fiber optic;1;1;0;0;1;1;Month-to-month;1;Bank transfer (automatic);10415;730305;0
+NEW039;Male;0;1;0;3;1;Fiber optic;1;0;1;1;1;1;Month-to-month;1;Bank transfer (automatic);1093;57314;0
+NEW040;Female;0;0;0;25;1;DSL;1;1;0;0;0;0;Month-to-month;0;Electronic check;556;201645;0
+NEW041;Male;1;1;1;16;1;Fiber optic;0;1;1;1;1;1;Month-to-month;1;Electronic check;11075;5832;0
+NEW042;Female;0;1;1;68;1;No;0;0;0;0;0;0;Two year;0;Bank transfer (automatic);197;59925;0
+NEW043;Male;0;0;0;49;1;DSL;0;0;1;1;1;1;Month-to-month;1;Bank transfer (automatic);5405;29598;0
+NEW044;Male;1;1;0;1;1;Fiber optic;0;1;0;0;0;1;Month-to-month;1;Bank transfer (automatic);9035;461455;0
+NEW045;Male;0;1;0;6;1;Fiber optic;0;0;0;0;1;0;Month-to-month;1;Bank transfer (automatic);801;39855;0
+NEW046;Male;0;1;0;57;1;Fiber optic;0;0;0;0;1;1;One year;1;Mailed check;952;4563;0
+NEW047;Female;0;0;1;49;1;No;0;0;0;0;0;0;Month-to-month;1;Electronic check;244;16012;0
+NEW048;Female;0;1;0;55;1;No;0;0;0;0;0;0;Month-to-month;0;Bank transfer (automatic);1985;10496;0
+NEW049;Female;0;0;0;8;1;DSL;1;1;1;1;1;0;One year;0;Bank transfer (automatic);797;57433;0
+NEW050;Female;0;1;0;7;1;Fiber optic;0;1;0;0;1;1;One year;1;Credit card (automatic);100;153475;1
+NEW051;Female;0;0;1;12;1;Fiber optic;0;0;0;1;1;0;Month-to-month;1;Electronic check;8605;18189;0
+NEW052;Female;0;1;1;61;1;DSL;0;1;0;0;0;0;Month-to-month;0;Bank transfer (automatic);541;1373;0
+NEW053;Female;0;0;0;72;1;No;0;0;0;0;0;0;Month-to-month;0;Credit card (automatic);1955;6105;0
+NEW054;Male;1;1;0;6;1;Fiber optic;0;1;1;0;0;1;Month-to-month;1;Electronic check;9315;63682;0
+NEW055;Female;0;0;0;3;1;Fiber optic;1;1;1;1;1;1;Month-to-month;1;Electronic check;1156;643105;0
+NEW056;Male;0;1;0;72;0;DSL;1;1;0;0;1;0;Two year;0;Bank transfer (automatic);448;298365;0
+NEW057;Female;1;0;1;72;1;Fiber optic;0;0;0;1;1;1;Month-to-month;1;Bank transfer (automatic);9445;15112;1
+NEW058;Male;0;1;0;31;1;DSL;1;0;1;0;0;1;One year;0;Electronic check;627;27915;1
+NEW059;Female;0;1;0;51;1;DSL;1;0;1;1;0;1;Month-to-month;0;Credit card (automatic);6995;387185;0
+NEW060;Male;0;1;1;21;0;Fiber optic;1;1;1;1;1;1;One year;1;Credit card (automatic);1141;80864;0
+NEW061;Male;0;1;1;32;1;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;1965;102505;0
+NEW062;Male;0;0;1;71;1;DSL;1;0;1;1;1;1;Month-to-month;0;Credit card (automatic);832;61261;0
+NEW063;Female;0;1;0;51;1;DSL;0;1;1;0;0;1;Two year;1;Electronic check;6475;36171;0
+NEW064;Female;0;1;1;64;1;Fiber optic;1;1;1;1;1;1;Month-to-month;1;Credit card (automatic);11735;843625;0
+NEW065;Male;0;0;0;64;1;DSL;0;1;1;1;0;0;Month-to-month;1;Electronic check;6015;37532;0
+NEW066;Female;0;1;1;23;1;DSL;1;1;1;0;0;1;Month-to-month;1;Electronic check;487;24952;0
+NEW067;Male;0;0;0;21;1;No;0;0;0;0;0;0;Two year;0;Bank transfer (automatic);261;185145;0
+NEW068;Female;0;0;0;5;1;Fiber optic;1;1;0;0;0;1;Two year;0;Credit card (automatic);873;605555;0
+NEW069;Male;0;1;0;16;1;No;0;0;0;0;0;0;Two year;0;Credit card (automatic);196;3904;0
+NEW070;Female;0;1;1;52;1;DSL;1;0;1;1;0;1;One year;1;Credit card (automatic);7235;49915;0
+NEW071;Female;0;1;1;14;1;DSL;1;0;1;1;0;0;Month-to-month;1;Bank transfer (automatic);6415;42541;0
+NEW072;Male;0;1;0;35;1;Fiber optic;1;1;1;0;1;0;Month-to-month;1;Electronic check;969;447345;0
+NEW073;Male;0;0;0;55;1;Fiber optic;0;0;0;0;0;0;One year;1;Mailed check;7535;7535;1
+NEW074;Male;0;0;1;22;1;No;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);199;199;0
+NEW075;Male;0;0;0;33;1;Fiber optic;0;1;1;0;0;1;Two year;1;Bank transfer (automatic);9525;542705;1
+NEW076;Female;1;0;0;20;1;Fiber optic;1;1;1;0;1;1;Month-to-month;1;Electronic check;10675;728325;0
+NEW077;Male;0;1;0;33;1;Fiber optic;0;0;0;0;1;1;Two year;1;Bank transfer (automatic);962;471825;1
+NEW078;Male;1;1;0;52;0;DSL;0;0;1;1;0;1;Month-to-month;0;Credit card (automatic);46;242405;0
+NEW079;Female;0;1;0;71;1;Fiber optic;0;0;0;0;0;0;Two year;0;Credit card (automatic);7075;15485;1
+NEW080;Male;0;1;0;37;1;DSL;0;0;1;0;1;1;Month-to-month;0;Credit card (automatic);492;170165;0
+NEW081;Male;0;1;0;4;1;Fiber optic;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);743;401835;0
+NEW082;Male;0;1;0;7;0;No;0;0;0;0;0;0;One year;1;Credit card (automatic);248;151485;0
+NEW083;Female;0;1;1;30;1;Fiber optic;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);7015;7015;1
+NEW084;Male;0;0;1;44;1;Fiber optic;0;1;0;0;1;1;Month-to-month;1;Electronic check;10065;241595;0
+NEW085;Male;0;1;1;72;0;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;199;94295;0
+NEW086;Female;0;1;0;53;1;Fiber optic;1;1;1;1;1;1;Two year;1;Electronic check;1097;790425;0
+NEW087;Female;0;1;0;8;0;DSL;0;0;1;0;0;1;Month-to-month;1;Credit card (automatic);5945;30437;0
+NEW088;Female;0;0;0;16;1;Fiber optic;0;0;0;1;1;1;Month-to-month;1;Credit card (automatic);9985;177695;1
+NEW089;Female;0;0;1;62;1;Fiber optic;1;0;0;0;0;0;Month-to-month;1;Mailed check;7455;23365;0
+NEW090;Male;0;1;0;18;1;Fiber optic;0;1;1;1;1;1;Month-to-month;1;Electronic check;1141;713215;0
+NEW091;Male;0;1;0;2;1;Fiber optic;1;1;0;1;0;0;One year;0;Bank transfer (automatic);846;57062;0
+NEW092;Female;0;0;0;43;1;Fiber optic;0;1;1;1;1;1;Month-to-month;1;Electronic check;10805;78066;0
+NEW093;Female;0;1;1;3;1;No;0;0;0;0;0;0;Month-to-month;0;Bank transfer (automatic);2455;17507;0
+NEW094;Male;0;0;0;56;1;Fiber optic;0;1;1;0;1;1;Month-to-month;1;Electronic check;1034;737265;1
+NEW095;Female;0;0;0;13;1;Fiber optic;0;1;0;0;0;1;Month-to-month;1;Electronic check;9115;299545;1
+NEW096;Female;0;1;0;49;1;Fiber optic;0;1;1;0;0;1;Month-to-month;1;Bank transfer (automatic);8985;42872;0
+NEW097;Female;0;1;1;66;1;DSL;0;0;1;0;0;0;Month-to-month;0;Bank transfer (automatic);5045;5045;1
+NEW098;Male;0;1;0;72;0;Fiber optic;0;0;0;0;0;0;Month-to-month;0;Credit card (automatic);736;520;1
+NEW099;Female;0;0;0;4;1;Fiber optic;1;1;1;1;1;1;One year;0;Electronic check;11325;789515;0
+NEW100;Male;0;1;0;59;1;Fiber optic;0;1;0;1;1;0;Two year;1;Mailed check;9245;646055;0
+NEW101;Female;1;1;0;72;1;DSL;1;0;0;0;0;0;Two year;1;Credit card (automatic);296;34645;0
+NEW102;Female;1;0;1;72;1;DSL;1;0;1;1;1;1;Two year;1;Credit card (automatic);833;60427;0
+NEW103;Female;0;1;0;53;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Electronic check;7065;354505;0
+NEW104;Female;0;0;0;72;1;Fiber optic;0;0;0;0;0;1;Month-to-month;1;Credit card (automatic);8445;7625;1
+NEW105;Female;0;0;1;70;1;No;0;0;0;0;0;0;Two year;0;Electronic check;205;205;1
+NEW106;Male;0;1;1;68;1;Fiber optic;1;1;1;1;1;0;Two year;0;Credit card (automatic);1045;65908;0
+NEW107;Female;1;1;0;38;0;Fiber optic;0;0;0;0;0;1;Month-to-month;1;Credit card (automatic);7915;31725;1
+NEW108;Female;0;1;0;45;1;DSL;1;0;0;1;0;0;Month-to-month;0;Bank transfer (automatic);351;7704;0
+NEW109;Female;0;1;1;3;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);692;692;1
+NEW110;Female;0;1;0;72;1;DSL;1;1;1;1;0;1;Month-to-month;0;Electronic check;8085;582475;0
+NEW111;Male;0;0;0;52;1;Fiber optic;0;0;1;0;1;1;Month-to-month;1;Mailed check;959;17779;1
+NEW112;Female;0;1;0;63;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);702;11595;1
+NEW113;Male;0;0;0;68;0;DSL;0;1;0;1;1;1;Two year;1;Electronic check;7605;27472;0
+NEW114;Male;0;1;0;17;1;DSL;1;0;0;1;0;0;One year;0;Mailed check;54;10559;0
+NEW115;Female;0;1;1;72;1;No;0;0;0;0;0;0;Month-to-month;1;Mailed check;189;34765;0
+NEW116;Male;0;0;1;7;1;DSL;0;1;1;1;0;0;Month-to-month;1;Bank transfer (automatic);667;107705;0
+NEW117;Male;0;0;0;45;1;Fiber optic;1;1;1;1;1;0;Two year;1;Credit card (automatic);1061;75486;0
+NEW118;Male;0;1;0;15;1;DSL;0;1;1;1;1;1;One year;1;Mailed check;8525;370415;0
+NEW119;Male;1;0;1;1;1;Fiber optic;0;0;1;0;0;0;Two year;0;Electronic check;7535;7535;0
+NEW120;Male;1;1;0;41;1;DSL;0;1;1;0;0;0;One year;1;Electronic check;5615;16815;1
+NEW121;Female;0;0;0;1;1;DSL;1;1;0;0;0;0;Month-to-month;0;Bank transfer (automatic);5975;4265;0
+NEW122;Female;0;1;1;4;1;Fiber optic;0;0;1;1;0;1;Month-to-month;1;Electronic check;892;23836;0
+NEW123;Male;1;1;0;50;1;Fiber optic;0;0;0;0;1;0;Two year;1;Credit card (automatic);7995;17445;0
+NEW124;Male;0;0;0;21;0;DSL;0;0;1;1;1;1;Two year;0;Bank transfer (automatic);546;9348;0
+NEW125;Male;0;1;0;20;1;DSL;1;1;0;1;1;0;Two year;1;Electronic check;6895;59385;0
+NEW126;Male;0;1;0;3;1;DSL;1;1;1;0;0;0;Two year;0;Mailed check;6705;430955;0
+NEW127;Male;1;0;0;18;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;2025;;0
+NEW128;Male;0;1;0;6;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;2355;117335;0
+NEW129;Female;0;0;0;1;1;DSL;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);4425;31345;0
+NEW130;Male;0;1;0;42;1;DSL;1;0;0;1;0;0;Month-to-month;1;Bank transfer (automatic);5625;12922;0
+NEW131;Male;0;1;0;61;1;No;0;0;0;0;0;0;Month-to-month;1;Electronic check;202;6844;0
+NEW132;Female;0;1;0;33;1;DSL;1;0;0;0;0;1;Two year;0;Electronic check;652;454315;0
+NEW133;Female;0;0;0;70;1;Fiber optic;1;0;0;0;1;1;Month-to-month;1;Bank transfer (automatic);951;232605;0
+NEW134;Female;1;0;1;13;0;DSL;1;0;0;1;0;0;Month-to-month;1;Mailed check;606;298525;0
+NEW135;Female;0;1;0;69;0;DSL;1;1;1;1;1;0;Month-to-month;0;Bank transfer (automatic);807;561795;0
+NEW136;Female;0;1;0;53;1;DSL;0;0;0;1;0;0;Month-to-month;1;Bank transfer (automatic);508;28805;1
+NEW137;Male;0;0;1;32;1;Fiber optic;0;1;0;0;0;1;Month-to-month;1;Bank transfer (automatic);898;5026;1
+NEW138;Male;1;1;0;2;1;Fiber optic;1;0;1;0;0;1;One year;1;Mailed check;9365;483915;0
+NEW139;Male;0;0;1;3;1;No;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);1935;84725;0
+NEW140;Female;0;0;1;70;1;No;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);1955;146205;0
+NEW141;Male;0;0;0;71;1;DSL;0;0;0;1;0;0;Two year;1;Bank transfer (automatic);498;197115;0
+NEW142;Female;0;1;0;17;0;DSL;1;1;0;0;0;0;Month-to-month;1;Credit card (automatic);3345;150025;0
+NEW143;Male;0;1;1;32;1;Fiber optic;1;0;0;0;1;1;One year;1;Mailed check;997;156675;0
+NEW144;Female;0;1;0;26;1;DSL;0;0;0;1;1;0;Two year;1;Bank transfer (automatic);6485;29082;0
+NEW145;Female;0;0;0;27;1;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;251;61145;0
+NEW146;Female;0;1;1;72;1;Fiber optic;0;0;1;0;1;1;Two year;1;Credit card (automatic);981;25107;0
+NEW147;Male;0;0;0;64;0;Fiber optic;0;1;1;1;1;1;Two year;1;Electronic check;10995;763425;0
+NEW148;Female;0;1;0;57;1;DSL;1;0;1;1;0;0;Month-to-month;1;Bank transfer (automatic);6025;125835;0
+NEW149;Female;1;1;0;14;1;Fiber optic;0;1;0;0;1;1;Month-to-month;1;Credit card (automatic);987;22491;0
+NEW150;Female;0;0;0;70;0;DSL;1;0;1;1;1;1;Month-to-month;1;Credit card (automatic);845;48454;0
+NEW151;Male;0;1;1;72;1;Fiber optic;0;1;0;0;0;1;Two year;1;Electronic check;85;85;0
+NEW152;Male;1;1;0;8;1;Fiber optic;1;0;0;0;0;0;Month-to-month;0;Electronic check;8035;17472;0
+NEW153;Male;0;1;0;9;1;DSL;1;1;1;1;0;1;One year;1;Credit card (automatic);5535;163695;0
+NEW154;Male;0;0;0;69;1;Fiber optic;0;1;1;0;0;0;Two year;1;Bank transfer (automatic);803;489635;0
+NEW155;Female;0;1;0;9;1;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;194;102395;0
+NEW156;Female;0;0;0;19;1;No;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);1955;65895;1
+NEW157;Male;1;1;0;53;0;DSL;1;0;0;1;1;0;One year;0;Bank transfer (automatic);6225;61295;0
+NEW158;Male;0;1;0;56;1;No;0;0;0;0;0;0;Two year;0;Mailed check;254;180935;0
+NEW159;Male;0;1;1;46;1;Fiber optic;0;1;0;0;0;1;One year;1;Mailed check;8355;47755;1
+NEW160;Female;0;1;0;69;1;DSL;1;0;1;1;1;1;Month-to-month;0;Electronic check;8645;51753;0
+NEW161;Male;0;0;0;39;1;DSL;0;0;1;0;1;1;One year;1;Bank transfer (automatic);5005;274345;0
+NEW162;Male;1;0;0;27;1;Fiber optic;1;1;1;1;1;1;Two year;1;Credit card (automatic);1161;783985;0
+NEW163;Female;0;0;0;48;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);7015;7015;1
+NEW164;Female;0;0;0;65;1;Fiber optic;0;0;0;0;0;1;Month-to-month;1;Credit card (automatic);84;6134;1
+NEW165;Male;0;1;0;67;1;Fiber optic;0;0;1;0;0;1;Two year;1;Mailed check;898;9143;1
+NEW166;Female;0;0;0;31;0;Fiber optic;0;0;0;0;0;1;Two year;1;Electronic check;82;11272;1
+NEW167;Male;0;1;0;22;1;Fiber optic;0;0;1;1;0;1;Month-to-month;1;Mailed check;904;35665;0
+NEW168;Male;0;1;0;48;0;No;0;0;0;0;0;0;Month-to-month;0;Bank transfer (automatic);195;119355;0
+NEW169;Female;1;0;0;17;1;Fiber optic;0;0;1;0;0;1;Month-to-month;0;Electronic check;8645;253805;0
+NEW170;Female;0;1;0;20;0;No;0;0;0;0;0;0;Two year;0;Electronic check;2415;8003;0
+NEW171;Male;0;1;1;13;1;Fiber optic;0;0;1;1;1;1;One year;1;Electronic check;10345;15398;0
+NEW172;Male;0;1;0;45;1;Fiber optic;1;0;0;0;1;1;Month-to-month;0;Mailed check;9815;123025;1
+NEW173;Male;0;0;0;72;1;DSL;1;0;1;0;0;1;Two year;0;Bank transfer (automatic);6745;2731;0
+NEW174;Female;0;1;1;54;1;Fiber optic;0;0;0;0;1;1;Two year;1;Credit card (automatic);893;893;1
+NEW175;Male;0;1;1;69;1;No;0;0;0;0;0;0;One year;1;Credit card (automatic);2355;172395;0
+NEW176;Female;0;0;0;25;1;No;0;0;0;0;0;0;Month-to-month;1;Mailed check;2625;198805;0
+NEW177;Female;0;0;0;28;1;Fiber optic;0;0;0;1;0;0;Two year;1;Credit card (automatic);795;12642;0
+NEW178;Male;0;1;0;48;1;DSL;1;0;1;1;0;1;Month-to-month;0;Mailed check;773;54982;0
+NEW179;Female;0;0;0;1;1;DSL;1;1;0;1;1;0;Month-to-month;1;Electronic check;5125;21516;0
+NEW180;Male;0;0;0;6;1;DSL;0;0;1;0;0;0;Two year;0;Bank transfer (automatic);5415;311615;0
+NEW181;Female;0;0;1;30;1;Fiber optic;1;1;0;0;0;0;Month-to-month;1;Electronic check;7915;401855;0
+NEW182;Female;0;0;0;70;1;DSL;1;1;1;0;1;1;Month-to-month;1;Credit card (automatic);5875;303855;0
+NEW183;Female;0;0;0;52;1;No;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);191;191;1
+NEW184;Male;0;0;0;62;1;No;0;0;0;0;0;0;Two year;0;Electronic check;205;29055;0
+NEW185;Female;0;0;0;23;1;DSL;0;0;0;0;0;0;One year;1;Electronic check;249;249;0
+NEW186;Female;0;0;0;60;1;Fiber optic;1;0;1;1;0;0;Month-to-month;1;Mailed check;9095;593005;0
+NEW187;Female;0;1;0;61;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;1945;24625;0
+NEW188;Female;0;0;1;71;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Electronic check;9455;364045;1
+NEW189;Male;1;0;0;7;1;Fiber optic;0;0;0;0;0;0;Two year;1;Credit card (automatic);695;262525;0
+NEW190;Female;0;0;0;45;1;DSL;0;1;0;0;1;1;Two year;1;Bank transfer (automatic);7755;34711;0
+NEW191;Female;1;1;1;1;1;No;0;0;0;0;0;0;Two year;0;Mailed check;201;107875;0
+NEW192;Male;0;1;0;1;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Electronic check;703;703;1
+NEW193;Female;0;1;0;18;1;DSL;1;0;1;1;1;0;Month-to-month;0;Credit card (automatic);6765;23393;0
+NEW194;Male;0;0;1;61;1;Fiber optic;1;0;0;0;1;0;Two year;1;Bank transfer (automatic);8775;12422;0
+NEW195;Female;1;1;1;70;1;DSL;1;0;0;1;0;0;Two year;1;Electronic check;546;61785;0
+NEW196;Male;0;0;0;34;1;No;0;0;0;0;0;0;Two year;1;Electronic check;1985;252;0
+NEW197;Female;0;1;0;26;1;Fiber optic;0;1;0;0;0;0;Two year;1;Credit card (automatic);795;437025;1
+NEW198;Male;0;0;0;13;1;DSL;1;1;1;0;1;0;Month-to-month;0;Mailed check;664;39582;0
+NEW199;Female;0;0;0;1;1;DSL;0;0;0;0;0;0;Month-to-month;0;Mailed check;4415;4415;0
+NEW200;Male;0;0;1;12;1;Fiber optic;0;1;1;0;1;0;Month-to-month;1;Credit card (automatic);9465;43125;0
+NEW201;Male;0;0;1;28;1;Fiber optic;0;1;0;0;0;0;One year;1;Bank transfer (automatic);8015;385;1
+NEW202;Male;0;0;0;42;1;Fiber optic;0;0;1;0;0;0;Two year;0;Credit card (automatic);729;81845;0
+NEW203;Male;0;0;0;64;0;No;0;0;0;0;0;0;Two year;0;Bank transfer (automatic);246;1279;0
+NEW204;Female;0;0;1;64;1;DSL;0;1;1;0;0;0;Month-to-month;1;Bank transfer (automatic);5605;15532;0
+NEW205;Female;0;0;0;35;1;Fiber optic;0;1;1;0;1;1;Month-to-month;1;Mailed check;1053;5452;1
+NEW206;Male;0;1;0;9;1;Fiber optic;0;1;1;1;1;1;Two year;1;Bank transfer (automatic);1136;62927;0
+NEW207;Female;1;1;0;39;1;DSL;1;1;0;1;0;0;Two year;0;Credit card (automatic);614;186465;0
+NEW208;Female;1;1;0;10;1;Fiber optic;0;0;0;0;1;0;Two year;1;Electronic check;846;208805;0
+NEW209;Female;0;0;0;25;1;DSL;1;0;1;0;1;1;Two year;0;Mailed check;559;218435;1
+NEW210;Female;1;1;1;17;0;No;0;0;0;0;0;0;Month-to-month;0;Credit card (automatic);2035;8699;0
+NEW211;Female;0;0;0;72;1;DSL;1;0;1;0;0;0;Month-to-month;0;Credit card (automatic);5985;310325;0
+NEW212;Female;0;0;0;1;1;DSL;1;0;1;1;0;1;Month-to-month;0;Mailed check;4785;31475;1
+NEW213;Male;0;1;1;35;0;DSL;1;0;1;1;1;1;Two year;1;Bank transfer (automatic);612;439025;0
+NEW214;Female;1;1;0;22;1;Fiber optic;0;0;0;1;1;1;One year;1;Electronic check;1013;28122;1
+NEW215;Female;0;0;1;13;1;Fiber optic;0;0;0;0;0;0;Two year;1;Electronic check;749;32175;1
+NEW216;Male;0;0;0;5;1;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);6995;6995;0
+NEW217;Female;0;1;1;2;1;DSL;0;1;1;0;0;0;Month-to-month;1;Bank transfer (automatic);3565;64605;0
+NEW218;Male;0;1;1;34;1;No;0;0;0;0;0;0;Two year;0;Electronic check;2055;120505;0
+NEW219;Male;0;1;0;70;1;Fiber optic;0;0;0;1;1;0;Month-to-month;1;Credit card (automatic);905;19106;1
+NEW220;Male;0;0;1;15;1;DSL;1;0;0;1;0;0;Month-to-month;1;Credit card (automatic);621;109665;0
+NEW221;Male;1;0;0;13;1;DSL;0;0;1;1;0;0;Two year;0;Electronic check;552;10581;0
+NEW222;Female;1;0;0;46;1;DSL;0;1;0;0;1;0;Month-to-month;0;Mailed check;392;8499;0
+NEW223;Female;0;0;0;54;1;DSL;0;0;0;0;0;0;Two year;1;Mailed check;4495;92625;0
+NEW224;Female;0;0;1;72;1;DSL;1;0;1;1;1;1;Two year;1;Credit card (automatic);8045;588685;0
+NEW225;Female;1;0;0;2;1;Fiber optic;0;1;1;0;0;1;Month-to-month;1;Bank transfer (automatic);956;155565;1
+NEW226;Female;0;1;0;40;1;Fiber optic;0;1;0;0;0;0;Two year;1;Credit card (automatic);7855;52295;0
+NEW227;Female;0;1;0;11;1;DSL;1;0;0;0;0;0;Two year;1;Credit card (automatic);3085;3941;0
+NEW228;Female;0;1;0;3;1;Fiber optic;1;0;1;1;1;1;Month-to-month;1;Electronic check;1045;506805;0
+NEW229;Female;0;0;0;10;1;No;0;0;0;0;0;0;Month-to-month;1;Electronic check;19;19;0
+NEW230;Female;0;1;0;1;1;DSL;0;1;0;1;0;1;Month-to-month;0;Electronic check;638;300725;0
+NEW231;Female;1;1;1;33;1;DSL;1;1;1;1;1;1;Month-to-month;1;Mailed check;917;64247;0
+NEW232;Female;0;0;0;24;1;Fiber optic;0;0;0;0;1;1;Two year;0;Credit card (automatic);8945;8531;1
+NEW233;Female;1;1;0;51;1;DSL;1;1;0;1;1;0;One year;0;Electronic check;487;300855;0
+NEW234;Female;0;1;1;68;1;Fiber optic;0;0;0;0;0;0;Month-to-month;0;Mailed check;756;17586;1
+NEW235;Male;0;0;0;39;1;DSL;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);2445;2445;1
+NEW236;Female;0;1;1;55;1;No;0;0;0;0;0;0;One year;0;Electronic check;2505;18737;0
+NEW237;Male;0;0;0;62;1;Fiber optic;0;0;1;0;1;1;Month-to-month;0;Mailed check;9495;1781;1
+NEW238;Male;0;1;1;72;1;Fiber optic;1;0;0;0;1;1;Two year;1;Mailed check;10075;2095;1
+NEW239;Male;0;1;1;5;1;DSL;0;0;0;1;1;0;Month-to-month;1;Credit card (automatic);6615;3199;0
+NEW240;Female;0;0;1;59;1;DSL;1;0;0;0;1;0;Month-to-month;1;Bank transfer (automatic);5975;39968;0
+NEW241;Female;0;0;1;60;0;No;0;0;0;0;0;0;Two year;0;Electronic check;20;1092;0
+NEW242;Male;1;1;0;3;1;No;0;0;0;0;0;0;Two year;0;Electronic check;254;17971;0
+NEW243;Male;0;0;0;72;1;Fiber optic;0;0;0;0;0;0;One year;1;Mailed check;71;71;1
+NEW244;Male;1;0;1;7;1;DSL;0;0;0;0;1;1;Month-to-month;1;Bank transfer (automatic);6625;54645;0
+NEW245;Female;1;0;0;1;1;DSL;1;0;1;1;1;1;Month-to-month;0;Mailed check;81;49859;0
+NEW246;Male;0;0;1;1;1;Fiber optic;0;1;0;0;1;1;One year;1;Bank transfer (automatic);998;67325;1
+NEW247;Male;0;0;1;52;1;Fiber optic;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);765;16245;1
+NEW248;Male;1;0;0;1;1;No;0;0;0;0;0;0;Month-to-month;1;Mailed check;2445;15136;0
+NEW249;Female;1;1;0;59;1;No;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);25;3325;0
+NEW250;Female;0;0;0;53;1;No;0;0;0;0;0;0;Two year;0;Credit card (automatic);1965;2448;0
+NEW251;Female;0;0;0;11;1;No;0;0;0;0;0;0;One year;1;Bank transfer (automatic);241;15516;0
+NEW252;Female;0;0;1;72;1;No;0;0;0;0;0;0;Two year;0;Mailed check;1915;50135;0
+NEW253;Male;0;1;0;39;1;Fiber optic;0;1;0;0;0;0;Two year;1;Bank transfer (automatic);7645;12334;1
+NEW254;Male;0;0;1;51;1;No;0;0;0;0;0;0;Month-to-month;0;Credit card (automatic);198;57665;0
+NEW255;Female;1;0;1;71;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Bank transfer (automatic);891;3342;0
+NEW256;Male;0;1;1;23;1;DSL;1;0;0;0;0;0;Month-to-month;1;Credit card (automatic);509;229855;0
+NEW257;Female;0;1;0;72;1;No;0;0;0;0;0;0;Two year;1;Electronic check;202;5079;0
+NEW258;Male;0;0;1;44;1;Fiber optic;1;0;0;1;1;1;One year;1;Electronic check;9985;23313;1
+NEW259;Male;0;1;0;67;1;Fiber optic;1;1;0;0;1;1;Month-to-month;1;Mailed check;1051;75481;1
+NEW260;Female;1;1;0;31;1;Fiber optic;1;1;1;0;1;1;Month-to-month;1;Electronic check;109;76618;0
+NEW261;Female;0;0;1;46;1;Fiber optic;0;1;1;0;1;0;Month-to-month;1;Mailed check;9635;39154;0
+NEW262;Female;1;1;1;55;1;No;0;0;0;0;0;0;One year;0;Electronic check;2625;6059;0
+NEW263;Male;0;0;1;71;1;Fiber optic;0;1;0;0;1;1;One year;1;Credit card (automatic);944;561025;1
+NEW264;Male;1;0;1;37;1;No;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);193;14479;0
+NEW265;Female;0;1;1;40;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Bank transfer (automatic);946;946;1
+NEW266;Female;0;1;0;47;1;DSL;0;1;1;1;1;0;One year;0;Bank transfer (automatic);5135;32444;0
+NEW267;Male;0;1;0;49;0;Fiber optic;0;1;1;0;1;1;Two year;1;Bank transfer (automatic);10385;54855;1
+NEW268;Female;0;1;0;6;1;DSL;1;0;1;1;0;1;One year;0;Mailed check;7325;40542;0
+NEW269;Male;0;1;0;63;1;Fiber optic;1;1;0;0;1;1;One year;1;Bank transfer (automatic);1009;673315;0
+NEW270;Female;0;0;0;49;1;No;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);1925;1803;1
+NEW271;Female;0;0;1;18;0;Fiber optic;0;0;0;0;1;0;Month-to-month;1;Electronic check;805;23235;0
+NEW272;Male;0;1;0;70;1;Fiber optic;0;0;1;0;1;0;Month-to-month;1;Electronic check;925;4527;1
+NEW273;Female;0;0;0;26;1;Fiber optic;1;0;0;0;1;0;Month-to-month;1;Credit card (automatic);898;49596;0
+NEW274;Female;0;0;1;6;1;Fiber optic;1;0;1;0;1;1;Month-to-month;1;Mailed check;1055;7544;0
+NEW275;Male;0;1;0;55;1;No;0;0;0;0;0;0;Two year;0;Credit card (automatic);2045;2424;0
+NEW276;Male;0;0;1;47;1;DSL;0;0;0;1;0;0;Two year;0;Mailed check;515;9005;1
+NEW277;Female;0;0;1;71;1;DSL;1;1;0;1;0;0;One year;0;Mailed check;395;108275;0
+NEW278;Male;0;1;0;43;1;Fiber optic;1;1;0;0;1;0;Two year;1;Mailed check;948;48376;1
+NEW279;Male;1;1;0;65;1;Fiber optic;0;0;0;0;1;0;Month-to-month;1;Electronic check;7955;7955;1
+NEW280;Female;0;1;0;44;1;DSL;1;0;1;1;1;1;One year;0;Credit card (automatic);8185;59244;0
+NEW281;Male;0;1;0;35;1;DSL;1;0;1;0;0;0;One year;0;Credit card (automatic);559;15755;0
+NEW282;Female;0;1;0;1;1;Fiber optic;0;0;0;0;0;1;One year;1;Bank transfer (automatic);8205;402995;1
+NEW283;Female;0;0;0;55;1;No;0;0;0;0;0;0;Two year;1;Mailed check;249;4677;0
+NEW284;Male;0;1;1;69;1;DSL;0;1;0;1;0;0;Month-to-month;1;Electronic check;5515;119305;1
+NEW285;Male;0;1;1;68;1;DSL;1;0;1;1;1;1;Month-to-month;0;Bank transfer (automatic);607;223455;0
+NEW286;Male;0;0;1;54;1;Fiber optic;0;0;0;0;0;1;Month-to-month;1;Electronic check;803;248305;1
+NEW287;Female;0;0;0;41;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Credit card (automatic);9355;5364;1
+NEW288;Male;0;1;0;43;1;Fiber optic;0;1;1;0;1;1;Two year;0;Electronic check;1051;663185;0
+NEW289;Female;1;0;0;60;1;No;0;0;0;0;0;0;Month-to-month;1;Mailed check;2085;13274;0
+NEW290;Male;0;1;1;41;1;Fiber optic;0;0;1;1;1;1;Two year;1;Electronic check;10505;600485;0
+NEW291;Female;0;1;0;22;1;Fiber optic;0;1;0;0;1;0;Two year;1;Bank transfer (automatic);889;60001;0
+NEW292;Male;0;0;0;22;1;Fiber optic;0;0;0;1;1;1;Month-to-month;0;Electronic check;10055;389535;0
+NEW293;Male;0;1;1;36;1;Fiber optic;0;0;1;0;1;1;One year;1;Electronic check;9925;66545;1
+NEW294;Female;0;0;0;27;1;Fiber optic;0;1;0;0;1;1;Month-to-month;1;Mailed check;9915;36156;1
+NEW295;Female;1;1;0;21;1;DSL;0;1;1;1;0;1;Month-to-month;0;Electronic check;51;22645;0
+NEW296;Female;1;1;0;9;1;Fiber optic;1;1;1;1;1;1;Month-to-month;0;Mailed check;11525;675845;0
+NEW297;Male;0;1;0;52;1;Fiber optic;0;0;0;0;0;0;Month-to-month;0;Electronic check;6915;22751;0
+NEW298;Female;0;0;1;1;1;Fiber optic;0;1;0;0;1;1;One year;1;Bank transfer (automatic);9465;128505;0
+NEW299;Female;1;1;0;5;1;Fiber optic;0;1;0;1;0;0;Month-to-month;0;Bank transfer (automatic);853;29175;1
+NEW300;Female;0;0;0;11;1;Fiber optic;0;1;1;0;1;1;Month-to-month;1;Credit card (automatic);1088;708245;0
+NEW301;Female;0;1;0;1;1;DSL;0;1;0;0;0;0;Month-to-month;1;Mailed check;4955;207795;0
+NEW302;Male;0;1;0;22;1;No;0;0;0;0;0;0;One year;1;Bank transfer (automatic);197;4194;0
+NEW303;Male;0;1;0;10;1;Fiber optic;0;1;0;0;0;1;Month-to-month;1;Credit card (automatic);8955;63731;0
+NEW304;Male;0;1;0;36;1;Fiber optic;0;1;1;0;1;1;Two year;1;Credit card (automatic);10775;48828;0
+NEW305;Male;0;1;0;36;1;Fiber optic;0;0;0;0;0;1;Two year;0;Mailed check;8555;508465;1
+NEW306;Female;0;0;0;9;1;No;0;0;0;0;0;0;Two year;0;Electronic check;1965;2706;0
+NEW307;Female;0;0;0;18;1;Fiber optic;0;0;0;0;0;0;Two year;1;Credit card (automatic);704;2047;1
+NEW308;Female;0;1;1;3;1;No;0;0;0;0;0;0;One year;0;Credit card (automatic);2025;17235;0
+NEW309;Female;0;1;0;2;1;DSL;1;1;0;1;1;0;Two year;1;Mailed check;7035;412465;0
+NEW310;Female;0;1;0;15;1;DSL;1;0;1;0;0;1;Month-to-month;1;Electronic check;6315;8168;0
+NEW311;Female;1;0;0;59;0;Fiber optic;0;0;0;0;0;0;Month-to-month;1;Electronic check;6905;38426;0
+NEW312;Female;0;1;1;15;1;Fiber optic;0;0;0;0;1;0;Two year;1;Credit card (automatic);8405;96655;0
+NEW313;Male;0;0;1;48;1;No;0;0;0;0;0;0;Month-to-month;1;Electronic check;194;111035;0
+NEW314;Male;0;0;0;67;1;DSL;0;0;1;0;0;0;Month-to-month;0;Bank transfer (automatic);4895;13237;0
+NEW315;Female;0;0;1;2;1;Fiber optic;0;0;1;1;1;0;One year;0;Bank transfer (automatic);888;48053;0
+NEW316;Male;0;1;1;51;1;DSL;1;1;0;1;0;0;Two year;1;Electronic check;4055;139085;0
+NEW317;Male;0;1;0;69;1;DSL;0;0;0;1;0;0;Month-to-month;0;Bank transfer (automatic);2985;756;1
+NEW318;Male;0;1;1;9;1;Fiber optic;0;1;1;1;1;1;Month-to-month;0;Bank transfer (automatic);1109;792275;0
+NEW319;Male;1;1;1;52;1;Fiber optic;0;0;0;1;0;0;Two year;0;Electronic check;74;74;0
+NEW320;Male;0;1;0;35;0;No;0;0;0;0;0;0;Month-to-month;0;Electronic check;206;69025;0
+NEW321;Female;0;0;0;67;1;Fiber optic;1;1;1;0;1;1;Month-to-month;1;Bank transfer (automatic);1108;75536;0
+NEW322;Female;0;1;0;58;0;DSL;1;1;1;0;1;1;Two year;1;Electronic check;5945;188465;0
+NEW323;Female;1;1;0;17;1;No;0;0;0;0;0;0;Two year;1;Credit card (automatic);199;4575;0
+NEW324;Female;1;1;1;35;0;Fiber optic;0;0;1;1;1;1;Two year;1;Electronic check;1033;651835;0
+NEW325;Male;0;0;1;66;1;Fiber optic;0;1;0;0;1;1;One year;0;Credit card (automatic);10055;711375;0
+NEW326;Female;1;1;0;1;1;DSL;0;1;0;0;0;0;Month-to-month;0;Electronic check;2965;9005;0
+NEW327;Male;0;1;1;40;1;No;0;0;0;0;0;0;Month-to-month;0;Bank transfer (automatic);212;5205;0
+NEW328;Female;1;0;1;11;1;Fiber optic;1;0;0;0;1;1;One year;1;Bank transfer (automatic);946;228315;0
+NEW329;Female;0;0;0;69;0;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;194;5785;0
+NEW330;Female;0;0;1;1;1;Fiber optic;1;1;0;0;1;0;Month-to-month;1;Credit card (automatic);943;38936;0
+NEW331;Male;0;0;0;71;1;Fiber optic;1;1;1;1;1;1;Two year;0;Bank transfer (automatic);10975;61102;1
+NEW332;Male;1;1;1;11;1;DSL;1;0;1;0;1;1;Two year;0;Electronic check;7475;24533;0
+NEW333;Female;0;1;1;69;1;Fiber optic;0;0;1;0;0;0;Month-to-month;0;Credit card (automatic);7535;102595;1
+NEW334;Female;1;1;1;28;1;DSL;0;1;1;1;1;1;One year;1;Electronic check;60;4264;0
+NEW335;Female;0;0;0;61;1;DSL;1;1;1;1;1;1;One year;0;Mailed check;898;651045;0
+NEW336;Male;0;1;0;16;1;DSL;1;1;1;1;1;0;Two year;0;Credit card (automatic);7915;55365;0
+NEW337;Male;1;0;0;1;1;Fiber optic;0;1;0;0;1;1;Month-to-month;0;Electronic check;9565;1673;1
+NEW338;Male;0;1;0;69;1;DSL;0;0;0;0;0;0;Two year;0;Electronic check;447;2765;0
+NEW339;Female;0;0;0;48;1;DSL;0;0;1;0;1;0;Two year;1;Credit card (automatic);598;82485;0
+NEW340;Female;0;1;1;9;1;No;0;0;0;0;0;0;One year;0;Mailed check;243;8216;0
+NEW341;Female;0;0;0;58;1;Fiber optic;0;0;0;0;1;1;Month-to-month;1;Electronic check;942;1938;1
+NEW342;Male;0;1;0;35;1;Fiber optic;0;0;1;1;1;1;Two year;0;Credit card (automatic);1031;97045;0
+NEW343;Male;1;0;1;15;1;Fiber optic;0;0;1;0;1;1;One year;0;Electronic check;965;49255;1
+NEW344;Male;0;1;0;72;1;DSL;0;0;0;0;1;0;One year;0;Credit card (automatic);5535;44975;1
+NEW345;Male;0;0;1;30;1;Fiber optic;1;0;1;0;1;1;Month-to-month;0;Electronic check;10555;74055;0
+NEW346;Male;1;0;0;5;1;Fiber optic;1;0;1;0;1;1;Two year;1;Bank transfer (automatic);1061;78485;0
+NEW347;Male;0;0;0;59;1;No;0;0;0;0;0;0;Two year;0;Credit card (automatic);243;164325;0
+NEW348;Male;0;1;0;43;1;Fiber optic;0;1;0;1;1;0;One year;1;Mailed check;8975;6088;1
+NEW349;Male;1;1;0;15;0;Fiber optic;1;1;1;1;0;1;Month-to-month;1;Electronic check;1072;73171;0
+NEW350;Male;0;1;0;22;1;Fiber optic;0;1;1;0;1;1;Two year;1;Electronic check;1044;669265;0
+NEW351;Female;0;0;0;29;1;DSL;0;1;1;1;0;0;Month-to-month;0;Electronic check;6445;18676;0
+NEW352;Male;0;1;1;17;1;DSL;0;0;0;0;1;1;Month-to-month;1;Electronic check;45;268935;0
+NEW353;Female;0;1;0;38;1;DSL;0;1;1;1;1;1;Month-to-month;1;Mailed check;807;570505;0
+NEW354;Female;0;0;1;51;1;DSL;0;1;0;0;0;0;Two year;0;Bank transfer (automatic);566;23791;0
+NEW355;Male;0;1;0;72;1;DSL;1;0;1;0;0;0;Two year;1;Bank transfer (automatic);551;11335;1
+NEW356;Male;0;1;0;22;1;DSL;0;0;0;0;1;1;One year;1;Electronic check;6485;201095;0
+NEW357;Male;0;1;1;61;1;No;0;0;0;0;0;0;Two year;1;Bank transfer (automatic);2025;2025;0
+NEW358;Female;0;0;0;52;1;No;0;0;0;0;0;0;One year;1;Bank transfer (automatic);1925;8642;0
+NEW359;Male;1;0;1;72;0;DSL;0;1;1;1;1;1;One year;1;Bank transfer (automatic);8595;593175;0
+NEW360;Female;1;0;0;1;1;DSL;1;1;1;1;0;1;Two year;0;Electronic check;7985;47861;0
+NEW361;Female;0;1;0;7;1;DSL;0;1;0;1;0;0;One year;0;Mailed check;3545;139165;0
+NEW362;Female;0;0;0;72;0;No;0;0;0;0;0;0;Two year;0;Electronic check;194;1083;0
+NEW363;Male;0;0;0;29;0;No;0;0;0;0;0;0;Month-to-month;0;Credit card (automatic);1985;118825;0
+NEW364;Male;0;0;0;54;1;No;0;0;0;0;0;0;Two year;0;Electronic check;248;18743;0
+NEW365;Male;0;0;0;1;1;Fiber optic;0;0;0;0;0;0;One year;1;Bank transfer (automatic);745;745;1
+NEW366;Female;0;1;1;53;1;Fiber optic;0;0;1;0;1;1;Two year;1;Mailed check;9525;546465;1
+NEW367;Female;0;0;0;1;1;Fiber optic;1;1;1;0;1;1;Month-to-month;1;Mailed check;1091;564795;0
+NEW368;Male;0;1;1;10;1;DSL;0;1;1;0;0;0;Two year;0;Mailed check;595;338925;0
+NEW369;Male;0;1;0;71;1;Fiber optic;0;1;1;1;0;1;One year;1;Mailed check;9495;21428;0
+NEW370;Male;1;1;0;40;0;DSL;0;1;0;0;0;0;One year;1;Electronic check;3035;13597;1
+NEW371;Male;0;0;0;6;1;Fiber optic;0;0;0;1;1;1;Month-to-month;1;Credit card (automatic);957;233835;0
+NEW372;Male;0;1;0;0;1;Fiber optic;1;0;0;0;0;1;Month-to-month;1;Mailed check;8915;41325;0
+NEW373;Female;1;1;0;56;1;No;0;0;0;0;0;0;One year;1;Bank transfer (automatic);1925;1925;0
+NEW374;Female;0;1;1;1;1;Fiber optic;0;0;1;0;1;1;Two year;0;Electronic check;9805;39906;0
+NEW375;Female;0;1;0;21;1;Fiber optic;0;1;0;1;1;1;Month-to-month;1;Credit card (automatic);10005;603485;0
+NEW376;Male;0;1;0;64;1;Fiber optic;0;1;0;0;1;1;One year;0;Credit card (automatic);10085;81955;1
+NEW377;Male;0;1;1;16;0;DSL;0;0;1;0;1;1;One year;1;Credit card (automatic);5005;15234;0
+NEW378;Female;0;0;0;54;0;DSL;0;1;1;0;1;1;Two year;1;Electronic check;735;19057;0
+NEW379;Male;0;0;0;8;1;No;0;0;0;0;0;0;One year;1;Credit card (automatic);191;126885;0
+NEW380;Male;0;1;1;1;1;Fiber optic;1;1;1;1;1;1;Month-to-month;0;Mailed check;1093;778285;0
+NEW381;Male;0;1;0;63;1;DSL;1;0;1;1;0;0;One year;1;Mailed check;3915;269275;0
+NEW382;Male;0;0;0;24;1;No;0;0;0;0;0;0;One year;0;Bank transfer (automatic);199;79115;0
+NEW383;Male;0;1;1;44;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;1995;8624;0
+NEW384;Male;0;0;0;23;1;No;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);24;16643;0
+NEW385;Female;1;0;0;70;1;DSL;0;0;0;0;1;0;Month-to-month;1;Mailed check;358;36315;0
+NEW386;Male;0;0;1;30;1;DSL;0;0;0;0;0;0;Two year;0;Credit card (automatic);44;44;0
+NEW387;Female;1;1;0;47;1;DSL;0;1;1;0;1;1;One year;1;Credit card (automatic);564;29285;0
+NEW388;Female;0;1;0;29;1;Fiber optic;0;0;0;1;0;0;Two year;1;Bank transfer (automatic);805;50285;1
+NEW389;Male;1;1;0;72;1;DSL;1;0;0;1;0;0;Two year;0;Credit card (automatic);545;37782;0
+NEW390;Male;0;0;0;70;1;No;0;0;0;0;0;0;One year;0;Bank transfer (automatic);20;66675;0
+NEW391;Female;0;1;1;72;0;Fiber optic;1;1;1;1;1;1;Two year;0;Bank transfer (automatic);1133;503225;0
+NEW392;Female;0;1;0;58;1;Fiber optic;0;0;1;0;1;1;One year;1;Mailed check;94;150545;0
+NEW393;Male;0;1;0;71;1;Fiber optic;0;0;0;0;1;1;One year;1;Mailed check;895;6767;1
+NEW394;Male;0;0;0;2;1;DSL;0;1;1;0;1;1;Two year;1;Bank transfer (automatic);5445;285455;1
+NEW395;Female;0;0;0;35;1;Fiber optic;0;0;0;0;1;0;One year;1;Electronic check;8375;184995;0
+NEW396;Female;0;0;0;50;1;DSL;0;0;0;0;0;0;Month-to-month;1;Credit card (automatic);453;453;1
+NEW397;Male;0;1;1;2;1;Fiber optic;0;0;0;1;1;0;Two year;1;Bank transfer (automatic);915;323635;0
+NEW398;Male;0;0;0;67;1;DSL;0;0;0;1;1;1;Month-to-month;1;Electronic check;7345;26611;0
+NEW399;Male;0;1;1;71;1;DSL;0;1;0;0;0;1;Two year;0;Mailed check;6405;39026;0
+NEW400;Female;0;0;0;48;1;Fiber optic;0;1;1;0;1;1;One year;1;Electronic check;1063;444345;1
