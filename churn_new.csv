@@ -125,7 +125,7 @@ NEW123;Male;1;1;0;50;1;Fiber optic;0;0;0;0;1;0;Two year;1;Credit card (automatic
 NEW124;Male;0;0;0;21;0;DSL;0;0;1;1;1;1;Two year;0;Bank transfer (automatic);546;9348
 NEW125;Male;0;1;0;20;1;DSL;1;1;0;1;1;0;Two year;1;Electronic check;6895;59385
 NEW126;Male;0;1;0;3;1;DSL;1;1;1;0;0;0;Two year;0;Mailed check;6705;430955
-NEW127;Male;1;0;0;18;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;2025;
+NEW127;Male;1;0;0;18;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;2025;36450
 NEW128;Male;0;1;0;6;1;No;0;0;0;0;0;0;Month-to-month;0;Mailed check;2355;117335
 NEW129;Female;0;0;0;1;1;DSL;0;0;0;0;0;0;Month-to-month;1;Bank transfer (automatic);4425;31345
 NEW130;Male;0;1;0;42;1;DSL;1;0;0;1;0;0;Month-to-month;1;Bank transfer (automatic);5625;12922
