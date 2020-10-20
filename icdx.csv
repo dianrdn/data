@@ -1,0 +1,427 @@
+KATEGORI,ICD,DIAGNOSA,KUNJUNGAN_RAWAT_JALAN,BIAYA_RAWAT_JALAN,KUNJUNGAN_RAWAT_INAP,BIAYA_RAWAT_INAP,KUNJUNGAN_KHUSUS,BIAYA_KHUSUS,KUNJUNGAN_RAWAT_GIGI,BIAYA_RAWAT_GIGI,KUNJUNGAN_PERSALINAN,BIAYA_PERSALINAN,KUNJUNGAN_ALAT_REHABILITASI,BIAYA_ALAT_REHABILITASI,KUNJUNGAN_TAMBAHAN,BIAYA_TAMBAHAN,KUNJUNGAN_TOTAL,BIAYA_TOTAL,NO_URUT
+X Diseases of the respiratory system  ,J00,NASOFARINGITIS AKUT,2404,479874832.5,3,7977007,0,0,0,0,0,0,0,0,0,0,2407,487851839.5,1
+XI Diseases of the digestive system  ,K04,PENYAKIT PULPA DAN PERIAPIKAL (JARINGAN SEKITAR AKAR GIGI),83,15940826,0,0,0,0,2236,690587020.6,0,0,1,800000,0,0,2320,707327846.6,2
+X Diseases of the respiratory system  ,J06,INFEKSI SALURAN NAFAS ATAS AKUT PADA TEMPAT YANG TIDAK DIKETAHUI,1883,429116628.4,3,10851313,0,0,0,0,0,0,0,0,0,0,1886,439967941.4,3
+XXI Factors influencing health status and contact with health services  ,Z34,PENGAWASAN KEHAMILAN NORMAL,180,56567798.88,0,0,0,0,0,0,514,223226288.8,0,0,0,0,694,279794087.7,4
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R50,DEMAM YANG SEBELUMNYA TIDAK DIKETAHUI,467,127998317.7,7,30595168,0,0,0,0,0,0,0,0,0,0,474,158593485.7,5
+VII Diseases of the eye and adnexa  ,H52,GANGGUAN REFRAKSI DAN AKOMODASI,140,24960458,0,0,0,0,0,0,0,0,310,452355000,0,0,450,477315458,6
+VII Diseases of the eye and adnexa  ,H10,KONJUNGTIVITIS,330,61176156.84,0,0,0,0,0,0,0,0,19,30160000,0,0,349,91336156.84,7
+XIII Diseases of the musculoskeletal system and connective tissue  ,M54,LOW BACK PAIN,333,102999777.7,0,0,0,0,1,120800,0,0,0,0,0,0,334,103120577.7,8
+I Certain infectious and parasitic diseases  ,A09,DIARE DAN GASTROENTERITIS OLEH PENYEBAB INFEKSI TERTENTU,257,68104307.85,27,133056870,0,0,0,0,1,590440,0,0,0,0,285,201751617.9,9
+XXI Factors influencing health status and contact with health services  ,Z00,PENELIATIAN DAN PEMERIKSAAN UMUM TERHADAP ORANG TANPA KELUHAN DAN LAPORAN DIAGNOSIS,281,19462625,0,0,0,0,0,0,0,0,0,0,0,0,281,19462625,10
+XI Diseases of the digestive system  ,K02,KARIES GIGI,9,1706000,4,9792020,0,0,243,87973678.08,0,0,0,0,0,0,256,99471698.08,11
+X Diseases of the respiratory system  ,J02,FARINGITIS AKUT,250,63626454.63,2,8346090,0,0,0,0,0,0,0,0,0,0,252,71972544.63,12
+"IV Endocrine, nutritional and metabolic diseases  ",E78,GANGGUAN METABOLISME LIPOPROTEIN DAN LIPIDAL URIN LAINNYA,242,114595257.5,0,0,0,0,0,0,0,0,0,0,0,0,242,114595257.5,13
+I Certain infectious and parasitic diseases  ,A15,"TUBERKULOSIS PARU, TERBUKTI SECARA HISTOLOGIS DAN BAKTERIOLOGIS",207,64989872,0,0,0,0,0,0,0,0,0,0,0,0,207,64989872,14
+XI Diseases of the digestive system  ,K29,GASTRITIS DAN DUODENITIS,200,61022777.05,2,10385752,0,0,0,0,0,0,0,0,0,0,202,71408529.05,15
+XII Diseases of the skin and subcutaneous tissue  ,L20,DERMATITIS ATOPIK,174,34717176.21,0,0,0,0,0,0,0,0,0,0,0,0,174,34717176.21,16
+XXI Factors influencing health status and contact with health services  ,Z24,KEBUTUHAN AKAN VAKSINASI TERHADAP SEJENIS PENYAKIT VIRUS TERTENTU,171,70708016,0,0,0,0,0,0,0,0,0,0,0,0,171,70708016,17
+IX Diseases of the circulatory system  ,I10,HIPERTENSI ESENSIAL (PRIMER),154,64721498.43,0,0,0,0,0,0,0,0,0,0,0,0,154,64721498.43,18
+XII Diseases of the skin and subcutaneous tissue  ,L30,DERMATITIS LAINNYA,142,33504687.5,0,0,0,0,0,0,0,0,0,0,0,0,142,33504687.5,19
+I Certain infectious and parasitic diseases  ,A01,DEMAM TIFOID DAN PARATIFOID,120,46306917,9,87573182,0,0,0,0,0,0,0,0,0,0,129,133880099,20
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R05,BATUK,123,26844910.74,0,0,0,0,0,0,0,0,0,0,0,0,123,26844910.74,21
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R10,NYERI ABDOMEN DAN PANGGUL,115,37347435,6,32894360,0,0,0,0,0,0,0,0,0,0,121,70241795,22
+X Diseases of the respiratory system  ,J45,ASMA,109,41627786.63,1,1966220,0,0,0,0,0,0,0,0,0,0,110,43594006.63,23
+"IV Endocrine, nutritional and metabolic diseases  ",E11,DIABETES MELITUS YANG TIDAK TERGANTUNG INSULIN,107,79377359.1,1,12073790,0,0,0,0,0,0,0,0,0,0,108,91451149.1,24
+X Diseases of the respiratory system  ,J18,PNEUMONIA OLEH ORGANISME YANG TAK DIKLASIFIKASIKAN,80,19800019.71,20,161191559,0,0,0,0,0,0,0,0,0,0,100,180991578.7,25
+XI Diseases of the digestive system  ,K01,GIGI IMPAKSI,2,4844790,8,18888522,0,0,84,32081847,0,0,0,0,0,0,94,55815159,26
+XIII Diseases of the musculoskeletal system and connective tissue  ,M79,"GANGGUAN JARINGAN LUNAK LAINNYA, NOS",86,14418494.01,7,54861694,0,0,0,0,0,0,0,0,0,0,93,69280188.01,27
+XI Diseases of the digestive system  ,K30,GANGGUAN FUNGSI LAMBUNG,86,20832757.6,5,27622984,0,0,0,0,0,0,0,0,0,0,91,48455741.6,28
+VIII Diseases of the ear and mastoid process  ,H61,GANGGUAN LAIN TELINGA LUAR,81,25830325.44,0,0,0,0,0,0,0,0,0,0,0,0,81,25830325.44,29
+X Diseases of the respiratory system  ,J01,SINUSITIS AKUT,81,20944262.6,0,0,0,0,0,0,0,0,0,0,0,0,81,20944262.6,30
+XXI Factors influencing health status and contact with health services  ,Z39,POSTPARTUM CARE AND EXAMINATION,38,8628842,1,1174700,0,0,0,0,42,16933957.8,0,0,0,0,81,26737499.8,31
+XI Diseases of the digestive system  ,K05,PENYAKIT GUSI DAN JARINGAN PERIODONTAL,4,1501500.6,0,0,0,0,67,17800492,0,0,0,0,0,0,71,19301992.6,32
+XXI Factors influencing health status and contact with health services  ,Z23,PEBUTUHAN AKAN VAKSINASI TERHADAP SEJENIS PENYAKIT BAKTERI,68,10005739,0,0,0,0,0,0,0,0,0,0,0,0,68,10005739,33
+XXI Factors influencing health status and contact with health services  ,Z48,PERAWATAN BEDAH LANJUTAN LAIN,68,10858134,0,0,0,0,0,0,0,0,0,0,0,0,68,10858134,34
+XXI Factors influencing health status and contact with health services  ,Z30,PENGELOLAAN KONTRASEPSI,57,18780606.54,0,0,0,0,0,0,0,0,0,0,0,0,57,18780606.54,35
+X Diseases of the respiratory system  ,J03,TONSILITIS AKUT,54,9841641.23,2,9812381,0,0,0,0,0,0,0,0,0,0,56,19654022.23,36
+I Certain infectious and parasitic diseases  ,A16,"RESPIRATORY TUBERCULOSIS, NOT CONFIRMED BACTERIOLOGICALLY OR HISTOLOGICALLY",55,25805279.83,0,0,0,0,0,0,0,0,0,0,0,0,55,25805279.83,37
+XIII Diseases of the musculoskeletal system and connective tissue  ,M75,LESI LESI BAHU,50,14233658.2,0,0,0,0,0,0,0,0,0,0,0,0,50,14233658.2,38
+IX Diseases of the circulatory system  ,I25,PENYAKIT JANTUNG ISKEMIK KRONIS,49,27495861,0,0,0,0,0,0,0,0,0,0,0,0,49,27495861,39
+X Diseases of the respiratory system  ,J31,"RINITIS, NASOFARINGITIS DAN FARINGITIS KRONIK",45,18103979.62,0,0,0,0,0,0,0,0,0,0,0,0,45,18103979.62,40
+XIII Diseases of the musculoskeletal system and connective tissue  ,M43,DEFORMING DOSORPHATI YANG LAIN,45,6003950,0,0,0,0,0,0,0,0,0,0,0,0,45,6003950,41
+VIII Diseases of the ear and mastoid process  ,H66,OTITIS MEDIA SUPURATIF DAN YANG TIDAK DITENTUKAN,42,16100585.29,1,32273902,0,0,0,0,0,0,0,0,0,0,43,48374487.29,42
+XI Diseases of the digestive system  ,K21,PENYAKIT REFLUKS GASTRO-ESOFAGUS,42,29043128.46,0,0,0,0,0,0,0,0,0,0,0,0,42,29043128.46,43
+I Certain infectious and parasitic diseases  ,A91,DEMAM DENGUE DENGAN PERDARAHAN/ DHF,15,4857031,25,173254517,0,0,0,0,0,0,0,0,0,0,40,178111548,44
+VI Diseases of the nervous system  ,G44,SINDROMA NYERI KEPALA LAINNYA,39,5135436.5,0,0,0,0,0,0,0,0,0,0,0,0,39,5135436.5,45
+X Diseases of the respiratory system  ,J30,RINITIS VASOMOTOR DAN ALETRGIK,39,14858796,0,0,0,0,0,0,0,0,0,0,0,0,39,14858796,46
+I Certain infectious and parasitic diseases  ,A90,DEMAM DENGUE (DENGUE KLASIK),26,13928433,12,74966776,0,0,0,0,0,0,0,0,0,0,38,88895209,47
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R51,SAKIT KEPALA,37,17225420.8,0,0,0,0,0,0,0,0,0,0,0,0,37,17225420.8,48
+I Certain infectious and parasitic diseases  ,B35,DERMATOFITOSIS,36,14255178.68,0,0,0,0,0,0,0,0,0,0,0,0,36,14255178.68,49
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R07,NYERI TENGGOROKAN DAN DADA,35,9569074,0,0,0,0,0,0,0,0,0,0,0,0,35,9569074,50
+"XV Pregnancy, childbirth and the puerperium  ",O82,PERSALINAN TUNGGAL DENGAN SEKSIO SESAR,4,55328013,1,22985701,0,0,0,0,30,729033273,0,0,0,0,35,807346987,51
+XIV Diseases of the genitourinary system  ,N39,GANGGUAN SISTEM KEMIH LAINNYA,32,12364405.85,1,16085340,0,0,0,0,0,0,0,0,0,0,33,28449745.85,52
+XI Diseases of the digestive system  ,K03,PENYAKIT JARINGAN KERAS GIGI LAINNYA,0,0,0,0,0,0,32,13553204,0,0,1,200000,0,0,33,13753204,53
+I Certain infectious and parasitic diseases  ,B34,INFEKSI VIRUS PADA TEMPAT YANG TIDAK DIKETAHUI,28,11006224.2,4,18292777,0,0,0,0,0,0,0,0,0,0,32,29299001.2,54
+XIII Diseases of the musculoskeletal system and connective tissue  ,M19,ARTHROSIS YANG LAIN,32,7104985,0,0,0,0,0,0,0,0,0,0,0,0,32,7104985,55
+XXI Factors influencing health status and contact with health services  ,Z01,PENELITIAN DAN PEMERIKSAAN KHUSUS LAINNYA TERHADAP ORANG TANPA KELUHAN DAN LAPORAN DIAGNOSIS,32,10668200,0,0,0,0,0,0,0,0,0,0,0,0,32,10668200,56
+XII Diseases of the skin and subcutaneous tissue  ,L50,URTIKARIA,32,13446932.24,0,0,0,0,0,0,0,0,0,0,0,0,32,13446932.24,57
+X Diseases of the respiratory system  ,J20,BRONKITIS AKUT,29,9790434.2,2,16452419,0,0,0,0,0,0,0,0,0,0,31,26242853.2,58
+VII Diseases of the eye and adnexa  ,H00,HORDEOLUM DAN KALAZION,29,4673912,1,7679050,0,0,0,0,0,0,1,1800000,0,0,31,14152962,59
+XVI Certain conditions originating in the perinatal period  ,P59,IKTERUS BAYI BARU LAHIR OLEH SEBAB YANG BELUM JELAS,15,5990550,15,40334032,0,0,0,0,0,0,0,0,0,0,30,46324582,60
+IX Diseases of the circulatory system  ,I84,HEMOROID,30,7801582,0,0,0,0,0,0,0,0,0,0,0,0,30,7801582,61
+XII Diseases of the skin and subcutaneous tissue  ,L02,"ABSES, FURUNKEL DAN KARBONKEL KUTAN",28,5689088,0,0,0,0,0,0,0,0,0,0,0,0,28,5689088,62
+XXI Factors influencing health status and contact with health services  ,Z32,PEMERIKSAAN DAN TEST KEHAMILAN,28,1496000,0,0,0,0,0,0,0,0,0,0,0,0,28,1496000,63
+"XV Pregnancy, childbirth and the puerperium  ",O80,PERSALINAN TUNGGAL SPONTAN,3,31087865,2,23715639,0,0,0,0,21,212011839,0,0,0,0,26,266815343,64
+I Certain infectious and parasitic diseases  ,A18,TUBERKULOSIS PADA ORGAN LAIN,25,6566914,1,10745123,0,0,0,0,0,0,0,0,0,0,26,17312037,65
+XIV Diseases of the genitourinary system  ,N30,SISTITIS,24,7641437,0,0,0,0,0,0,0,0,0,0,0,0,24,7641437,66
+X Diseases of the respiratory system  ,J40,"BRONKITIS YANG TIDAK DAPAT DIKLASIFIKASIKAN, AKUT ATAU KRONIS",23,12842186.85,0,0,0,0,0,0,0,0,0,0,0,0,23,12842186.85,67
+II Neoplasms  ,D17,NEOPLASMA JINAK JARINGAN LEMAK,21,4793978.8,1,7122402,0,0,0,0,0,0,0,0,0,0,22,11916380.8,68
+II Neoplasms  ,D25,LEIOMIA UTERUS,21,6899378,1,32614480,0,0,0,0,0,0,0,0,0,0,22,39513858,69
+XII Diseases of the skin and subcutaneous tissue  ,L84,KUKUL DAN PENEBALAN KULIT,22,8802517,0,0,0,0,0,0,0,0,0,0,0,0,22,8802517,70
+XIII Diseases of the musculoskeletal system and connective tissue  ,M41,SCOLIOSIS,22,4355500,0,0,0,0,0,0,0,0,0,0,0,0,22,4355500,71
+"IV Endocrine, nutritional and metabolic diseases  ",E05,TIROTOKSIKOSIS (HIPERTIROIDISME),21,4597202,0,0,0,0,0,0,0,0,0,0,0,0,21,4597202,72
+VIII Diseases of the ear and mastoid process  ,H82,SINDROMA VERTIGO YANG DIKLASIFIKASIKAN DI TEMPAT LAIN,21,3562329.8,0,0,0,0,0,0,0,0,0,0,0,0,21,3562329.8,73
+VII Diseases of the eye and adnexa  ,H53,GANGGUAN VISUAL,21,4269210,0,0,0,0,0,0,0,0,0,0,0,0,21,4269210,74
+I Certain infectious and parasitic diseases  ,A49,INFEKSI BAKTERIAL PADA TEMPAT YANG TIDAK DIKETAHUI,15,6170748,4,22877686,0,0,0,0,1,818000,0,0,0,0,20,29866434,75
+XII Diseases of the skin and subcutaneous tissue  ,L23,DERMATITIS KONTAK ALERGIK,20,4215369.29,0,0,0,0,0,0,0,0,0,0,0,0,20,4215369.29,76
+VIII Diseases of the ear and mastoid process  ,H60,OTITIS EKSTERNA,20,5352152,0,0,0,0,0,0,0,0,0,0,0,0,20,5352152,77
+IX Diseases of the circulatory system  ,I64,"STROKE, TIDAK DIKLASIFIKASI SEBAGAI PERDARAHAN ATAU INFARK",20,20019795,0,0,0,0,0,0,0,0,0,0,0,0,20,20019795,78
+XIII Diseases of the musculoskeletal system and connective tissue  ,M15,POLIOARTHROSIS ,19,25662756,0,0,0,0,0,0,0,0,0,0,0,0,19,25662756,79
+"XIX Injury, poisoning and certain other consequences of external causes  ",S52,FRAKTUR TULANG LENGAN BAWAH,18,6038975,1,7688700,0,0,0,0,0,0,0,0,0,0,19,13727675,80
+I Certain infectious and parasitic diseases  ,B86,SKABIES,19,3860787.6,0,0,0,0,0,0,0,0,0,0,0,0,19,3860787.6,81
+VIII Diseases of the ear and mastoid process  ,H65,OTITIS MEDIA NONSUPURATIF,19,3764701,0,0,0,0,0,0,0,0,0,0,0,0,19,3764701,82
+"XIX Injury, poisoning and certain other consequences of external causes  ",S02,FRAKTUR TULANG TENGKORAK DANTULANG TULANG MUKA,18,7048110,1,53350900,0,0,0,0,0,0,0,0,0,0,19,60399010,83
+I Certain infectious and parasitic diseases  ,B01,VARISELA/ CHICKEN FOX (CACAR AIR),18,2190639,0,0,0,0,0,0,0,0,0,0,0,0,18,2190639,84
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R11,MUAL DAN MUNTAH,16,2993945.75,2,4777978,0,0,0,0,0,0,0,0,0,0,18,7771923.75,85
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R56,KEJANG YANG TIDAK DIKLASIFIKASI DITEMPAT LAIN,14,8528612.5,4,20020177,0,0,0,0,0,0,0,0,0,0,18,28548789.5,86
+X Diseases of the respiratory system  ,J32,SINUSITIS KRONIK,18,7353718,0,0,0,0,0,0,0,0,0,0,0,0,18,7353718,87
+X Diseases of the respiratory system  ,J10,"VIRAL PNEUMONIA, UNSPECIFIED",18,4848882,0,0,0,0,0,0,0,0,0,0,0,0,18,4848882,88
+"IV Endocrine, nutritional and metabolic diseases  ",E03,HIPOTIROIDDISME LAINNYA,18,8825588,0,0,0,0,0,0,0,0,0,0,0,0,18,8825588,89
+X Diseases of the respiratory system  ,J11,"INFLUENSA, VIRUS TIDAK DAPAT DIIDENTIFIKASI",17,1766921,0,0,0,0,0,0,0,0,0,0,0,0,17,1766921,90
+XII Diseases of the skin and subcutaneous tissue  ,L03,CELLULITIS,15,3079475.6,2,12716777,0,0,0,0,0,0,0,0,0,0,17,15796252.6,91
+XI Diseases of the digestive system  ,K00,GANGGUAN PERKEMBANGAN DAN ERUPSI GIGI,1,516000,0,0,0,0,16,2901800,0,0,0,0,0,0,17,3417800,92
+XI Diseases of the digestive system  ,K35,APPENDISITIS AKUT,13,3870743,3,66843593,0,0,0,0,0,0,0,0,0,0,16,70714336,93
+XIV Diseases of the genitourinary system  ,N92,"HAID BERLEBIHAN, SERING DAN TERATUR",16,2540191,0,0,0,0,0,0,0,0,0,0,0,0,16,2540191,94
+I Certain infectious and parasitic diseases  ,B37,KONDIDIASIS,16,9062307,0,0,0,0,0,0,0,0,0,0,0,0,16,9062307,95
+XI Diseases of the digestive system  ,K80,KOLELITIASIS,15,6628693.81,0,0,0,0,0,0,0,0,0,0,0,0,15,6628693.81,96
+XIV Diseases of the genitourinary system  ,N20,BATU GINJAL DAN URETER,13,3010472,2,22867130,0,0,0,0,0,0,0,0,0,0,15,25877602,97
+XIV Diseases of the genitourinary system  ,N18,GAGAL GINJAL KRONIK,14,8841752,1,5000000,0,0,0,0,0,0,0,0,0,0,15,13841752,98
+XI Diseases of the digestive system  ,K12,PENYAKIT JARINGAN LUNAK MULUT DAN LESI YANG BERKAITAN,14,3336700.75,0,0,0,0,1,75000,0,0,0,0,0,0,15,3411700.75,99
+"XIX Injury, poisoning and certain other consequences of external causes  ",T14,CEDERA PADA BAGIAN TUBUH YANG TIDAK SPESIFIK,14,5446954.37,1,3049265,0,0,0,0,0,0,0,0,0,0,15,8496219.37,100
+IX Diseases of the circulatory system  ,I15,HIPERTENSI SEKUNDER,15,2525558.16,0,0,0,0,0,0,0,0,0,0,0,0,15,2525558.16,101
+"XIX Injury, poisoning and certain other consequences of external causes  ",S33,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN SPINAL LUMBAR DAN PELVIS",15,8434000,0,0,0,0,0,0,0,0,0,0,0,0,15,8434000,102
+"IV Endocrine, nutritional and metabolic diseases  ",E13,DIABETES MELITUS DITENTUKAN LAINNYA,14,13356775,0,0,0,0,0,0,0,0,0,0,0,0,14,13356775,103
+I Certain infectious and parasitic diseases  ,B07,KUTIL (VIRAL/ VERUCA),14,3329026,0,0,0,0,0,0,0,0,0,0,0,0,14,3329026,104
+I Certain infectious and parasitic diseases  ,B02,HERVES ZOSTER,14,3524028,0,0,0,0,0,0,0,0,0,0,0,0,14,3524028,105
+II Neoplasms  ,D36,NEOPLASMA JINAK LAINNYA DAN PADA TEMPAT YANG TIDAK DIKETAHUI,13,4318128,1,19365399,0,0,0,0,0,0,0,0,0,0,14,23683527,106
+IX Diseases of the circulatory system  ,I88,LIMFADENITIS TAK SPESIFIK,11,3039970,3,28819525,0,0,0,0,0,0,0,0,0,0,14,31859495,107
+X Diseases of the respiratory system  ,J35,PENYAKIT TONSIL DAN ADENOID KRONIK,10,3179459,3,33772993,0,0,0,0,0,0,0,0,0,0,13,36952452,108
+XII Diseases of the skin and subcutaneous tissue  ,L21,DERMATITIS SEBOROIK,13,5233608,0,0,0,0,0,0,0,0,0,0,0,0,13,5233608,109
+XIII Diseases of the musculoskeletal system and connective tissue  ,M72,GANGGUAN FIBROBLASTIK,12,4180100,0,0,0,0,0,0,0,0,0,0,0,0,12,4180100,110
+XIII Diseases of the musculoskeletal system and connective tissue  ,M25,"OTHER JOINT DISORDERS, NOT ELSEWHERE CLASSIFIED",10,2502081.5,2,32988385,0,0,0,0,0,0,0,0,0,0,12,35490466.5,111
+II Neoplasms  ,D24,NEOPLASMA JINAK PAYUDARA,12,2707553,0,0,0,0,0,0,0,0,0,0,0,0,12,2707553,112
+XII Diseases of the skin and subcutaneous tissue  ,L04,LIMFEDENITIS AKUT,12,3618151,0,0,0,0,0,0,0,0,0,0,0,0,12,3618151,113
+VI Diseases of the nervous system  ,G56,MONONEROPATI TUNGKAI ATAS,12,3343733,0,0,0,0,0,0,0,0,0,0,0,0,12,3343733,114
+IX Diseases of the circulatory system  ,I49,ARITMIA JANTUNG LAINNYA,12,1148486,0,0,0,0,0,0,0,0,0,0,0,0,12,1148486,115
+VIII Diseases of the ear and mastoid process  ,H81,GANGGUAN FUNGSI VESTIBULER,11,2872544,1,4426668,0,0,0,0,0,0,0,0,0,0,12,7299212,116
+X Diseases of the respiratory system  ,J04,TRAKEITIS DAN LARINGITIS AKUT,12,2407408,0,0,0,0,0,0,0,0,0,0,0,0,12,2407408,117
+XII Diseases of the skin and subcutaneous tissue  ,L01,IMPETIGO,11,2359668,0,0,0,0,0,0,0,0,0,0,0,0,11,2359668,118
+XXI Factors influencing health status and contact with health services  ,Z27,KEBUTUHAN AKAN IMUNISASI TERHADAP BEBERAPA PENYAKIT INFEKSI,11,7262721,0,0,0,0,0,0,0,0,0,0,0,0,11,7262721,119
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D56,THALASSEMIA,11,2465750,0,0,0,0,0,0,0,0,0,0,0,0,11,2465750,120
+XIV Diseases of the genitourinary system  ,N40,HIPERPLASIA PROSTAT,11,4450089.88,0,0,0,0,0,0,0,0,0,0,0,0,11,4450089.88,121
+"IV Endocrine, nutritional and metabolic diseases  ",E10,DIABETES MELITUS TERGANTUNG INSULIN,11,6089600,0,0,0,0,0,0,0,0,0,0,0,0,11,6089600,122
+"IV Endocrine, nutritional and metabolic diseases  ",E55,DEFISIENSI VITAMIN D,11,6435000,0,0,0,0,0,0,0,0,0,0,0,0,11,6435000,123
+XIII Diseases of the musculoskeletal system and connective tissue  ,M51,GANGGUAN DISC INTERVERTEBRAL LAINNYA,10,2788500,0,0,0,0,0,0,0,0,0,0,0,0,10,2788500,124
+I Certain infectious and parasitic diseases  ,B30,KONJUNGTIVITIS VIRAL,10,6016901,0,0,0,0,0,0,0,0,0,0,0,0,10,6016901,125
+XIII Diseases of the musculoskeletal system and connective tissue  ,M10,GOUT,10,2869763.22,0,0,0,0,0,0,0,0,0,0,0,0,10,2869763.22,126
+VI Diseases of the nervous system  ,G43,MIGREN,10,1631526,0,0,0,0,0,0,0,0,0,0,0,0,10,1631526,127
+XIV Diseases of the genitourinary system  ,N47,"PREPUSIUM BERLEBIH, FIMOSIS DAN PARAMIFOSIS",10,2192195,0,0,0,0,0,0,0,0,0,0,0,0,10,2192195,128
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D64,ANEMIA LAINNYA,9,2259242,0,0,0,0,0,0,0,0,0,0,0,0,9,2259242,129
+XIII Diseases of the musculoskeletal system and connective tissue  ,M77,ETHESOPATHI LAINNYA,9,1420858.6,0,0,0,0,0,0,0,0,0,0,0,0,9,1420858.6,130
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R59,PEMBESARAN KELENJAR LIMFE,9,2109076,0,0,0,0,0,0,0,0,0,0,0,0,9,2109076,131
+XIV Diseases of the genitourinary system  ,N94,NYERI DAN GEJALA LAIN YANG BERHUBUNGAN DENGAN ALAT KELAMIN DAN SIKLUS HAID,9,979914,0,0,0,0,0,0,0,0,0,0,0,0,9,979914,132
+XIII Diseases of the musculoskeletal system and connective tissue  ,M00,ARTHRITIS PYOGENIC,9,1061000,0,0,0,0,0,0,0,0,0,0,0,0,9,1061000,133
+XIV Diseases of the genitourinary system  ,N60,DISPHISIA PAYUDARA JINAK,9,3433100,0,0,0,0,0,0,0,0,0,0,0,0,9,3433100,134
+VIII Diseases of the ear and mastoid process  ,H93,GANGGUAN LAIN TELINGA YANG TIDAK DIKLASIFIKASIKAN,8,1810368.4,0,0,0,0,0,0,0,0,0,0,0,0,8,1810368.4,135
+"XIX Injury, poisoning and certain other consequences of external causes  ",S60,CEDERA SUSPERFISIAL PERGELANGAN TANGAN DAN TANGAN,8,1982021.75,0,0,0,0,0,0,0,0,0,0,0,0,8,1982021.75,136
+XIV Diseases of the genitourinary system  ,N93,PEREDARAN ABNORMAL DARI UTERUS DAN VAGINA LAINNYA,7,1699085,1,5388427,0,0,0,0,0,0,0,0,0,0,8,7087512,137
+XIII Diseases of the musculoskeletal system and connective tissue  ,M50,GANGGUAN DISC CERVICAL,8,1632760,0,0,0,0,0,0,0,0,0,0,0,0,8,1632760,138
+"IV Endocrine, nutritional and metabolic diseases  ",E04,GONDOK NON TOKSIK LAINNYA,8,2969250,0,0,0,0,0,0,0,0,0,0,0,0,8,2969250,139
+"XIX Injury, poisoning and certain other consequences of external causes  ",S82,FRAKTUR TULANG TUNGKAI BAWAH TERMASUK ANKLE,8,2452300,0,0,0,0,0,0,0,0,0,0,0,0,8,2452300,140
+XXI Factors influencing health status and contact with health services  ,Z02,KUNJUNGAN DAN PEMERIKSAAN UNTUK ALASAN ADMINISTRASI,8,400000,0,0,0,0,0,0,0,0,0,0,0,0,8,400000,141
+VI Diseases of the nervous system  ,G20,PARKINSON'S DISEASE,8,8059150,0,0,0,0,0,0,0,0,0,0,0,0,8,8059150,142
+XIII Diseases of the musculoskeletal system and connective tissue  ,M17,GONATHROSIS (ARTHROSIS PADA LUTUT),8,731000,0,0,0,0,0,0,0,0,0,0,0,0,8,731000,143
+VIII Diseases of the ear and mastoid process  ,H69,GANGGUAN LAIN TUBA EUSTATIUS,7,2759288,1,6796136,0,0,0,0,0,0,0,0,0,0,8,9555424,144
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R33,RETENSI URINE,8,440000,0,0,0,0,0,0,0,0,0,0,0,0,8,440000,145
+XII Diseases of the skin and subcutaneous tissue  ,L95,"VASKULITIS TERBATAS PADA KULIT, YANG DIKLASIFIKASI DI TEMPAT LAIN",8,3142775.2,0,0,0,0,0,0,0,0,0,0,0,0,8,3142775.2,146
+"XIX Injury, poisoning and certain other consequences of external causes  ",S42,FRAKTUR TULANG BAHU DAN LENGAN ATAS,5,1928700,2,20070383,0,0,0,0,0,0,0,0,0,0,7,21999083,147
+XII Diseases of the skin and subcutaneous tissue  ,L28,LIKEN SIMPLEKS KRONIKUS DAN PRURIGO,7,2194103,0,0,0,0,0,0,0,0,0,0,0,0,7,2194103,148
+XIII Diseases of the musculoskeletal system and connective tissue  ,M45,ANKYLISIS SPONDYLITIS,7,3593340,0,0,0,0,0,0,0,0,0,0,0,0,7,3593340,149
+XI Diseases of the digestive system  ,K56,ILEUS PARALITIK DAN OBSTRUKSI USUS TANPA HERNIA,5,912859,2,22357738,0,0,0,0,0,0,0,0,0,0,7,23270597,150
+"XV Pregnancy, childbirth and the puerperium  ",O21,MUNTAH YANG BERLEBIHAN DALAM KEHAMILAN,3,3271937,4,18162852,0,0,0,0,0,0,0,0,0,0,7,21434789,151
+VI Diseases of the nervous system  ,G40,EPILEPSI,7,2656450,0,0,0,0,0,0,0,0,0,0,0,0,7,2656450,152
+"IV Endocrine, nutritional and metabolic diseases  ",E07,GANGGUAN TIROID LAINNYA,7,2029689,0,0,0,0,0,0,0,0,0,0,0,0,7,2029689,153
+VII Diseases of the eye and adnexa  ,H01,LAIN RADANG KELOPAK MATA,7,1008835,0,0,0,0,0,0,0,0,0,0,0,0,7,1008835,154
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D68,DEFEK KOAGULASI LAINNYA,7,18264920.2,0,0,0,0,0,0,0,0,0,0,0,0,7,18264920.2,155
+IX Diseases of the circulatory system  ,I11,PENYAKIT JANTUNG HIPERTENSIF,7,3051106,0,0,0,0,0,0,0,0,0,0,0,0,7,3051106,156
+XIV Diseases of the genitourinary system  ,N91,HAID TIDAK ADA SEDIKIT ATAU JARANG,7,1170878,0,0,0,0,0,0,0,0,0,0,0,0,7,1170878,157
+"XIX Injury, poisoning and certain other consequences of external causes  ",T78,EFEK TIDAK SEMESTINYA YANG TIDAK SPESIFIK,7,1697584.67,0,0,0,0,0,0,0,0,0,0,0,0,7,1697584.67,158
+VII Diseases of the eye and adnexa  ,H11,GANGGUAN KONJUNGTIVA LAINNYA,6,961650,0,0,0,0,0,0,0,0,0,0,0,0,6,961650,159
+IX Diseases of the circulatory system  ,I47,TAKIKARDIA PAORKSIMAL,6,1004328.25,0,0,0,0,0,0,0,0,0,0,0,0,6,1004328.25,160
+"XIX Injury, poisoning and certain other consequences of external causes  ",S62,FRAKTUR PADA TULANG PERGELANGAN TANGAN DAN TANGAN,6,1639040,0,0,0,0,0,0,0,0,0,0,0,0,6,1639040,161
+XXI Factors influencing health status and contact with health services  ,Z25,KEBUTUHAN AKAN IMUNISASI TERHADAP SEJENIS PENYAKIT VIRUS LAIN,6,1965604,0,0,0,0,0,0,0,0,0,0,0,0,6,1965604,162
+VIII Diseases of the ear and mastoid process  ,H91,GANGGUAN PENDENGARAN LAIN,6,2544577,0,0,0,0,0,0,0,0,0,0,0,0,6,2544577,163
+I Certain infectious and parasitic diseases  ,B08,"INFEKSI VIRAL LAINNYA YANG DITANDAI OLEH LESI-LESI PADA MEMBRANA MUKOSA DANKULIT, YANG TIDAK DAPAT DIKLASI DI TEMPAT LAIN",6,1332071,0,0,0,0,0,0,0,0,0,0,0,0,6,1332071,164
+IX Diseases of the circulatory system  ,I20,ANGINA PEKTORIS,6,3152000,0,0,0,0,0,0,0,0,0,0,0,0,6,3152000,165
+IX Diseases of the circulatory system  ,I50,GAGAL JANTUNG,6,7036809.3,0,0,0,0,0,0,0,0,0,0,0,0,6,7036809.3,166
+XIII Diseases of the musculoskeletal system and connective tissue  ,M62,GANGGUAN GANGUAN OTOT YANG LAIN,6,3301400,0,0,0,0,0,0,0,0,0,0,0,0,6,3301400,167
+XIV Diseases of the genitourinary system  ,N80,ENDOMETRIOSIS,6,3006992,0,0,0,0,0,0,0,0,0,0,0,0,6,3006992,168
+VII Diseases of the eye and adnexa  ,H16,KERATITIS,6,2865821,0,0,0,0,0,0,0,0,0,0,0,0,6,2865821,169
+"XV Pregnancy, childbirth and the puerperium  ",O47,PERSALINAN PALSU,1,403650,4,23991166,0,0,0,0,0,0,0,0,0,0,5,24394816,170
+I Certain infectious and parasitic diseases  ,A99,"DEMAM YANG DISEBABKAN VIRUSL AIN, YANG TIDAK DIKLASIFIKASIKAN",5,334491,0,0,0,0,0,0,0,0,0,0,0,0,5,334491,171
+"XIX Injury, poisoning and certain other consequences of external causes  ",S90,CEDERA SUPERFISIAL ANKLE DAN KAKI,5,1381864,0,0,0,0,0,0,0,0,0,0,0,0,5,1381864,172
+XII Diseases of the skin and subcutaneous tissue  ,L40,PSORIASIS,5,931050,0,0,0,0,0,0,0,0,0,0,0,0,5,931050,173
+I Certain infectious and parasitic diseases  ,A28,"PENYAKIT BAKTERIAL ZOONOTIK LAIN, YANG TIDAK DAPAT DIKLASIFIKASI DI TEMPAT LAIN",5,565800,0,0,0,0,0,0,0,0,0,0,0,0,5,565800,174
+XIII Diseases of the musculoskeletal system and connective tissue  ,M13,ARTHRITIS  LAINNYA,5,1975040,0,0,0,0,0,0,0,0,0,0,0,0,5,1975040,175
+VII Diseases of the eye and adnexa  ,H50,STRABISMUS  LAIN,5,1048350,0,0,0,0,0,0,0,0,0,0,0,0,5,1048350,176
+I Certain infectious and parasitic diseases  ,A37,PERTUSIS,5,1510036.02,0,0,0,0,0,0,0,0,0,0,0,0,5,1510036.02,177
+"XIX Injury, poisoning and certain other consequences of external causes  ",S09,CEDERA PADA KEPALA LAINNYA YANG TIDAK SPESIFIK,5,2765571.04,0,0,0,0,0,0,0,0,0,0,0,0,5,2765571.04,178
+NULL,YYY,#N/A,2,0,3,13610011,0,0,0,0,0,0,0,0,0,0,5,13610011,179
+"IV Endocrine, nutritional and metabolic diseases  ",E66,OBESITAS,5,956500,0,0,0,0,0,0,0,0,0,0,0,0,5,956500,180
+XII Diseases of the skin and subcutaneous tissue  ,L08,IMPEKSI LOKAL KULIT DAN JARINGAN SUBKUTAN LAINNYA,5,1373266.78,0,0,0,0,0,0,0,0,0,0,0,0,5,1373266.78,181
+"XIX Injury, poisoning and certain other consequences of external causes  ",S80,CEDERA SUPERFISIAL TUNGKAI BAWAH,5,7448813.68,0,0,0,0,0,0,0,0,0,0,0,0,5,7448813.68,182
+"XIX Injury, poisoning and certain other consequences of external causes  ",T25,LUKA BAKAR DAN KOROSI PADA ANKLE DAN KAKI,5,3249000,0,0,0,0,0,0,0,0,0,0,0,0,5,3249000,183
+VII Diseases of the eye and adnexa  ,H57,GANGGUAN MATA DAN ADNEKSA LAINNYA,5,1549752,0,0,0,0,0,0,0,0,0,0,0,0,5,1549752,184
+"XIX Injury, poisoning and certain other consequences of external causes  ",T16,BENDA ASING DALAM TELINGA,4,779668,0,0,0,0,0,0,0,0,0,0,0,0,4,779668,185
+XI Diseases of the digestive system  ,K31,GANGGUAN LAMBUNG AND DUODENUM LAINNYA,4,5869650,0,0,0,0,0,0,0,0,0,0,0,0,4,5869650,186
+X Diseases of the respiratory system  ,J44,PENYAKIT PARU OBSTRUKSI KRONIK LAINNYA,4,2662374.94,0,0,0,0,0,0,0,0,0,0,0,0,4,2662374.94,187
+II Neoplasms  ,D26,NEOPLASMA JINAK UTERUS LAINNYA,4,204000,0,0,0,0,0,0,0,0,0,0,0,0,4,204000,188
+"XV Pregnancy, childbirth and the puerperium  ",O02,HASIL KONSEPSI YANG TAK NORMAL LAINNYA,4,588000,0,0,0,0,0,0,0,0,0,0,0,0,4,588000,189
+IX Diseases of the circulatory system  ,I63,INFARK SEREBRAL,4,812000,0,0,0,0,0,0,0,0,0,0,0,0,4,812000,190
+"XV Pregnancy, childbirth and the puerperium  ",O36,MATERNAL CARE FOR OTHER KNOWN OR SUSPECTED FETAL PROBLEMS,2,100000,2,18755116,0,0,0,0,0,0,0,0,0,0,4,18855116,191
+IX Diseases of the circulatory system  ,I21,INFARK MIOKARD AKUT,4,221000,0,0,0,0,0,0,0,0,0,0,0,0,4,221000,192
+VII Diseases of the eye and adnexa  ,H35,GANGGUAN LAIN RETINA,4,1411978,0,0,0,0,0,0,0,0,0,0,0,0,4,1411978,193
+XXI Factors influencing health status and contact with health services  ,Z09,PEMERIKSAAN LANJUTAN SESUDAH PENGOBATAN SELAIN NEOPLASMA GANAS,4,867000,0,0,0,0,0,0,0,0,0,0,0,0,4,867000,194
+II Neoplasms  ,D21,NEOPLASMA JINAK JARINGAN IKAT DAN JARINGAN LUNAK LAINNYA,1,229125,3,50214913,0,0,0,0,0,0,0,0,0,0,4,50444038,195
+"XIX Injury, poisoning and certain other consequences of external causes  ",S01,LUKA TERBUKA KEPALA,4,1228458,0,0,0,0,0,0,0,0,0,0,0,0,4,1228458,196
+IX Diseases of the circulatory system  ,I78,PENYAKIT KAPILER,4,492701,0,0,0,0,0,0,0,0,0,0,0,0,4,492701,197
+XIV Diseases of the genitourinary system  ,N89,GANGGUAN BUKAN RADANG LAINNYA PADA VAGINA,4,1885042,0,0,0,0,0,0,0,0,0,0,0,0,4,1885042,198
+X Diseases of the respiratory system  ,J05,EPIGLOTITIS DAN LARINGITIS OBSTRUKTIF AKUT,4,487000,0,0,0,0,0,0,0,0,0,0,0,0,4,487000,199
+"XIX Injury, poisoning and certain other consequences of external causes  ",S92,FRAKTUR TULANG KAKI KECUALI ANKLE,4,943900,0,0,0,0,0,0,0,0,0,0,0,0,4,943900,200
+"XIX Injury, poisoning and certain other consequences of external causes  ",S63,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN PADA PERGELANGAN TANGAN DAN TANGAN",4,2312599,0,0,0,0,0,0,0,0,0,0,0,0,4,2312599,201
+XXI Factors influencing health status and contact with health services  ,Z38,BAYI LAHIR HIDUP SESUAI TEMPAT KELAHIRAN,3,1483290,0,0,0,0,0,0,1,4178860,0,0,0,0,4,5662150,202
+XI Diseases of the digestive system  ,K59,GANGGUAN FUNGSI CERNA LAINNYA,4,758852,0,0,0,0,0,0,0,0,0,0,0,0,4,758852,203
+X Diseases of the respiratory system  ,J21,BRONKIOLITIS AKUT,2,60776,2,14333034,0,0,0,0,0,0,0,0,0,0,4,14393810,204
+X Diseases of the respiratory system  ,J42,BRONKITIS KRONIK YANG TIDAK DAPAT DIKLASIFIKASIKAN,4,4701488,0,0,0,0,0,0,0,0,0,0,0,0,4,4701488,205
+I Certain infectious and parasitic diseases  ,A88,"OTHER VIRAL INFECTIONS OF CENTRAL NERVOUS SYSTEM, NOT ELSEWHERE CLASSIFIED",4,1353605,0,0,0,0,0,0,0,0,0,0,0,0,4,1353605,206
+"XIX Injury, poisoning and certain other consequences of external causes  ",T30,LUKA BAKAR DAN KOROSI PADA BAGIAN TUBUH YANG TIDAK SPESIFIK,3,1006186,1,27071949,0,0,0,0,0,0,0,0,0,0,4,28078135,207
+"IV Endocrine, nutritional and metabolic diseases  ",E79,GANGGUAN METABOLISME PURIN DAN PIRIMIDIN,4,533500,0,0,0,0,0,0,0,0,0,0,0,0,4,533500,208
+X Diseases of the respiratory system  ,J53,#N/A,1,1052000,3,28128588,0,0,0,0,0,0,0,0,0,0,4,29180588,209
+XII Diseases of the skin and subcutaneous tissue  ,L72,KISTE FOLIKULAR KULIT DAN JARINGAN SUBKUTAN,4,539820,0,0,0,0,0,0,0,0,0,0,0,0,4,539820,210
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R15,INKONTINENSIA ALVI,4,484500,0,0,0,0,0,0,0,0,0,0,0,0,4,484500,211
+VII Diseases of the eye and adnexa  ,H20,IRIDOSIKLITIS,4,917796,0,0,0,0,0,0,0,0,0,0,0,0,4,917796,212
+"IV Endocrine, nutritional and metabolic diseases  ",E80,GANGGUAN METABOLISME PORPIFIRIN DAN BILIRUBIN,3,1288200,1,9538952,0,0,0,0,0,0,0,0,0,0,4,10827152,213
+I Certain infectious and parasitic diseases  ,B36,MIKOSIS SUPERFISIALL AIN,4,1110203,0,0,0,0,0,0,0,0,0,0,0,0,4,1110203,214
+I Certain infectious and parasitic diseases  ,B00,INFEKSI HERPESVIRAL,3,779900,0,0,0,0,0,0,0,0,0,0,0,0,3,779900,215
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R42,PUSING KEPALA DAN KEPENINGAN,3,345190,0,0,0,0,0,0,0,0,0,0,0,0,3,345190,216
+"XV Pregnancy, childbirth and the puerperium  ",O00,KEHAMILAN EKTOPIK,2,100000,1,30217945,0,0,0,0,0,0,0,0,0,0,3,30317945,217
+XIV Diseases of the genitourinary system  ,N95,GANGGUAN DALAM MASA MENOPAUSE DAN PERIMENOPAUSE LAINNYA,3,252850,0,0,0,0,0,0,0,0,0,0,0,0,3,252850,218
+XIII Diseases of the musculoskeletal system and connective tissue  ,M65,SINOVITIS DAN TENOSINOVITIS,3,1068724,0,0,0,0,0,0,0,0,0,0,0,0,3,1068724,219
+IX Diseases of the circulatory system  ,I48,FIBRELASI SETRAMBI DAN FLUTTER,3,5114718,0,0,0,0,0,0,0,0,0,0,0,0,3,5114718,220
+"XIX Injury, poisoning and certain other consequences of external causes  ",S00,CEDERA SUSPERFISIAL PADA KEPALA,3,337653,0,0,0,0,0,0,0,0,0,0,0,0,3,337653,221
+VIII Diseases of the ear and mastoid process  ,H63,#N/A,3,241700,0,0,0,0,0,0,0,0,0,0,0,0,3,241700,222
+XIII Diseases of the musculoskeletal system and connective tissue  ,M67,GANGGUAN LAIN SINOVIUM DAN TENDON,3,301850,0,0,0,0,0,0,0,0,0,0,0,0,3,301850,223
+I Certain infectious and parasitic diseases  ,A29,#N/A,3,220000,0,0,0,0,0,0,0,0,0,0,0,0,3,220000,224
+VII Diseases of the eye and adnexa  ,H25,KATARAK SENIL,3,6799219,0,0,0,0,0,0,0,0,0,0,0,0,3,6799219,225
+I Certain infectious and parasitic diseases  ,B16,HEPATITIS B AKUT,3,2274000,0,0,0,0,0,0,0,0,0,0,0,0,3,2274000,226
+XII Diseases of the skin and subcutaneous tissue  ,L82,KERATOSIS SEBORE,3,2385439,0,0,0,0,0,0,0,0,0,0,0,0,3,2385439,227
+XII Diseases of the skin and subcutaneous tissue  ,L98,"GANGGUAN LAIN KULIT DAN JARINGAN SUBKUTAN, YANG TAK DIKLASIFIKASIKAN DI TEMPAT LAIN",3,565295,0,0,0,0,0,0,0,0,0,0,0,0,3,565295,228
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R04,PERDARAHAN DARI SALURAN NAPAS,3,1140767,0,0,0,0,0,0,0,0,0,0,0,0,3,1140767,229
+XIII Diseases of the musculoskeletal system and connective tissue  ,M06,ARTHRITIS RHEMATOID LAINNYA,3,1864309,0,0,0,0,0,0,0,0,0,0,0,0,3,1864309,230
+I Certain infectious and parasitic diseases  ,A19,TUBERKULOSIS MILIER,3,363200,0,0,0,0,0,0,0,0,0,0,0,0,3,363200,231
+VI Diseases of the nervous system  ,G62,POLINEROPATI LAINNYA,3,2175805,0,0,0,0,0,0,0,0,0,0,0,0,3,2175805,232
+"IV Endocrine, nutritional and metabolic diseases  ",E88,GANGGUAN METABOLISME LAINNYA,3,3224700,0,0,0,0,0,0,0,0,0,0,0,0,3,3224700,233
+XI Diseases of the digestive system  ,K92,PENYAKIT SISTEM CERNA LAINNYA,3,287484,0,0,0,0,0,0,0,0,0,0,0,0,3,287484,234
+"XIX Injury, poisoning and certain other consequences of external causes  ",S93,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN DAERAH ANKLE DAN KAKI",3,2185200,0,0,0,0,0,0,0,0,0,0,0,0,3,2185200,235
+IX Diseases of the circulatory system  ,I77,GANGGUAN LAIN PADA ARTERI DAN ARTERIOL,1,778795,2,13760000,0,0,0,0,0,0,0,0,0,0,3,14538795,236
+I Certain infectious and parasitic diseases  ,B05,CAMPAK/ MEASLES/ RUBIOLA/ MORBILI,3,837321,0,0,0,0,0,0,0,0,0,0,0,0,3,837321,237
+XIV Diseases of the genitourinary system  ,N21,BATU SALURAN KEMIH BAWAH,3,1290840,0,0,0,0,0,0,0,0,0,0,0,0,3,1290840,238
+XIV Diseases of the genitourinary system  ,N85,GANGGUAN PADA RADANG PADA UTERUS KECUALI SERVIKS,2,435800,1,8984430,0,0,0,0,0,0,0,0,0,0,3,9420230,239
+XVI Certain conditions originating in the perinatal period  ,P24,SINDROMA ASPIRASI BAYI BARU LAHIR,2,1288480,1,36006368,0,0,0,0,0,0,0,0,0,0,3,37294848,240
+II Neoplasms  ,D34,NEOPLASMA JINAK TIROID,2,317000,1,39260072,0,0,0,0,0,0,0,0,0,0,3,39577072,241
+VII Diseases of the eye and adnexa  ,H26,KATARAK LAINNYA,3,520308,0,0,0,0,0,0,0,0,0,0,0,0,3,520308,242
+"XVII Congenital malformations, deformations and chromosomal abnormalities  ",Q21,MALFORMASI KONGENITAL SEPTUM KARDIAK,3,2275200,0,0,0,0,0,0,0,0,0,0,0,0,3,2275200,243
+XX External causes of morbidity and mortality  ,W57,BITTEN OR STUNG BY NONVENOMOUS INSECT AND OTHER NONVENOMOUS ARTHROPODS,3,168374,0,0,0,0,0,0,0,0,0,0,0,0,3,168374,244
+"XV Pregnancy, childbirth and the puerperium  ",O30,KEHAMILAN GANDA,3,230000,0,0,0,0,0,0,0,0,0,0,0,0,3,230000,245
+I Certain infectious and parasitic diseases  ,A78,DEMAM Q,3,435000,0,0,0,0,0,0,0,0,0,0,0,0,3,435000,246
+II Neoplasms  ,D27,NEOPLASMA JINAK OVARIUM,3,261000,0,0,0,0,0,0,0,0,0,0,0,0,3,261000,247
+II Neoplasms  ,C49,NEOPLASMA GANAS JARINGAN IKAT DAN JARINGAN LUNAK LAINNYA,3,1078408.75,0,0,0,0,0,0,0,0,0,0,0,0,3,1078408.75,248
+X Diseases of the respiratory system  ,J34,GANGGUAN HIDUNG DAN SINUS NASAL LAINNYA,3,1270526.2,0,0,0,0,0,0,0,0,0,0,0,0,3,1270526.2,249
+"XIX Injury, poisoning and certain other consequences of external causes  ",S32,FRAKTUR SPINAL LUMBAR PADA PELVIS,3,1106000,0,0,0,0,0,0,0,0,0,0,0,0,3,1106000,250
+XIII Diseases of the musculoskeletal system and connective tissue  ,M60,MIOSITIS,2,510000,1,6897645,0,0,0,0,0,0,0,0,0,0,3,7407645,251
+X Diseases of the respiratory system  ,J90,"EFUSI PLEURA, YANG TIDAK DAPAT DIKLASIFIKASI DI TEMPAT LAIN",3,1918157,0,0,0,0,0,0,0,0,0,0,0,0,3,1918157,252
+IX Diseases of the circulatory system  ,I51,KOMPLIKASI DAN KEADAAN SAKIT DAPAT DIJELASKAN AKIBAT PENYAKIT JANTUNG,3,856190,0,0,0,0,0,0,0,0,0,0,0,0,3,856190,253
+XIV Diseases of the genitourinary system  ,N23,KOLIK GINJAL YANG TAK DITENTUKAN,2,814154,0,0,0,0,0,0,0,0,0,0,0,0,2,814154,254
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R60,EDEMA YANG TIDAK DIKLASIFIKASI DITEMPAT LAIN,2,100000,0,0,0,0,0,0,0,0,0,0,0,0,2,100000,255
+XIII Diseases of the musculoskeletal system and connective tissue  ,M18,ARTHROSIS SENDI CARPOMETACARPAL-I,2,164000,0,0,0,0,0,0,0,0,0,0,0,0,2,164000,256
+XVI Certain conditions originating in the perinatal period  ,P03,JANIN DAN BAYI BARU LAHIR YANG DIPENGARUHI OLEH KOMPLIKASI LAINNYA DARI PERSALINAN DAN KELAHIRAN,2,100000,0,0,0,0,0,0,0,0,0,0,0,0,2,100000,257
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R00,DENYUT JANTUNG TIDAK NORMAL,2,298000,0,0,0,0,0,0,0,0,0,0,0,0,2,298000,258
+XIV Diseases of the genitourinary system  ,N96,ABORTUS HABITUAL,2,100000,0,0,0,0,0,0,0,0,0,0,0,0,2,100000,259
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R16,HEMATOMEGALI DAN SPLENOMEGAL YANG TIDAK DIKLASIFIKASIKAN DITEMPAT LAIN,2,100000,0,0,0,0,0,0,0,0,0,0,0,0,2,100000,260
+XIV Diseases of the genitourinary system  ,N00,SINDROM NEFRITIK AKUT,2,140000,0,0,0,0,0,0,0,0,0,0,0,0,2,140000,261
+XII Diseases of the skin and subcutaneous tissue  ,L24,DERMATITIS KONTAK IRITAN,2,422749,0,0,0,0,0,0,0,0,0,0,0,0,2,422749,262
+XII Diseases of the skin and subcutaneous tissue  ,L81,OTHER DISORDERS OF PIGMENTATION,2,316250,0,0,0,0,0,0,0,0,0,0,0,0,2,316250,263
+XII Diseases of the skin and subcutaneous tissue  ,L42,PITIRIAISIS,2,737657,0,0,0,0,0,0,0,0,0,0,0,0,2,737657,264
+XI Diseases of the digestive system  ,K76,PENYAKIT HATI LAINNYA,1,146250,1,4958338,0,0,0,0,0,0,0,0,0,0,2,5104588,265
+I Certain infectious and parasitic diseases  ,A08,INFEKSI VIRAL DAN INFEKSI USUS LAINNYA,2,272578,0,0,0,0,0,0,0,0,0,0,0,0,2,272578,266
+XI Diseases of the digestive system  ,K52,GASTROENTERITIS DAN KOLITIS LAINNYA,1,50000,1,10507284,0,0,0,0,0,0,0,0,0,0,2,10557284,267
+XII Diseases of the skin and subcutaneous tissue  ,L74,GANGGUAN KELENJAR KERINGAT ACCIDENTAL RINE,2,381550,0,0,0,0,0,0,0,0,0,0,0,0,2,381550,268
+XI Diseases of the digestive system  ,K60,FISURA DAN FISTULA ANAL,2,954425.8,0,0,0,0,0,0,0,0,0,0,0,0,2,954425.8,269
+XIV Diseases of the genitourinary system  ,N83,"GANGGUAN PADA RADANG BUKANINDUNG TELUR, SALURAN TELUR DAN LIGAMEN LATUM",1,50000,1,16848450,0,0,0,0,0,0,0,0,0,0,2,16898450,270
+I Certain infectious and parasitic diseases  ,A75,DEMAM TIFUS,2,1120339,0,0,0,0,0,0,0,0,0,0,0,0,2,1120339,271
+XI Diseases of the digestive system  ,K08,GANGGUAN GIGI DAN JARINGAN PENDUKUNG LAINNYA,0,0,0,0,0,0,1,85000,0,0,1,200000,0,0,2,285000,272
+XIII Diseases of the musculoskeletal system and connective tissue  ,M76,ENTHESOPATHI ANGGOTA GERAK BAWAH KECUALI KAKI,2,394610,0,0,0,0,0,0,0,0,0,0,0,0,2,394610,273
+IX Diseases of the circulatory system  ,I67,PENYAKIT SEREBROVASKULER LAIN,2,310085,0,0,0,0,0,0,0,0,0,0,0,0,2,310085,274
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D50,ANEMIA DEFISIENSI ZAT BESI,2,2118229,0,0,0,0,0,0,0,0,0,0,0,0,2,2118229,275
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D59,ANEMIA HEMOLITIK DIDAPAT,2,171000,0,0,0,0,0,0,0,0,0,0,0,0,2,171000,276
+XIII Diseases of the musculoskeletal system and connective tissue  ,M70,GANGGUAN JARINGAN LUNAK YANG BERHUBUNGAN DENGAN PENGGUNAAN YANG BERLEBIHAN DAN TEKANAN,2,1600100,0,0,0,0,0,0,0,0,0,0,0,0,2,1600100,277
+"XV Pregnancy, childbirth and the puerperium  ",O34,PERAWATAN IBU UNTUK KELAINAN PANGGUL YANG DIKETAHUI ATAU DIDUGA,2,433755,0,0,0,0,0,0,0,0,0,0,0,0,2,433755,278
+XI Diseases of the digestive system  ,K07,ANATOMI DENTOFASIAL TERMASUK MALOKLUSI,0,0,0,0,0,0,2,150000,0,0,0,0,0,0,2,150000,279
+XI Diseases of the digestive system  ,K06,PENYAKIT GUSI DAN TULANG ALVEOLAR TAK BERGIGI LAINNYA,0,0,0,0,0,0,2,243000,0,0,0,0,0,0,2,243000,280
+I Certain infectious and parasitic diseases  ,B26,GONDOK,2,273074.532,0,0,0,0,0,0,0,0,0,0,0,0,2,273074.532,281
+IX Diseases of the circulatory system  ,I69,GEJALA SISA PENYAKIT SEREBROVASKULER,2,676500,0,0,0,0,0,0,0,0,0,0,0,0,2,676500,282
+II Neoplasms  ,D10,NEOPLASMA JINAK MULUT DAN FARINGS,2,137000,0,0,0,0,0,0,0,0,0,0,0,0,2,137000,283
+II Neoplasms  ,D23,NEOPLASMA JINAK KULIT LAINNYA,2,526410,0,0,0,0,0,0,0,0,0,0,0,0,2,526410,284
+"XIX Injury, poisoning and certain other consequences of external causes  ",S20,CEDERA SUPERFISIAL THORAX,2,399780,0,0,0,0,0,0,0,0,0,0,0,0,2,399780,285
+VI Diseases of the nervous system  ,G24,DISTOMIA,2,137000,0,0,0,0,0,0,0,0,0,0,0,0,2,137000,286
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R62,KURANGNYA PERKEMBANGAN FISIOLOGI NORMAL,2,851600,0,0,0,0,0,0,0,0,0,0,0,0,2,851600,287
+NULL,XXX,#N/A,2,1.75,0,0,0,0,0,0,0,0,0,0,0,0,2,1.75,288
+XII Diseases of the skin and subcutaneous tissue  ,L22,DERMATITIS RUAM POPOK BAYI,2,959000,0,0,0,0,0,0,0,0,0,0,0,0,2,959000,289
+"XIX Injury, poisoning and certain other consequences of external causes  ",S43,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN BAHU",2,855000,0,0,0,0,0,0,0,0,0,0,0,0,2,855000,290
+"XIX Injury, poisoning and certain other consequences of external causes  ",S91,LUKA TERBUKA ANKLE DAN KAKI,2,415200,0,0,0,0,0,0,0,0,0,0,0,0,2,415200,291
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R25,GERAKAN INVOLUNTE TIDAK NORMAL,2,921600,0,0,0,0,0,0,0,0,0,0,0,0,2,921600,292
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R70,KENAIKAN KARAKTER SEDIMENTASI ERITROSIT DAN KEKENTALAN PLASMA TIDAK NORMAL,2,597000,0,0,0,0,0,0,0,0,0,0,0,0,2,597000,293
+"XIX Injury, poisoning and certain other consequences of external causes  ",S83,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN LUTUT",2,922700,0,0,0,0,0,0,0,0,0,0,0,0,2,922700,294
+XI Diseases of the digestive system  ,K11,PENYAKIT KELENJAR LIUR,2,1593356,0,0,0,0,0,0,0,0,0,0,0,0,2,1593356,295
+XVI Certain conditions originating in the perinatal period  ,P02,"JANIN DAN BAYI BARU LAHIR YANG DIPENGARUHI OLEH KOMPLIKASI PLASENTA, TALI PUSAT, DAN SELAPUT KETUBAN",1,921296,1,35132056,0,0,0,0,0,0,0,0,0,0,2,36053352,296
+"XIX Injury, poisoning and certain other consequences of external causes  ",S05,CEDERA PADA MATA DAN ORBITAL,2,631498.43,0,0,0,0,0,0,0,0,0,0,0,0,2,631498.43,297
+"IV Endocrine, nutritional and metabolic diseases  ",E06,TIROIDITIS,2,1059700,0,0,0,0,0,0,0,0,0,0,0,0,2,1059700,298
+"XIX Injury, poisoning and certain other consequences of external causes  ",S61,LUKA TERBUKA PERGELANGANTANGAN DAN TANGAN,2,819000,0,0,0,0,0,0,0,0,0,0,0,0,2,819000,299
+VII Diseases of the eye and adnexa  ,H40,GLAUKOMA,2,316250,0,0,0,0,0,0,0,0,0,0,0,0,2,316250,300
+XIII Diseases of the musculoskeletal system and connective tissue  ,M24,DISLOKASI SENDI YANG SPESIFIC LAINNYA,1,329500,0,0,0,0,0,0,0,0,0,0,0,0,1,329500,301
+VII Diseases of the eye and adnexa  ,H55,NISTAGMUS DAN GERAKAN MATA TIDAK TERATUR LAINNYA,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,302
+XIV Diseases of the genitourinary system  ,N84,POLIP PADA ALAT KELAMIN PEREMPUAN,0,0,1,8410521,0,0,0,0,0,0,0,0,0,0,1,8410521,303
+XIV Diseases of the genitourinary system  ,N76,RADANG VAGINA DAN VULVA LAINNYA,1,297250,0,0,0,0,0,0,0,0,0,0,0,0,1,297250,304
+"XV Pregnancy, childbirth and the puerperium  ",O70,LASERASI PERINEUM PADA PERSALINAN,1,200150,0,0,0,0,0,0,0,0,0,0,0,0,1,200150,305
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R17,IKTERUS PADA TEMPAT YANG TIDAK DIKETAHUI,1,276500,0,0,0,0,0,0,0,0,0,0,0,0,1,276500,306
+XIII Diseases of the musculoskeletal system and connective tissue  ,M21,DEFORMITAS ANGGOTA GERAK YANG DIPEROLEH LAINNYA,1,182500,0,0,0,0,0,0,0,0,0,0,0,0,1,182500,307
+"XIX Injury, poisoning and certain other consequences of external causes  ",S50,CEDERA SUPERFISIAL LENGAN BAWAH,1,206000,0,0,0,0,0,0,0,0,0,0,0,0,1,206000,308
+"XV Pregnancy, childbirth and the puerperium  ",O24,DIABETES MALITUS DALAM KEHAMILAN,1,1077000,0,0,0,0,0,0,0,0,0,0,0,0,1,1077000,309
+"XIX Injury, poisoning and certain other consequences of external causes  ",T79,KOMPLIKASI KOMPLIKASI AWAL TERTENTU DARI TRAUMA YANG DIKLASIFIKASIKAN DITEMPAT LAIN,1,221520,0,0,0,0,0,0,0,0,0,0,0,0,1,221520,310
+XIV Diseases of the genitourinary system  ,N28,GANGGUAN GINJAL DAN URETER LAINNYA,1,1391722,0,0,0,0,0,0,0,0,0,0,0,0,1,1391722,311
+"XIX Injury, poisoning and certain other consequences of external causes  ",S34,"CEDERA MENGENAI SARAF DAN SPINAL CORD LUMBAR PADA ABDOMEN, PUNGGUNG BAWAH DAN PELVIS",1,2478550,0,0,0,0,0,0,0,0,0,0,0,0,1,2478550,312
+XI Diseases of the digestive system  ,K55,GANGGUAN PEMBULUH DARAH USUS,0,0,1,3512517,0,0,0,0,0,0,0,0,0,0,1,3512517,313
+XXI Factors influencing health status and contact with health services  ,Z47,PERAWATAN ORTOPEDIK LANJUTAN LAIN,1,483600,0,0,0,0,0,0,0,0,0,0,0,0,1,483600,314
+VI Diseases of the nervous system  ,G63,"POLINEROPATI, YANG DIKLASIFIKASIKAN DI TEMPAT LAIN",1,601602,0,0,0,0,0,0,0,0,0,0,0,0,1,601602,315
+XI Diseases of the digestive system  ,K36,APPENDISITIS YANG TIDAK MEMENUHI SYARAT,0,0,1,36025225,0,0,0,0,0,0,0,0,0,0,1,36025225,316
+XXI Factors influencing health status and contact with health services  ,Z53,ORANG YANG MENGUNJUNGI PELAYANAN KESEHATAN UNTUK TINDAKAN KHUSUS TIDAK DILAKSANAKAN,0,0,1,29342249,0,0,0,0,0,0,0,0,0,0,1,29342249,317
+XI Diseases of the digestive system  ,K64,#N/A,1,673500,0,0,0,0,0,0,0,0,0,0,0,0,1,673500,318
+"XIX Injury, poisoning and certain other consequences of external causes  ",S13,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN PADA LEHER",1,151300,0,0,0,0,0,0,0,0,0,0,0,0,1,151300,319
+VI Diseases of the nervous system  ,G81,HEMIPLEGIA,1,66448.08,0,0,0,0,0,0,0,0,0,0,0,0,1,66448.08,320
+VI Diseases of the nervous system  ,G70,MIASTEMIA GRAVIS DAN GANGGUAN MIONEURAL LAINNYA,1,875380,0,0,0,0,0,0,0,0,0,0,0,0,1,875380,321
+IX Diseases of the circulatory system  ,I80,FLEBITIS DAN TROMBO FLEBITIS,1,170000,0,0,0,0,0,0,0,0,0,0,0,0,1,170000,322
+I Certain infectious and parasitic diseases  ,A60,INFEKSI HERPESVIRAL ANOGENITAL  (HERPES SIMPLEK),1,217725,0,0,0,0,0,0,0,0,0,0,0,0,1,217725,323
+XXII Codes for special purposes  ,U30,#N/A,1,189000,0,0,0,0,0,0,0,0,0,0,0,0,1,189000,324
+"XIX Injury, poisoning and certain other consequences of external causes  ",S59,CEDERA PADA LENGAN BAWAH LAINNYA YANG TIDAK SPESIFIK,1,188050,0,0,0,0,0,0,0,0,0,0,0,0,1,188050,325
+V Mental and behavioural disorders  ,F45,GANGGUAN SIMATOFORM,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,326
+XIII Diseases of the musculoskeletal system and connective tissue  ,M85,OSTEOPOROSIS & CALSIFIKASI TULANG,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,327
+XII Diseases of the skin and subcutaneous tissue  ,L00,SINDROMA KULIT LUKA BAKAR STAFILOKOK,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,328
+I Certain infectious and parasitic diseases  ,B19,"HEPATITIS VIRAL, YANG TIDAK DAPAT DISPESIFIKASI",1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,329
+XIV Diseases of the genitourinary system  ,N64,GANGGUAN PAYUDARA LAINNYA,1,133867,0,0,0,0,0,0,0,0,0,0,0,0,1,133867,330
+XXI Factors influencing health status and contact with health services  ,Z12,PEMERIKSAAN PENYARINGAN KHUSUS UNTUK NEOPLASMA,1,306000,0,0,0,0,0,0,0,0,0,0,0,0,1,306000,331
+II Neoplasms  ,D12,"NEOPLASMA JINAK KOLON, REKTUM, ANUS DAN SALURAN ANAL",0,0,1,31094981,0,0,0,0,0,0,0,0,0,0,1,31094981,332
+X Diseases of the respiratory system  ,J41,BRONKITIS KRONIK SEDERHANA DAN MUKOPURULEN,1,22500,0,0,0,0,0,0,0,0,0,0,0,0,1,22500,333
+"XIX Injury, poisoning and certain other consequences of external causes  ",T03,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN BANYAK BAGIAN DARI TUBUH",1,214930,0,0,0,0,0,0,0,0,0,0,0,0,1,214930,334
+XXI Factors influencing health status and contact with health services  ,Z35,PENGAWASAN KEHAMILAN DENGAN RESIKO TINGGI,1,555698,0,0,0,0,0,0,0,0,0,0,0,0,1,555698,335
+XI Diseases of the digestive system  ,K25,TUKAK LAMBUNG,1,150000,0,0,0,0,0,0,0,0,0,0,0,0,1,150000,336
+XVI Certain conditions originating in the perinatal period  ,P91,GANGGUAN STATUS SEREBRAL LAINNYA PADA BAYI BARU LAHIR,0,0,1,58887090,0,0,0,0,0,0,0,0,0,0,1,58887090,337
+I Certain infectious and parasitic diseases  ,A41,SEPTIKEMIA LAINNYA,0,0,1,3241833,0,0,0,0,0,0,0,0,0,0,1,3241833,338
+"XIX Injury, poisoning and certain other consequences of external causes  ",T63,EFEK TOKSIK KONTAK DENGAN BINATANG BERBISA,1,230353,0,0,0,0,0,0,0,0,0,0,0,0,1,230353,339
+II Neoplasms  ,D18,"HEMANGIOMA DAN LIMFANGIOMA, PADA SEMUA TEMPAT",1,212550,0,0,0,0,0,0,0,0,0,0,0,0,1,212550,340
+XI Diseases of the digestive system  ,K22,PENYAKIT ESOFAGUS LAINNYA,1,55943,0,0,0,0,0,0,0,0,0,0,0,0,1,55943,341
+II Neoplasms  ,C16,NEOPLASMA GANAS LAMBUNG,1,56931,0,0,0,0,0,0,0,0,0,0,0,0,1,56931,342
+XIV Diseases of the genitourinary system  ,N15,PENYAKIT TUBULO-INTERSTISIAL GINJAL LAIN,1,616000,0,0,0,0,0,0,0,0,0,0,0,0,1,616000,343
+"XV Pregnancy, childbirth and the puerperium  ",O86,RADANG NIFAS LAINNYA,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,344
+"XV Pregnancy, childbirth and the puerperium  ",O03,ABORTUS SPONTAN,1,247500,0,0,0,0,0,0,0,0,0,0,0,0,1,247500,345
+XI Diseases of the digestive system  ,K71,PENYAKIT HATI KARENA KERACUNAN,1,684000,0,0,0,0,0,0,0,0,0,0,0,0,1,684000,346
+XIV Diseases of the genitourinary system  ,N48,GANGGUAN PENIS LAINNYA,1,83000,0,0,0,0,0,0,0,0,0,0,0,0,1,83000,347
+XI Diseases of the digestive system  , K0,#N/A,1,71000,0,0,0,0,0,0,0,0,0,0,0,0,1,71000,348
+"XIX Injury, poisoning and certain other consequences of external causes  ",T20,LUKA BAKAR DAN KOROSI PADA KEPALA DAN LEHER,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,349
+"XV Pregnancy, childbirth and the puerperium  ",O67,"KELAINAN DENGAN PENYULIT PERDARAHAN INTRAPARTUM, YANG TIDAK DIKLASIFIKASIKAN DITEMPAT LAIN",0,0,1,1532896,0,0,0,0,0,0,0,0,0,0,1,1532896,350
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D89,"PENYAKIT YANG MENYANGKUT MEKANISME IMUN LAINNYA, YANG TIDAK DAPAT DIKLASIFIKASIKAN DI TEMPAT LAIN",1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,351
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R23,PERUBAHAN KULIT LAINNYA,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,352
+VII Diseases of the eye and adnexa  ,H15,GANGGUAN SKLERA,1,214361,0,0,0,0,0,0,0,0,0,0,0,0,1,214361,353
+XI Diseases of the digestive system  ,K28,TUKAK GASTROYEYUNAL,1,671375,0,0,0,0,0,0,0,0,0,0,0,0,1,671375,354
+IX Diseases of the circulatory system  ,I30,PERIKARDITIS AKUT,1,146250,0,0,0,0,0,0,0,0,0,0,0,0,1,146250,355
+XIV Diseases of the genitourinary system  ,N61,RADANG PAYUDARA AKUT,1,195000,0,0,0,0,0,0,0,0,0,0,0,0,1,195000,356
+IX Diseases of the circulatory system  ,I60,PERDARAHAN SUBARAHNOID,1,764528,0,0,0,0,0,0,0,0,0,0,0,0,1,764528,357
+I Certain infectious and parasitic diseases  ,A35,TETANUS LAINNYA,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,358
+XIII Diseases of the musculoskeletal system and connective tissue  ,M64,#N/A,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,359
+XVI Certain conditions originating in the perinatal period  ,P22,GAWAT (DISTRES) NAFAS BAYI BARU LAHIR,0,0,1,30892863,0,0,0,0,0,0,0,0,0,0,1,30892863,360
+VI Diseases of the nervous system  ,G35,SKLEROSIS MULTIPEL,1,50000,0,0,0,0,0,0,0,0,0,0,0,0,1,50000,361
+XX External causes of morbidity and mortality  ,V29,MOTORCYCLE RIDER INJURED IN OTHER AND UNSPECIFIED TRANSPORT ACCIDENTS,1,85000,0,0,0,0,0,0,0,0,0,0,0,0,1,85000,362
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R55,SINKOP DAN KOLAP,1,170000,0,0,0,0,0,0,0,0,0,0,0,0,1,170000,363
+XIV Diseases of the genitourinary system  ,N72,RADANG SERVIKS,1,252356,0,0,0,0,0,0,0,0,0,0,0,0,1,252356,364
+XII Diseases of the skin and subcutaneous tissue  ,L80,VITILIGO,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,365
+XIII Diseases of the musculoskeletal system and connective tissue  ,M86,OSTEOMYELITIS,1,100512,0,0,0,0,0,0,0,0,0,0,0,0,1,100512,366
+"XV Pregnancy, childbirth and the puerperium  ",O84,PERSALINAN GANDA,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,367
+"XV Pregnancy, childbirth and the puerperium  ",O72,PERDARAHAN POSPARTUM,1,60000,0,0,0,0,0,0,0,0,0,0,0,0,1,60000,368
+"XV Pregnancy, childbirth and the puerperium  ",O83,PERSALINAN TUNGGAL LAINNYA DENGAN BANTUAN,1,60000,0,0,0,0,0,0,0,0,0,0,0,0,1,60000,369
+"XIX Injury, poisoning and certain other consequences of external causes  ",S17,CEDERA HANCUR PADA LEHER,1,62000,0,0,0,0,0,0,0,0,0,0,0,0,1,62000,370
+VII Diseases of the eye and adnexa  ,H02,OTHER DISORDERS OF EYELID,1,97000,0,0,0,0,0,0,0,0,0,0,0,0,1,97000,371
+VII Diseases of the eye and adnexa  ,H03,"GANGGUAN KELOPAK MATA, YANG DIKLASIFIKASIKAN DITEMPAT LAIN",1,116000,0,0,0,0,0,0,0,0,0,0,0,0,1,116000,372
+I Certain infectious and parasitic diseases  ,A06,AMUBIASIS,0,0,1,2694605,0,0,0,0,0,0,0,0,0,0,1,2694605,373
+"XV Pregnancy, childbirth and the puerperium  ",O71,TRAUMA OBSTETRIK LAINNYA,1,85000,0,0,0,0,0,0,0,0,0,0,0,0,1,85000,374
+I Certain infectious and parasitic diseases  ,A00,KOLERA,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,375
+I Certain infectious and parasitic diseases  ,B85,PEDIKULOSIS DAN PHATHIRIOSIS,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,376
+"XIX Injury, poisoning and certain other consequences of external causes  ",T59,"EFEK TOKSIK GAS, UAP DAN ASAP",1,140000,0,0,0,0,0,0,0,0,0,0,0,0,1,140000,377
+XXI Factors influencing health status and contact with health services  ,Z22,PEMBAWA PENYAKIT INFEKSI,1,84900,0,0,0,0,0,0,0,0,0,0,0,0,1,84900,378
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",RO4,#N/A,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,379
+II Neoplasms  ,D22,NEVUS MELANOSITIK,1,147273,0,0,0,0,0,0,0,0,0,0,0,0,1,147273,380
+X Diseases of the respiratory system  ,J65,PNEUMOKONIOSIS YANG BERHUBUNGAN DENGAN TUBERKULOSIS,1,100000,0,0,0,0,0,0,0,0,0,0,0,0,1,100000,381
+XI Diseases of the digestive system  ,K26,TUKAK DUODENUM,1,984570,0,0,0,0,0,0,0,0,0,0,0,0,1,984570,382
+VIII Diseases of the ear and mastoid process  ,H62,GANGGUAN TELINGA LUAR YANG DIKLASIFIKASIKAN DI TEMPAT LAIN,1,85000,0,0,0,0,0,0,0,0,0,0,0,0,1,85000,383
+XIV Diseases of the genitourinary system  ,N13,UROPATI OBSTRUKTIF ATAU REFLUKS,1,201000,0,0,0,0,0,0,0,0,0,0,0,0,1,201000,384
+IX Diseases of the circulatory system  ,I24,PENYAKIT JANTUNG ISKEMIK LAINNYA,1,65250,0,0,0,0,0,0,0,0,0,0,0,0,1,65250,385
+X Diseases of the respiratory system  ,J98,GANGGUAN PERNAPASAN LAINNYA,1,450601,0,0,0,0,0,0,0,0,0,0,0,0,1,450601,386
+"XIX Injury, poisoning and certain other consequences of external causes  ",S89,CEDERA PADA TUNGKAI BAWAH LAINNYA YANG TIDAK SPESIFIK,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,387
+I Certain infectious and parasitic diseases  ,A34,TETANUS KANDUNGAN,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,388
+X Diseases of the respiratory system  ,J80,SINDROME GAWAT NAPAS DEWASA,0,0,1,31924654,0,0,0,0,0,0,0,0,0,0,1,31924654,389
+X Diseases of the respiratory system  ,J68,"KONDISI PERNAPASAN AKIBAT INHALASI ZAT KIMIA, GAS, ASAP DAN UAP",1,100000,0,0,0,0,0,0,0,0,0,0,0,0,1,100000,390
+XIII Diseases of the musculoskeletal system and connective tissue  ,M53,"DORSOPATHI YANG LAIN,  NOT ELSEWHERE CLASSIFIED",1,434359.1,0,0,0,0,0,0,0,0,0,0,0,0,1,434359.1,391
+"XIX Injury, poisoning and certain other consequences of external causes  ",T18,BENDA ASING DALAM SISTEM PENCERNAAN,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,392
+XII Diseases of the skin and subcutaneous tissue  ,L05,KISTE PILONIDAL,1,87000,0,0,0,0,0,0,0,0,0,0,0,0,1,87000,393
+XIV Diseases of the genitourinary system  ,N04,SINDROM NEFROTIK,1,387350,0,0,0,0,0,0,0,0,0,0,0,0,1,387350,394
+VI Diseases of the nervous system  ,G47,GANGGUAN TIDUR,1,2067590,0,0,0,0,0,0,0,0,0,0,0,0,1,2067590,395
+I Certain infectious and parasitic diseases  ,B09,TIDAK DIRINCI INFEKSI VIRUS DITANDAI DENGAN LESI KULIT DAN SELAPUT LENDIR,1,396770.72,0,0,0,0,0,0,0,0,0,0,0,0,1,396770.72,396
+XIV Diseases of the genitourinary system  ,N41,RADANG PROSTAT,1,438000,0,0,0,0,0,0,0,0,0,0,0,0,1,438000,397
+II Neoplasms  ,C02,NEOPLASMA GANAS BAGIAN  LIDAH LAINNYA DAN PADA TEMPAT YANG TIDAK DIKETAHUI,1,50030,0,0,0,0,0,0,0,0,0,0,0,0,1,50030,398
+IX Diseases of the circulatory system  ,I46,HENTI JANTUNG,0,0,1,46501300,0,0,0,0,0,0,0,0,0,0,1,46501300,399
+VIII Diseases of the ear and mastoid process  ,H90,TULI KONDUKTIF DAN SENSORINEURAL,1,295800,0,0,0,0,0,0,0,0,0,0,0,0,1,295800,400
+XIII Diseases of the musculoskeletal system and connective tissue  ,M05,ARTHRITIS RHEMATOID SEROPOSITIF,1,150000,0,0,0,0,0,0,0,0,0,0,0,0,1,150000,401
+"XIX Injury, poisoning and certain other consequences of external causes  ",S03,"DISLOKASI, TERKILIR SENDI DAN LIGAMEN PADA KEPALA",1,804000,0,0,0,0,0,0,0,0,0,0,0,0,1,804000,402
+I Certain infectious and parasitic diseases  ,A69,OTHER SPIROCHAETAL INFECTIONS,1,707043,0,0,0,0,0,0,0,0,0,0,0,0,1,707043,403
+XII Diseases of the skin and subcutaneous tissue  ,L57,PERUBAHAN KULIT KARENA TERDEDAH KRONIS RADIASI NONIOS,1,153000,0,0,0,0,0,0,0,0,0,0,0,0,1,153000,404
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R09,GEJALA DAN TANDA LAINNYA YANG MELIBATKAN SISTEM NAPAS DAN PEREDARAN DARAH,1,947093.05,0,0,0,0,0,0,0,0,0,0,0,0,1,947093.05,405
+I Certain infectious and parasitic diseases  ,B90,GEJALA SISA TUBERKOLOSIS,1,555385,0,0,0,0,0,0,0,0,0,0,0,0,1,555385,406
+XIV Diseases of the genitourinary system  ,N17,GAGAL GINJAL AKUT,1,679488,0,0,0,0,0,0,0,0,0,0,0,0,1,679488,407
+I Certain infectious and parasitic diseases  ,A80,POLIOMIELITIS AKUT,1,1218000,0,0,0,0,0,0,0,0,0,0,0,0,1,1218000,408
+XIII Diseases of the musculoskeletal system and connective tissue  ,M16,COXARTHROSIS (ARTHROSIS PADA PINGGUL),1,488000,0,0,0,0,0,0,0,0,0,0,0,0,1,488000,409
+XI Diseases of the digestive system  ,K13,PENYAKIT BIBIR DAN MUKOSA MULUT,1,1343422.8,0,0,0,0,0,0,0,0,0,0,0,0,1,1343422.8,410
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D69,PURPURA DAN PENYAKIT HEMORAGIK LAINNYA,0,0,1,4974200,0,0,0,0,0,0,0,0,0,0,1,4974200,411
+II Neoplasms  ,C61,NEOPLASMA GANAS PROSTAT,1,796800,0,0,0,0,0,0,0,0,0,0,0,0,1,796800,412
+XI Diseases of the digestive system  ,K40,HERNIA INGUINAL,1,1024422,0,0,0,0,0,0,0,0,0,0,0,0,1,1024422,413
+IX Diseases of the circulatory system  ,I86,VARISES VENA DITEMPAT LAINNYA,1,723600,0,0,0,0,0,0,0,0,0,0,0,0,1,723600,414
+XII Diseases of the skin and subcutaneous tissue  ,L11,GANGGUAN AKAN METABOLIKTIK LAINNYA,1,153000,0,0,0,0,0,0,0,0,0,0,0,0,1,153000,415
+V Mental and behavioural disorders  ,F80,GANGGUAN PERKEMBANGAN KHAS BERBICARA DAN BERBAHASA,1,151760,0,0,0,0,0,0,0,0,0,0,0,0,1,151760,416
+I Certain infectious and parasitic diseases  ,A38,DEMAM SKARLET,1,30000,0,0,0,0,0,0,0,0,0,0,0,0,1,30000,417
+VI Diseases of the nervous system  ,G80,CEREBRAL PALSI INFANTIL,1,139500,0,0,0,0,0,0,0,0,0,0,0,0,1,139500,418
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,D51,ANEMIA DEFISIENSI VITAMIN B-12,1,202700,0,0,0,0,0,0,0,0,0,0,0,0,1,202700,419
+XI Diseases of the digestive system  ,K27,TUKAK PEPTIK TAK DITENTUKAN TEMPATNYA,1,123974,0,0,0,0,0,0,0,0,0,0,0,0,1,123974,420
+II Neoplasms  ,C56,NEOPLASMA GANAS OVARIUM,1,195000,0,0,0,0,0,0,0,0,0,0,0,0,1,195000,421
+II Neoplasms  ,C38,"NEOPLASMA GANAS JANTUNG,  MEDISTINUM DAN PLEURA",1,124245,0,0,0,0,0,0,0,0,0,0,0,0,1,124245,422
+"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",R52,NYERI YANG TIDAK DIKLASIFIKASIKAN DITEMPAT LAIN,0,0,1,1731675,0,0,0,0,0,0,0,0,0,0,1,1731675,423
+"IV Endocrine, nutritional and metabolic diseases  ",E87,"GANGGUAN CAIRAN, ELEKTROLIT DAN KESEIMBANGAN BASA LAINNYA",1,1332000,0,0,0,0,0,0,0,0,0,0,0,0,1,1332000,424
+I Certain infectious and parasitic diseases  ,B15,HEPATITIS A AKUT,1,512000,0,0,0,0,0,0,0,0,0,0,0,0,1,512000,425
+...,TOTAL,,11800,3311323718,260,2185909408,0,0,2685,845571841.7,610,1186792659,333,485515000,0,0,15688,8015112626,426
