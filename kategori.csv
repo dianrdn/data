@@ -1,23 +1,23 @@
-Kategori,KUNJUNGAN_RAWAT_JALAN,BIAYA_RAWAT_JALAN,KUNJUNGAN_RAWAT_INAP,BIAYA_RAWAT_INAP,KUNJUNGAN_KHUSUS,BIAYA_KHUSUS,KUNJUNGAN_RAWAT_GIGI,BIAYA_RAWAT_GIGI,KUNJUNGAN_PERSALINAN,BIAYA_PERSALINAN,KUNJUNGAN_ALAT_REHABILITASI,BIAYA_ALAT_REHABILITASI,KUNJUNGAN_TAMBAHAN,BIAYA_TAMBAHAN,KUNJUNGAN_TOTAL,BIAYA_TOTAL
-I Certain infectious and parasitic diseases  ,940,306754136.4,84,526703369,0,0,0,0,2,1408440,0,0,0,0,1026,834865945.5
-II Neoplasms  ,91,23054810.55,8,179672247,0,0,0,0,0,0,0,0,0,0,99,202727057.6
-III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,33,25531841.2,1,4974200,0,0,0,0,0,0,0,0,0,0,34,30506041.2
-"IV Endocrine, nutritional and metabolic diseases  ",457,246670320.6,2,21612742,0,0,0,0,0,0,0,0,0,0,459,268283062.6
-V Mental and behavioural disorders  ,2,201760,0,0,0,0,0,0,0,0,0,0,0,0,2,201760
-VI Diseases of the nervous system  ,87,26939620.58,0,0,0,0,0,0,0,0,0,0,0,0,87,26939620.58
-VII Diseases of the eye and adnexa  ,569,112957056.8,1,7679050,0,0,0,0,0,0,330,484315000,0,0,900,604951106.8
-VIII Diseases of the ear and mastoid process  ,220,65219370.93,3,43496706,0,0,0,0,0,0,0,0,0,0,223,108716076.9
-IX Diseases of the circulatory system  ,344,152128611.1,6,89080825,0,0,0,0,0,0,0,0,0,0,350,241209436.1
-X Diseases of the respiratory system  ,5097,1152808834,42,324756258,0,0,0,0,0,0,0,0,0,0,5139,1477565092
-XI Diseases of the digestive system  ,501,165599000.9,28,210893973,0,0,2684,845451041.7,0,0,3,1200000,0,0,3216,1223144016
-XII Diseases of the skin and subcutaneous tissue  ,519,129145627.8,2,12716777,0,0,0,0,0,0,0,0,0,0,521,141862404.8
-XIII Diseases of the musculoskeletal system and connective tissue  ,706,208523428.3,10,94747724,0,0,1,120800,0,0,0,0,0,0,717,303391952.3
-XIV Diseases of the genitourinary system  ,188,60974230.73,8,83584298,0,0,0,0,0,0,0,0,0,0,196,144558528.7
-"XV Pregnancy, childbirth and the puerperium  ",32,93409870,15,139361315,0,0,0,0,51,941045112,0,0,0,0,98,1173816297
-XVI Certain conditions originating in the perinatal period  ,20,8300326,19,201252409,0,0,0,0,0,0,0,0,0,0,39,209552735
-"XVII Congenital malformations, deformations and chromosomal abnormalities  ",3,2275200,0,0,0,0,0,0,0,0,0,0,0,0,3,2275200
-"XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",851,239426042.5,20,90019358,0,0,0,0,0,0,0,0,0,0,871,329445400.5
-"XIX Injury, poisoning and certain other consequences of external causes  ",172,70376479.94,6,111231197,0,0,0,0,0,0,0,0,0,0,178,181607676.9
-XX External causes of morbidity and mortality  ,4,253374,0,0,0,0,0,0,0,0,0,0,0,0,4,253374
-XXI Factors influencing health status and contact with health services  ,959,220584774.4,2,30516949,0,0,0,0,557,244339106.6,0,0,0,0,1518,495440830
-XXII Codes for special purposes  ,1,189000,0,0,0,0,0,0,0,0,0,0,0,0,1,189000
+ï»¿Kategori,KUNJUNGAN_RAWAT_JALAN,BIAYA_RAWAT_JALAN,KUNJUNGAN_RAWAT_INAP,BIAYA_RAWAT_INAP,KUNJUNGAN_KHUSUS,BIAYA_KHUSUS,KUNJUNGAN_RAWAT_GIGI,BIAYA_RAWAT_GIGI,KUNJUNGAN_PERSALINAN,BIAYA_PERSALINAN,KUNJUNGAN_ALAT_REHABILITASI,BIAYA_ALAT_REHABILITASI,KUNJUNGAN_TAMBAHAN,BIAYA_TAMBAHAN,KUNJUNGAN_TOTAL,BIAYA_TOTAL
+IÂ Certain infectious and parasitic diseasesÂ Â ,940,306754136.4,84,526703369,0,0,0,0,2,1408440,0,0,0,0,1026,834865945.5
+IIÂ NeoplasmsÂ Â ,91,23054810.55,8,179672247,0,0,0,0,0,0,0,0,0,0,99,202727057.6
+IIIÂ Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanismÂ Â ,33,25531841.2,1,4974200,0,0,0,0,0,0,0,0,0,0,34,30506041.2
+"IVÂ Endocrine, nutritional and metabolic diseasesÂ Â ",457,246670320.6,2,21612742,0,0,0,0,0,0,0,0,0,0,459,268283062.6
+VÂ Mental and behavioural disordersÂ Â ,2,201760,0,0,0,0,0,0,0,0,0,0,0,0,2,201760
+VIÂ Diseases of the nervous systemÂ Â ,87,26939620.58,0,0,0,0,0,0,0,0,0,0,0,0,87,26939620.58
+VIIÂ Diseases of the eye and adnexaÂ Â ,569,112957056.8,1,7679050,0,0,0,0,0,0,330,484315000,0,0,900,604951106.8
+VIIIÂ Diseases of the ear and mastoid processÂ Â ,220,65219370.93,3,43496706,0,0,0,0,0,0,0,0,0,0,223,108716076.9
+IXÂ Diseases of the circulatory systemÂ Â ,344,152128611.1,6,89080825,0,0,0,0,0,0,0,0,0,0,350,241209436.1
+XÂ Diseases of the respiratory systemÂ Â ,5097,1152808834,42,324756258,0,0,0,0,0,0,0,0,0,0,5139,1477565092
+XIÂ Diseases of the digestive systemÂ Â ,501,165599000.9,28,210893973,0,0,2684,845451041.7,0,0,3,1200000,0,0,3216,1223144016
+XIIÂ Diseases of the skin and subcutaneous tissueÂ Â ,519,129145627.8,2,12716777,0,0,0,0,0,0,0,0,0,0,521,141862404.8
+XIIIÂ Diseases of the musculoskeletal system and connective tissueÂ Â ,706,208523428.3,10,94747724,0,0,1,120800,0,0,0,0,0,0,717,303391952.3
+XIVÂ Diseases of the genitourinary systemÂ Â ,188,60974230.73,8,83584298,0,0,0,0,0,0,0,0,0,0,196,144558528.7
+"XVÂ Pregnancy, childbirth and the puerperiumÂ Â ",32,93409870,15,139361315,0,0,0,0,51,941045112,0,0,0,0,98,1173816297
+XVIÂ Certain conditions originating in the perinatal periodÂ Â ,20,8300326,19,201252409,0,0,0,0,0,0,0,0,0,0,39,209552735
+"XVIIÂ Congenital malformations, deformations and chromosomal abnormalitiesÂ Â ",3,2275200,0,0,0,0,0,0,0,0,0,0,0,0,3,2275200
+"XVIIIÂ Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classifiedÂ Â ",851,239426042.5,20,90019358,0,0,0,0,0,0,0,0,0,0,871,329445400.5
+"XIXÂ Injury, poisoning and certain other consequences of external causesÂ Â ",172,70376479.94,6,111231197,0,0,0,0,0,0,0,0,0,0,178,181607676.9
+XXÂ External causes of morbidity and mortalityÂ Â ,4,253374,0,0,0,0,0,0,0,0,0,0,0,0,4,253374
+XXIÂ Factors influencing health status and contact with health servicesÂ Â ,959,220584774.4,2,30516949,0,0,0,0,557,244339106.6,0,0,0,0,1518,495440830
+XXIIÂ Codes for special purposesÂ Â ,1,189000,0,0,0,0,0,0,0,0,0,0,0,0,1,189000
